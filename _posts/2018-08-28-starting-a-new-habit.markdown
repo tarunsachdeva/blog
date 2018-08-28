@@ -4,11 +4,11 @@ title:  "Starting a Writing Habit"
 date:   2018-08-28 00:30:00 -0500
 categories: general
 ---
-I'm starting a blog. 
+I'm starting a blog.
 
 The primary purpose will be to develop a regular writing habit. I'll start by using writing as a means to clarify my understanding of certain topics, explore an area of interest, or share something I've found repeatedly useful.  As such, this is primarily self serving. 
 
-I'll draw from professional experiences (building products and teams in tech for over 15 years) and personal (growing up having lived around the world). I'll explore topics I'm interested in: the promise & peril of a world being eaten by software, developing strong mental models, systems thinking, design and craft, personal productivity, and being a new parent. 
+I'll draw from the experience of building products and teams in tech for over 15 years, as well as personal experiences having lived around the world growing up, and immigrating to Canada. I'll explore topics I'm interested in: the promise & peril of a world being eaten by software, developing strong mental models, systems thinking, design and craft, personal productivity, and being a new parent. 
 
 So yeah, basically a lot of random shit to start off.
 
