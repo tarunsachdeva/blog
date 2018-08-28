@@ -8,7 +8,7 @@ This blog is completely [open source](https://github.com/tarunsachdeva/blog/). I
 
 Why?
 
-- Github let’s me track changes in an [extremely detailed](https://github.com/tarunsachdeva/blog/commits/gh-pages) way. All my edits are available for anyone to see, which creates a strange sense of vulnerability and accountability. All my It also allows people to submit pull requests although I don’t imagine I’ll be using that much.
+- Github let’s me track changes in an [extremely detailed](https://github.com/tarunsachdeva/blog/commits/gh-pages) way. All my edits are available for anyone to see, which creates a strange sense of vulnerability and accountability. It also allows people to submit pull requests although I don’t imagine that's going to happen much.
 - Hosting it myself allows a lot of control, with minimal overhead because it is a static site (there is no database). Jekyll has great integration with Github and an active community to help with any issues.
 
 Everything here is boilerplate Jekyll except the theme and the fact it lives in a subdirectory (thanks to [this article](http://shahrajat.com/2016-06-22-install-jekyll-subdirectory-blog-github-pages/)). 
