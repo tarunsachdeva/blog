@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mental Models for Developing a Leadership Practice"
-date:   2018-08-28 12:00:00 -0500
+date:   2018-08-30 12:00:00 -0500
 categories: frameworks
 ---
 There is no shortage of leadership advice in books and articles across the internet (this isn't one of them) - it is about a framework for **learning**. The goal is to provide a structured latticework that can help pick up new skills in the domain of leadership, like tools in a tool box. This approach to learning is similar to that of mental models. 
@@ -20,4 +20,4 @@ Breaking this down further, the domains of responsibility of a leader are:
 
 This is a system in which these domains are highly connected to each other, and they interact with the adjacent ones. Individual impact teams, teams impact products, etc. 
 
-In further posts, i'll expand on each domain. I will also stress test this framework through my personal experience and practice, as well as through examining how battle-tested leadership practices can be added into this approach. I’m looking forward to seeing when and how this breaks. 
+In further posts, I'll expand on each domain. I will also stress test this framework through my personal experience and practice, as well as through examining how battle-tested leadership practices can be added into this approach. I’m looking forward to seeing when and how this breaks. 

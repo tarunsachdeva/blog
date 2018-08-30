@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting a Writing Habit"
-date:   2018-08-27 00:30:00 -0500
+date:   2018-08-28 12:00:00 -0500
 categories: general
 ---
 I'm starting a blog.
