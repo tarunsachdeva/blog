@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blogging on Github Pages"
-date:   2018-08-29 12:00:00 -0500
+date:   2018-08-27 12:00:00 -0500
 categories: code
 ---
 This blog is completely [open source](https://github.com/tarunsachdeva/blog/). It is based on the [Jekyll](https://jekyllrb.com/) library, which helps people create static sites, and is hosted on [Github Pages](https://pages.github.com/). 
