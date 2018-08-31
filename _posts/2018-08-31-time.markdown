@@ -11,7 +11,7 @@ Since you cannot manage what you don't measure - I have started tracking where I
 
 The tracking itself is simple and done in a Google spreadsheet. I chose to do this in a spreadsheet vs. a calendar or tracking app because it allows for greater flexibility in analysis. Inputting is pretty simple on a computer - a bit clunky on your phone but still works well. Each row represents a 30 minute block, and each column is a day. Each increment is assigned a category: family time, sleep, work, chores, etc. I try to be as detailed as possible, and also have included daily to do's in this spreadsheet.  
 
-This sounds intense but since it only takes a few seconds to update I’ve found it quite manageable - infact, it's strangely addictive. I've been doing this now for 2 weeks, and I love it.
+This sounds intense but since it only takes a few seconds to update and I’ve found it quite manageable - infact, it's strangely addictive. I've been doing this for 2 weeks, so still a long ways to go before it becomes an engrained habit.
 
 It has already helped me become more deeply curious about myself and improved a pattern of daily and weekly reflection.  Since my todo's are also in the spreadsheet, I'm able to track how much I committed to vs. what I completed, and other interesting trends in productivity.  
 
