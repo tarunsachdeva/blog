@@ -2,7 +2,7 @@
 layout: post
 title:  "Mental Models for Developing a Leadership Practice"
 date:   2018-08-29 12:00:00 -0500
-categories: frameworks
+categories: leadership
 ---
 There is no shortage of leadership advice in books and articles across the internet (this isn't one of them). This post is about a framework for **learning**. The goal is to provide a structured latticework that can help pick up new skills in the domain of leadership, like tools in a tool box. This approach to learning is similar to that of mental models. 
 
