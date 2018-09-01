@@ -12,7 +12,7 @@ It’s been transformative in that it’s helped me change how I learn, improve 
 A mental model is a simplified representation of the world around us. It can come in the form of an assumption, generalization or even an image. We use models to understand the world around us, and our models directly influence our actions. 
 
 Here's why I've found them valuable:
-* Learning through mental models is easier and more practical than learning through fact. Learning a new model is like getting a new tool in a toolbox that can be easily used in different situations. 
+* Learning with the intention of "collecting mental models" is easier and more practical than learning through fact. Learning a new model is like getting a new tool in a toolbox that can be easily used in different situations. 
 * It provides a more complete picture of the world. People from different disciplines and backgrounds provide ways of looking at the world that helps us better understand each other and make better decisions for everyone. 
 * We act implicitly through mental models, so understanding how others use mental models is critical to building relationships.
 
