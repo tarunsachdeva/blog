@@ -194,8 +194,12 @@
 
   > li {
     margin-bottom: $spacing-unit;
+    > h3 {
+      display: inline-block;
+    }
   }
 }
+
 
 .post-meta {
   font-size: $small-font-size;
@@ -203,7 +207,7 @@
 }
 
 .post-link {
-  display: block;
+  display: inline-block;
   @include relative-font-size(1.5);
 }
 
