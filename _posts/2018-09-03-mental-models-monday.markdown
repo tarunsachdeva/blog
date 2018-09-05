@@ -2,10 +2,10 @@
 layout: post
 title:  "Mental Models Monday"
 date:   2018-09-03 12:00:00 -0500
-categories: general
+categories: mentalmodels
 ---
 
-In this first Mental Models Monday, I thought I'd start at the basics - the definitions and motivation of a mental model. 
+In this first **Mental Models Monday (MMM)**, I thought I'd start at the basics - the definitions and motivation of a mental model. 
 
 A mental model is a simplified representation of the world around us. It can come in the form of an assumption, generalization or even an image. We use models to understand the world around us, and our models directly influence our actions. 
 

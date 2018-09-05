@@ -2,7 +2,7 @@
 layout: post
 title:  "Self Curiosity"
 date:   2018-09-02 12:00:00 -0500
-categories: general
+categories: productivity
 ---
 
 I’ve approached many self improvement challenges recently by starting with a practice of self curiosity before taking action or making a major decision on what to improve.
