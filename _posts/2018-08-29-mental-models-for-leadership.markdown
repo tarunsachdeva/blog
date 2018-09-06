@@ -14,7 +14,7 @@ Breaking this down further, the domains of responsibility of a leader are:
 
 - Individuals: The domain of the people, and is concerned with management at an individual level.
 - Teams: The domain of how people organize and effectively work together.
-- Products: The domain of what people get together to create. The word "product" is used to describe any offering - which could include a service.
+- Products: The domain of what people get together to create. These work "products" are used to describe any offering - which could include an actual product or a service (to an internal or external stakeholder).
 - Markets: The domain of the customers, and is concerned with how products are adopted in market.
 - Society: The domain of society, which is concerned with the broader impacts of a product in market.
 
