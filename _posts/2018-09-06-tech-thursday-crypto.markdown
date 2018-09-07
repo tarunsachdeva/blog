@@ -3,14 +3,16 @@ layout: post
 title:  "Tech Thursday: Web 3.0"
 date:   2018-09-05 12:00:00 -0500
 categories: technology
-draft: true
+draft: false
 ---
 
-Through **Tech Thursday**, the perspectives about technology I'll be exploring are pretty varied:
+Through **Tech Thursday**, I'll be exploring a few perspectives:
 * Large sea changes in technology - how existing platforms are evolving, and which parts of our world are going to be eaten by software next.
 * The second order effects of technology changes, large and small, from a social and cultural lens
 * Ideas and opportunities - problems that I think need to be solved and products I wish existed
-* Personal projects - software I've [poorly] written for my own needs
+* Personal projects - sharing code and whatever else about software I've hacked together for my own needs
+
+
 
 Resources:
 https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e
