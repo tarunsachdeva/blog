@@ -12,7 +12,7 @@ So, here’s a tentative list of the theme days. Hopefully this reduces the burd
 * Mental Model Mondays, to write about specific models and frameworks that I've found repeatedly useful. 
 * Productivity Tuesdays, in which I’ll discuss topics centered around the theme of personal betterment and productivity.
 * Leadership Wednesday, where I’ll write about topics related to management. I'll likely use the same [latticework](http://tarunsachdeva.com/blog/frameworks/2018/08/29/mental-models-for-leadership.html) to structure topics here. 
-* Tech Thursday, in which I’ll write about topics around the building software and my perspectives on how technology is changing our society.
+* Code Thursday, in which I’ll write about topics around developments in the software industry and it's impact on society.
 * Finance Friday, where I'll write about all things related to building financial literacy and investing - an area of personal interest.
 
 On the weekends, I’ll leave it open to other topics. This might be too much structure already but I'm looking forward to reducing some burden of choice, and just write. I’m not sure. Let’s see.

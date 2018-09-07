@@ -7,9 +7,9 @@ categories: productivity
 
 I’ve had a number of conversations recently about time. I'm 37 now, a new parent, and have become acutely sensitive about this scarcest of resources. All the clichés about time are becoming central mantras to live by: we all get a finite amount of it, there is no earning it back, we have to be careful how we spend it, etc.
 
-Since you cannot manage what you don't measure - I have started tracking where I'm spending time - in 30 minute increments. Because I'm actively updating it, it is a more empirical view of my time than I've ever had before, and is pretty enlightening.
+Since you cannot manage what you don't measure - I have started an experiment to start tracking where I'm spending time - in 30 minute increments. Because I'm actively updating it, it is a more empirical view of my time than I've ever had before, and is pretty enlightening.
 
-The tracking itself is simple and done in a Google spreadsheet. I chose to do this in a spreadsheet vs. a calendar or tracking app because it allows for greater flexibility in analysis. Inputting is pretty simple on a computer - a bit clunky on your phone but still works well. Each row represents a 30 minute block, and each column is a day. Each increment is assigned a category: family time, sleep, work, chores, etc. I try to be as detailed as possible, and also have included daily to do's in this spreadsheet.  
+The tracking itself is simple and done in a Google spreadsheet, and is really easy to update through the Sheets mobile app. I chose to do this in a spreadsheet vs. a calendar or tracking app because it allows for more control in inputs and greater flexibility in analysis. Each row represents a 30 minute block, and each column is a day. Each increment is assigned a category: family time, sleep, work, chores, etc. I try to be as detailed as possible, and also have included daily to do's in this spreadsheet.  
 
 This sounds intense but since it only takes a few seconds to update and I’ve found it quite manageable - infact, it's strangely addictive. I've been doing this for 2 weeks, so still a long ways to go before it becomes an engrained habit.
 
