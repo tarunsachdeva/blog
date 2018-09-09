@@ -16,11 +16,11 @@ Habits are defined as routines of behaviour that *repeat regularly* and *tend to
 Habits can be an extremely powerful framework to achieve our desired outcomes, and have a number of  benefits over the traditional goal-oriented thinking in the context of daily productivity:
 
 - To apply [good goalsetting practice](https://en.wikipedia.org/wiki/SMART_criteria) in everyday life can be a very cumbersome exercise. In particular, it's hard to tell if something is achievable over a long period of time due to inherent uncertainties in life.
-- Habits are easier and show progress quickly. Streaks of progress release endorphins that keep you going. Instead of trying to publish a novel, simply writing _something_ [every day](http://tarunsachdeva.com/blog/general/2018/08/27/starting-a-new-habit.html), is much less daunting and requires less continual willpower.
+- Habits are easier and show progress quickly. Streaks of progress release endorphins that keep you going. Instead of trying to publish a novel, simply writing _something_ [every day]({{ site.baseurl }}{% post_url 2018-08-27-starting-a-new-habit %}), is much less daunting and requires less continual willpower.
 
 That said, habits aren't for everything. I have recently moved to augmenting my daily routine with a combination of a discrete goal-based and habit based framework. The habit based framework is extremely simple - within a given time period (weeks/months), I define habits to either create, improve, or remove. I've only experimented with habits that recur daily. These include - reading, writing something, coding. For the last few weeks, I've been able to maintain a daily habit of all 3. In the next few weeks, I'll attempt to rebuild a workout habit with this framework.
 
-I've also started [tracking](http://tarunsachdeva.com/blog/productivity/2018/08/30/time.html) these habits.
+I've also started [tracking]({{ site.baseurl }}{% post_url 2018-08-30-time %}) these habits.
 
 A recommendation - the first habit to setup is a cycle of regular planning and self reflection. Regular planning at the beginning of, and retrospective at the end of every day/week/month is your personal knowledge and learning loop. It defines the cadence of improving and adjusting your other habits. 
 
