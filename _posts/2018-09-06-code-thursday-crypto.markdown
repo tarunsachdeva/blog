@@ -8,7 +8,7 @@ draft: false
 
 In the first few **Code Thursday's** I will be exploring the impacts of the blockchain - the invention at the foundation of the largest sea change in technology since the internet itself.
 
-While most of the news cycle about blockchain centers around cryptocurrencies, the more interesting application of the blockchain is not _just_ in the future of money, but also the future of the how the internet works. 
+While most of the news cycle about blockchain centers around cryptocurrencies, the more interesting application of the blockchain is not _just_ in the future of money, but also the future of the how the internet works. There is a fantastic article about this by Erik Torenberg titled [Money Crypto vs Tech Crypto](https://www.atrium.co/blog/money-tech-crypto/). 
 
 This paradigm shift has been dubbed **Web 3**. This post is intended to dive deeper into some fundamental concepts that can help us understand Web 3.
 
@@ -22,6 +22,6 @@ When I started writing this post, I intended to write about all the concepts in 
 
 * Trust and Consensus - I'll examine the concepts of how blockchains enable market consensus, the incentives associated, how trust in decentralized networks is built, and how it can be applied more widely.
 
-* Building Decentralized Services - In this final week, I'll examine the current state of the web3 development stack, with a particular emphasis of how developers today need to shift their thinking in a world of decentralized development.
+* Building Decentralized Services - In this final week, I'll look at what this means for entrepreneurs and developers. Tokens have the potential to change  the current state of the web3 development stack, with a particular emphasis of how developers today need to shift their thinking in a world of decentralized development.
 
 There are number of amazing resources already available on all these topics, which I'll link to during each week. 
