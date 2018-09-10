@@ -18,9 +18,9 @@ When I started writing this post, I intended to write about all the concepts in 
 
 * Decentralization - the foundational concept of the blockchain. I'll examine how the blockchain helps  fulfills the original promise of the web. I'll look at how it will breaks down walled gardens and gives control back into the hands of the people (and why that's important).
 
-* Incorruptibility and Digital Ownership - I'll examine the how value is built on the incorruptibility promise of the blockchain. This gives rise to transfer and ownership of digital assets (fungible and non-fungible). In this week, I'll also look at how the blockchain is making money a "native function of the internet".
+* Tokens and Digital Ownership - I'll examine the incorruptibility promise of the blockchain ledger and how it inherently creates value. This gives rise to transfer and ownership of digital assets and tokens. This is how the blockchain is making money a "native function of the internet".
 
-* Trust and Consensus - I'll examine the concepts of how blockchains enable market consensus, how trust in decentralized networks is built, and how it can be applied more widely.
+* Trust and Consensus - I'll examine the concepts of how blockchains enable market consensus, the incentives associated, how trust in decentralized networks is built, and how it can be applied more widely.
 
 * Building Decentralized Services - In this final week, I'll examine the current state of the web3 development stack, with a particular emphasis of how developers today need to shift their thinking in a world of decentralized development.
 
