@@ -9,9 +9,9 @@ One of the biggest challenges I’ve found in developing a [writing habit]({{ si
 
 So, here’s a tentative list of the theme days. Hopefully this reduces the burden of choice and just like building a writing habit itself, puts certain parts of the process on autopilot. 
 
-* Productivity Tuesdays, in which I’ll discuss topics centered around the theme of personal betterment and productivity.
-* Leadership Wednesday, where I’ll write about topics related to management. I'll likely use this [latticework]({{ site.baseurl }}{% post_url 2018-08-29-mental-models-for-leadership %}) to start structuring topics.
-* Future Friday, where I'll write about specific trends in technology and try to make some predictions about how things might develop.
+* **Productivity Tuesdays**, in which I’ll discuss topics centered around the theme of personal betterment and productivity.
+* **Leadership Wednesday**, where I’ll write about topics related to management. I'll likely use this [latticework]({{ site.baseurl }}{% post_url 2018-08-29-mental-models-for-leadership %}) to start structuring topics.
+* **Future Friday**, where I'll write about specific trends in technology and try to make some predictions about how things might develop.
 
 On other days, I’ll leave it open to other topics. This might be too much structure already but I'm looking forward to reducing some burden of choice, and just write. I’m not sure. Let’s see.
 
