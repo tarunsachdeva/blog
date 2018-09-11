@@ -6,7 +6,7 @@ categories: mentalmodels
 draft: false
 ---
 
-Compound interest (_compounding_) is a powerful force, and one of the most versatile [mental models]({{ site.baseurl }}{% post_url 2018-09-03-mental-models-monday %}). Compounding "is the addition of interest to the principal sum of a loan or deposit". I like the simpler framing "[growth on your previous growth](https://medium.com/@jaymehoffman/7-mental-models-i-live-my-life-by-e79742d4f074)".
+Compound interest (_compounding_) is a powerful force, and one of the most versatile [mental models]({{ site.baseurl }}{% post_url 2018-09-03-mental-models %}). Compounding "is the addition of interest to the principal sum of a loan or deposit". I like the simpler framing "[growth on your previous growth](https://medium.com/@jaymehoffman/7-mental-models-i-live-my-life-by-e79742d4f074)".
 
 Compounding is versatile. It's a [mathematical](https://en.wikipedia.org/wiki/Compound_interest) concept that is the foundation for modern finance, but can be applied to almost anything - [knowledge](https://medium.com/@HowieDiamond/compound-knowledge-288292b4503d), capability, ideas, relationships, product growth, and more.
 
