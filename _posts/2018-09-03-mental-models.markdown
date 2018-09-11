@@ -18,4 +18,4 @@ There are probably countless mental models in the world, and a good place to sta
 
 There are some excellent resources mental models [here](https://jamesclear.com/mental-models), [here](https://www.fs.blog/mental-models/) and [here](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d).
  
-I've also [written]({{ site.baseurl }}{% post_url 2018-08-29-mental-models-for-leadership %}) about the practice of building a latticework of mental models to become a better leader. [The Fifth Discipline](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254) is an excellent resource about mental models in the context of leadership. 
+I've also [written]({{ site.baseurl }}{% post_url 2018-08-29-developing-leadership-practice %}) about the practice of building a latticework of mental models to become a better leader. [The Fifth Discipline](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254) is an excellent resource about mental models in the context of leadership. 

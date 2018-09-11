@@ -5,7 +5,7 @@ date:   2018-09-05 12:00:00 -0500
 categories: leadership
 ---
 
-I'm kicking off **Leadership Wednesday (LW)** with an in-depth outline of each domain of leadership responsibilty outlined in the [mental models for leadership]({{ site.baseurl }}{% post_url 2018-08-29-mental-models-for-leadership %}) post.
+I'm kicking off **Leadership Wednesday (LW)** with an in-depth outline of each domain of leadership responsibilty outlined in the [mental models for leadership]({{ site.baseurl }}{% post_url 2018-08-29-developing-leadership-practice %}) post.
 
 For the next few weeks, I'll be examining each of the domains for which a leader is responsible:
 * Individuals 

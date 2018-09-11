@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mental Models for Developing a Leadership Practice"
+title:  "Developing a Leadership Practice"
 date:   2018-08-29 12:00:00 -0500
 categories: leadership
 ---
