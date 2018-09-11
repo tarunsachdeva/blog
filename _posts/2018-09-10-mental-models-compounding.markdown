@@ -1,25 +1,20 @@
 ---
 layout: post
-title:  "Mental Model Monday: Compounding"
+title:  "Mental Model: Compound Interest"
 date:   2018-09-10 12:00:00 -0500
 categories: mentalmodels
 draft: false
 ---
 
+Compound interest (_compounding_) is a powerful force, and one of the most versatile [mental models]({{ site.baseurl }}{% post_url 2018-09-03-mental-models-monday %}). Compounding "is the addition of interest to the principal sum of a loan or deposit". I like the simpler framing "[growth on your previous growth](https://medium.com/@jaymehoffman/7-mental-models-i-live-my-life-by-e79742d4f074)".
 
-Compounding is a powerful force. The underlying concept (I like the simple framing _[growth on your previous growth](https://medium.com/@jaymehoffman/7-mental-models-i-live-my-life-by-e79742d4f074)_). Continual investments over time amplify the effects of compounding.
+Compounding is versatile. It's a [mathematical](https://en.wikipedia.org/wiki/Compound_interest) concept that is the foundation for modern finance, but can be applied to almost anything - [knowledge](https://medium.com/@HowieDiamond/compound-knowledge-288292b4503d), capability, ideas, relationships, product growth, and more.
 
-It's power is in its versatility - mostly used as a [mathematical](https://en.wikipedia.org/wiki/Compound_interest) concept, but can be applied to [knowledge](https://medium.com/@HowieDiamond/compound-knowledge-288292b4503d), relationships, and [time](https://tim.blog/2008/05/07/lifestyle-investing-compound-time-like-compound-interest/).
+Some sub-concepts about compounding, that can also be applied outside mathematics:
 
-Some of the core ideas of compounding.
-- Given it's verstaility, there are multiple currencies of compounding. You can measure it in units of money, trust, knowledge, or capability, almost anything. There also is an underlying concept of it being _stored_ somewhere. Obviously money sits in banks, knowledge is in our minds, trust in our hearts, and capability in our mind or bodies.  
-- You have to have a non-zero starting point (principal). You cannot compound on nothing. That's obvious with money, but not so obvious with other things. For knowledge, that includes the basics of whatever field you're studying. In relationships, a base of trust must be first established to build upon over time.
-- Compounding frequency is how often the benefit of compounding is realized. Greater frequency often results in greater benefit in the long term. For non-monetary compounding, a good way is to build [habits]({{ site.baseurl }}{% post_url 2018-09-04-productivity-tuesday-habits %}) to allocate time to whatever you _want_ to compound.
-- Regular contributions can significantly amplify the effects of compounding. 
-- The passage of time is necessary to realize its effects. The benefits will often play out in the long term.
+- **You have to have a non-zero starting point.** You cannot compound on nothing. That's obvious with money. To compound knowledge, that includes the basics of whatever field is being studied. In relationships, a base of trust must be first established to build upon over time.
+- **Frequency has a massive effect.** Frequency is how often the benefit of compounding is realized, and has a huge effect on the outcome. Allocating time to whatever you _want_ to compound can be achieved by building consistent [habits]({{ site.baseurl }}{% post_url 2018-09-04-productivity-tuesday-habits %}). Frequency of regular contributions will significantly amplify the effects of compounding.
+- **The passage of time is necessary.** Compounding plays out over the long term. In the short term, the incremental gains are hard to notice. You just have to put in the work.
 
 I like this quote from [Naval Ravikant](https://twitter.com/naval/status/1002103908947263488)
 > Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.
-
-The internet is a marketplace for attention and a grounds for applying the principle of compounding. We can compound our impact on the internet by creating media and building products that will have long term value.
-
