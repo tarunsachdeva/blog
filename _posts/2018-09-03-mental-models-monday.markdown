@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "Mental Models Monday"
+title:  "Mental Models"
 date:   2018-09-03 12:00:00 -0500
 categories: mentalmodels
 ---
 
-In this first **Mental Models Monday (MMM)**, I thought I'd start at the basics - the definitions and motivation of a mental model. 
+In the past year, one of the most transformative practices I’ve found is to be more intentional about my own and other people’s mental models. It’s been transformative in that it’s helped me change how I learn, improve my decision making, and provide clarity of thought. 
 
 A mental model is a simplified representation of the world around us. It can come in the form of an assumption, generalization or even an image. We use models to understand the world around us, and our models directly influence our actions. 
-
-In the past year, one of the most transformative practices I’ve found is to be more intentional about my own and other people’s mental models. It’s been transformative in that it’s helped me change how I learn, improve my decision making, and provide clarity of thought. 
 
 Here's how I've found them valuable:
 * Learning with the intention of "collecting mental models" is easier and more practical than learning through fact. Learning a new model is like getting a new tool in a toolbox that can be easily used in different situations. 
