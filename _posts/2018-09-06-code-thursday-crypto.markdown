@@ -2,11 +2,11 @@
 layout: post
 title:  "Web 3"
 date:   2018-09-06 12:00:00 -0500
-categories: code
+categories: technology
 draft: false
 ---
 
-In the first few **Code Thursday's** I will be exploring the impacts of the blockchain - the invention at the foundation of the largest sea change in technology since the internet itself.
+The blockchain is an invention at the foundation of the largest change in technology since the internet itself.
 
 While most of the news cycle about blockchain centers around cryptocurrencies, the more interesting application of the blockchain is not _just_ in the future of money, but also the future of the how the internet works. There is a fantastic article about this by Erik Torenberg titled [Money Crypto vs Tech Crypto](https://www.atrium.co/blog/money-tech-crypto/). 
 
