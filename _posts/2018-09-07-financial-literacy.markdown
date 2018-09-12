@@ -6,8 +6,6 @@ categories: finance
 draft: false
 ---
 
-**Finance Friday's** are for covering all things related to making the most of money. Most of the topics will center around the tenets of personal finance, but will also use this space to talk about startup finance - stock options, venture capital, etc.
-
 I was talking to someone in their early 20's recently about their careers. I advised them that financial literacy is probably the most important skill they can develop early on, and it will help them no matter what direction their career takes.
 
 I believe financial literacy is an essential skill that should be taught to everyone as early as possible. It includes an understanding of some core concepts like: basic numeracy, risk and diversification, compounding interest, inflation, and volatility.
