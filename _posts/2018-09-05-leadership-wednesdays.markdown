@@ -10,10 +10,10 @@ I'm kicking off **Leadership Wednesday (LW)** with an outline of the domains of 
 Given leadership roles have a massive surface area of accountability, a framework that outlines the expanse makes the learning easier to manage (and quicker). This learning framework is simply an outline of the areas for which leaders are either directly responsible or accountable.
 
 * Individual Domain, concerned with the people at an individual level 
-* Team Domain, concerned with how people organize to work together
-* Products, concerned with what is actually being created or offered
-* Markets, concerned with how those products are received by customers
-* Society, concerned with the broader impact of those products
+* Organization Domain, concerned with how people organize to work together
+* Output Domain, concerned with what is actually being created (can be divided into functional groups like code, design, sales, or broader outputs, like the decisions). 
+* Ecosystem Domain, concerned with the customers, markets and environment in which you're operating. Major strategic decisions will fall into this domain. 
+* Impact Domain, concerned with the broader impacts of what's being created
 
 For each domain, I'll break this further into:
 
