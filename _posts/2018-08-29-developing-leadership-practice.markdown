@@ -12,12 +12,12 @@ The framework itself is quite simple - it is a list of all of the domains of lea
 
 Breaking this down further, the domains of responsibility of a leader are:
 
-- Individuals: The domain of the people, and is concerned with management at an individual level.
-- Teams: The domain of how people organize and effectively work together.
-- Products: The domain of what people get together to create. These work "products" are used to describe any offering - which could include an actual product or a service (to an internal or external stakeholder).
-- Markets: The domain of the customers, and is concerned with how products are adopted in market.
-- Society: The domain of society, which is concerned with the broader impacts of a product in market.
+* Individual Domain, concerned with management at an individual level 
+* Organization Domain, concerned with how people organize and effectively work together
+* Output Domain, concerned with what is actually being created (can be divided into functional groups like code, design, sales, or broader outputs, like the decisions). 
+* Ecosystem Domain, concerned with the customers, markets and environment in which you're operating. Major strategic decisions will fall into this domain. 
+* Impact Domain, concerned with the broader impacts of what's being created
 
-This is a system in which these domains are highly connected to each other, and they interact with the adjacent ones. Individual impact teams, teams impact products, etc. 
+This is a system in which these domains are highly connected to each other, and they interact with the adjacent ones. Individual impact teams, teams impact outputs, etc. 
 
 In further posts, I'll expand on each domain. I will also stress test this framework through my personal experience and practice, as well as through examining how battle-tested leadership practices can be added into this approach. I’m looking forward to seeing when and how this breaks. 
