@@ -2,7 +2,7 @@
 layout: post
 title:  "Leadership Wednesday: The Individual Domain"
 date:   2018-09-12 12:00:00 -0500
-categories: productivity
+categories: leadership
 draft: false
 ---
 
