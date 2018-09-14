@@ -8,7 +8,7 @@ There is no shortage of leadership advice in books and articles across the inter
 
 The framework itself is quite simple - it is a list of all of the domains of leadership, and how they interact with each other as a system. My experience is in that of software startups, but I imagine this can extend outside of that as well. In developing the domains, I took a first principles approach. This started with a simple description of what is actually happening in many organizations, for which a leader is accountable: 
 
-**Individuals working together to create products for customers to make a meaningful change in society.**
+**Individuals working together, producing output towards positive outcomes and meaningful impact.**
 
 Breaking this down further, the domains of responsibility of a leader are:
 

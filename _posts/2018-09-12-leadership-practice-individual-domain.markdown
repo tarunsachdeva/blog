@@ -10,9 +10,10 @@ Leadership roles have a massive surface area of accountability, and the process 
 
 The first domain of responsibility is that of **Individuals**. 
 
-* The responsibility scope is about managing the journey of being an employee - bringing an individual onboard, setting them up to succeed, providing direction and guidance, and managing their departure from an organization.
+* The responsibility scope is large, but using the framework of "the employee journey" is a good encapsulation. Managing the employee journey can help you articulate where there are missing links in management capabilities - whether that is bringing an individual onboard, setting them up to succeed, providing direction and guidance, or managing their departure from an organization.
 
-* The individual domain is one of the most expansive domains, and it covers the following practices throughout the employee journey:
+* Going through the employee journey, the following is list of some of those practices:
+
 	* Sourcing and Interviewing
 	* Hiring and Onboarding
 	* Creating paths for growth, development and training
@@ -23,12 +24,9 @@ The first domain of responsibility is that of **Individuals**.
 	* Placement within the organization: promotions and demotions
 	* Managing their exit, if necessary (firing, quitting, etc)
 
-* There are hundreds, if not thousands of frameworks to help with the above practices. These come from books, blog posts, and other places. These are the tangibles that help make the practices of leadership easier. An incomplete list is below:
+* There are hundreds, if not thousands of frameworks to help with the above practices. These come from books, blog posts, and other places. These are the tangibles that help make the practices of leadership easier. Remember these are tools in your toolbelt. There are multiple ways of managing each one of the above areas of responsibility. 
+
 	* Growth and Development: Training plans, Skills matrix
 	* Understanding Them: User Manuals
 	* Goals and Output: OKR's
 	* Guidance and Feedback: 1:1s, Direct Feedback methods
-
-* Other Resources: 
-	* Daniel Pink: Autonomy Mastery Growth
-	* Andy Grove: High Output Management
