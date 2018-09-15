@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Web 3"
+title:  "Future Friday: Web 3"
 date:   2018-09-06 12:00:00 -0500
 categories: technology
 draft: false

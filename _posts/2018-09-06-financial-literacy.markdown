@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Financial Literacy"
-date:   2018-09-07 12:00:00 -0500
+date:   2018-09-06 12:00:00 -0500
 categories: finance
 draft: false
 ---

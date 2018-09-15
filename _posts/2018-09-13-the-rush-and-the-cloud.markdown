@@ -16,4 +16,4 @@ They both separate and keep you from the reality. They both give you a false sen
 
 Fuck them _both_.
 
-The antidote is the Calm. The Calm is about now. The Calm is about recognizing the Rush and the Cloud as passing clouds in the sky. The Calm is an open heart, eyes wide open, and a mind ready to learn.  Stay Calm.
+The antidote is the Calm. The Calm is about now. The Calm is recognizing the Rush and the Cloud, and watching them pass like waves and clouds. The Calm is an open heart, eyes wide open, and a mind ready to learn. Stay Calm.
