@@ -6,14 +6,15 @@ categories: code
 draft: false
 ---
 
-Decentralization is the foundational mental model of the blockchain. 
+Decentralization is the foundational mental model of Web 3. In this context, decentralization is possible because of the Blockchain.
 
-The blockchain is a distributed open database (called a ledger).
+The blockchain is a distributed open database, also called the ledger. 
 
-The ledger has some unique properties:
-* It is open and distributed
-* Can record information between two parties directly (no intermediary)
-* Information cannot be altered
+What this means:
+* The ledger is a list of transactions that is replicated across a number of computers (it is open and distributed).
+* The ledger typically exists over a peer-to-peer network
+* The ledger can record information between two parties directly
+* Information cannot be altered in a ledger
 
 This means a few things:
 

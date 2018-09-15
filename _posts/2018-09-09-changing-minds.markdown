@@ -6,9 +6,7 @@ categories: general
 draft: false
 ---
 
-There's no doubt we're living in a time of historical significance and social change. On one hand, there is landmark progress being made in advancing the rights of marginalized communities. On the other hand, xenophobia and nationalism is on the rise.
-
-I was curious about the phenomenon of _how large groups of people change their mind_, and how that's happened in different contexts. I came across a few interesting articles.
+I recently tried to find some cases of when large groups of people _changed their minds_. I came across a few interesting articles about how that's happened in different contexts.
 
 * This article, [I Don't Want to Be Right](https://www.newyorker.com/science/maria-konnikova/i-dont-want-to-be-right) from the New Yorker in 2014 talks about a study about changing minds about vaccinations - and how a pure fact based approach doesn't work.
 
