@@ -8,7 +8,7 @@ draft: false
 
 The rush is that feeling of unbridled optimism. When possibilities feel limitless and the only thing holding you back is how quickly you can take action. It‘s that spark, that adrenaline-filled conversation about that billion dollar idea. The rush is about the future and it's potential. It makes you tingle, it makes you move. 
 
-The cloud is that feeling of inconsolable pessimism. When everything is difficult and nothing feels good enough. It’s that feeling about what that person said that’s definitely about you. It’s that fear and self doubt so strong that you believe it’s better not to try. The cloud is about the past. It can stop you dead in your tracks.
+The cloud is that feeling of inconsolable pessimism. When everything is difficult and nothing feels good enough. It's that voice telling you things will never work, you'll never be as good as them. It’s that fear and self doubt so strong that you believe it’s better not to try at all. The cloud is about the past. It stops you dead in your tracks, it pulls you back.
 
 I hate them _both_. 
 
