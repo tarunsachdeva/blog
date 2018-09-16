@@ -1,10 +1,18 @@
 ---
 layout: post
-title:  "Web 3"
+title:  "Web 3: Tokens"
 date:   2018-09-06 12:00:00 -0500
 categories: code
-draft: true
+draft: false
 ---
+
+Notes:
+
+- What tokens are
+- How the immutability of the blockchain enables tokens
+- How tokens are digital ownership
+- Given this is a part of the protocol, the notion of scarcity in asset is part of the protocol, money is now a native function of the internet
+- MONEY VS TOKENS, how money is a perverse incentive, and not tied to the value of what's being created
 
 * Value and Digital Ownership - I'll examine the how value is built on the incorruptibility promise of the blockchain. This gives rise to transfer and ownership of digital assets (fungible and non-fungible). In this week, I'll also look at how the blockchain is making money a "native function of the internet".
 
@@ -14,6 +22,5 @@ draft: true
 
 In this article about [Crypto Tokens](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef), Chris Dixon discusses how they enable the funding of operating open services. 
 
-
-
+https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
 
