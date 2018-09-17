@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Decentralization (Simplified)"
+title:  "Decentralization, Revisited"
 date:   2018-09-16 12:00:00 -0500
 categories: technology
 draft: false
 ---
 
-**NOTE**: A few days, ago, I [wrote](({{ site.baseurl }}{% post_url 2018-09-14-web3-decentralization %})) about decentralization as the foundational concept behind [Web 3]({{ site.baseurl }} {% post_url 2018-09-06-future-fridays-web3 %}). In this post, I wanted to dig into this a bit further - specifically focusing on the power shift between applications to protocols, and why this is so important. Again, there are a [number](http://www.usv.com/blog/fat-protocols) of [amazing](https://continuations.com/post/105272022635/bitcoin-clarifying-the-foundational-innovation-of) [articles](https://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol) that helped me develop my understanding of this topic.
+**NOTE**: A few days, ago, I [wrote]({{ site.baseurl }}{% post_url 2018-09-14-web3-decentralization %}) about decentralization as the foundational concept behind [Web 3]({{ site.baseurl }}{% post_url 2018-09-06-future-fridays-web3 %}). In this post, I wanted to dig into this a bit further - specifically focusing on the power shift between applications to protocols, and why this is so important. Again, there are a [number](http://www.usv.com/blog/fat-protocols) of [amazing](https://continuations.com/post/105272022635/bitcoin-clarifying-the-foundational-innovation-of) [articles](https://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol) that helped me develop my understanding of this topic.
 
 The Internet we know today exists because of two fundamental aspects of software: **protocols** and **applications**.
 

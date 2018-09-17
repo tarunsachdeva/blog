@@ -17,4 +17,9 @@ github:
   repository_url: "https://github.com/tarunsachdeva/blog"
   
 title: Tarun Sachdeva
-description: Tarun Sachdeva's Blog
+description: Blog
+
+baseurl: "/blog"
+production_url : http://tarunsachdeva.com/blog
+BASE_PATH : http://tarunsachdeva.com/blog
+permalink: /:year/:month/:day/:title:output_ext

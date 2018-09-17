@@ -2,7 +2,7 @@
 layout: post
 title:  "Writing Habit Update"
 date:   2018-09-15 12:00:00 -0500
-categories: code
+categories: habits
 draft: false
 ---
 
