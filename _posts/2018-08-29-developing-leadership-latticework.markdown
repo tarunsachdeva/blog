@@ -4,12 +4,11 @@ title:  "Developing a Leadership Latticework"
 date:   2018-08-29 12:00:00 -0500
 categories: leadership
 ---
-There is no shortage of management and leadership advice. Consuming and processing it in an attempt to improve one's abilities is daunting. This post is about a framework for **learning** within the domains of management and leadership. The goal is to provide a structured latticework that can help pick up new skills like tools in a tool box. This approach to learning is similar to that of mental models. 
+There is no shortage of management and leadership advice. Consuming and processing it in an attempt to improve one's abilities is daunting. This post is about a framework for **learning** within the domains of management and leadership. The goal is to provide a structured latticework that can help pick up new skills like tools in a tool box. Given the expansive set of advice and knowledge freely available on the topic of management and leadership, a framework for learning was necessary for me.
 
-The notion of creating a latticework as a means to learn was popularized by [Charlie Munger](https://old.ycombinator.com/munger.html):
+This approach to learning is similar to that of mental models. The notion of creating a latticework as a means to learn was popularized by [Charlie Munger](https://old.ycombinator.com/munger.html):
+
 >Well, the first rule is that you can’t really know anything if you just remember isolated facts and try and bang ’em back. If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form. You’ve got to have models in your head. And you’ve got to array your experience both vicarious and direct on this latticework of models. You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head.
-
-Given the expansive set of advice and knowledge freely available on the topic of management and leadership, a framework for learning was necessary was necessary for me.
 
 The framework itself is quite simple - it is a list of all of the domains of leadership, and how they interact with each other as a system. My experience is in the private sector - specifically that of software startups - but some parts of this are applicable outside of that context as well.
 
