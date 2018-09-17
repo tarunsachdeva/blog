@@ -6,7 +6,7 @@ categories: leadership
 draft: false
 ---
 
-Leadership roles have a massive surface area of accountability, and the process of learning as you go can be challenging. As part of **Leadership Wednesdays**, I'll be detailing the framework that I use to make the learning easier to manage (and quicker). To get a better understanding of this framework, check out [these]({{ site.baseurl }}{% post_url 2018-08-29-developing-leadership-practice %}) [posts]({{ site.baseurl }}{% post_url 2018-09-05-leadership-wednesdays %}).
+Leadership roles have a massive surface area of accountability, and the process of learning as you go can be challenging. As part of **Leadership Wednesdays**, I'll be detailing the framework that I use to make the learning easier to manage (and quicker). To get a better understanding of this framework, check out [these]({{ site.baseurl }}{% post_url 2018-08-29-developing-leadership-latticework %}) [posts]({{ site.baseurl }}{% post_url 2018-09-05-leadership-wednesdays %}).
 
 The first domain of responsibility is that of **Individuals**. 
 
