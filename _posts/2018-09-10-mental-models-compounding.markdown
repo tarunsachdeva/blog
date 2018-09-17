@@ -14,7 +14,7 @@ Some sub-concepts about compounding, that can also be applied outside mathematic
 
 - **You have to have a non-zero starting point.** You cannot compound on nothing. That's obvious with money. To compound knowledge, that includes the basics of whatever field is being studied. In relationships, a base of trust must be first established to build upon over time.
 - **Frequency has a massive effect.** Frequency is how often the benefit of compounding is realized, and has a huge effect on the outcome. Allocating time to whatever you _want_ to compound can be achieved by building consistent [habits]({{ site.baseurl }}{% post_url 2018-09-04-productivity-tuesday-habits %}). Frequency of regular contributions will significantly amplify the effects of compounding.
-- **The passage of time is necessary.** Compounding plays out over the long term. In the short term, the incremental gains are hard to notice. You just have to put in the work.
+- **The passage of time is necessary.** Compounding plays out over the long term. In the short term, the incremental gains can be hard to notice. It changes attitudes about the future and helps to appreciate becoming older.
 
 I like this quote from [Naval Ravikant](https://twitter.com/naval/status/1002103908947263488)
 > Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.
