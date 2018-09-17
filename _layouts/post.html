@@ -1,4 +1,14 @@
 ---
 layout: default
 ---
-{{ content }}
+
+  <h2>{{ page.title | escape }}</h2>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <div>
+      <a href="https://github.com/tarunsachdeva/blog/commits/gh-pages/{{ page.path }}">See all changes to this post on Github.
+      </a>
+  </div> 
