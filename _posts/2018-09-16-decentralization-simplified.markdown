@@ -24,4 +24,6 @@ From the beginning of the Internet until recently, there was no **technical solu
 
 This changed with the arrival of **Bitcoin** in 2008. Bitcoin's underlying invention was the Blockchain. The blockchain provides **a framework for _data_ and _logic_ to live outside the application layer, and into the protocol layer itself**.
 
-Without knowing how any of it actually works, just this simple fact - **that data and logic no longer are only in the control of an application developer** - is existential threat for those most valuable companies in the world. Decentralization is the process of this change - of products and services moving into the shared protocol layer, with fundamentally different incentives and power structures than what exists today.
+Without knowing how any of it actually works, just this simple fact is important - **that data and logic no longer are only in the control of an application developer**. This can be an existential threat for some of the most valuable companies in the world which are built on the existing structure of value in the application layer.
+
+Decentralization is the process of making this change - of products and services moving into the shared protocol layer, with fundamentally different incentives and power structures than what exists today.
