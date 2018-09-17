@@ -12,11 +12,13 @@ This approach to learning is similar to that of mental models. The notion of cre
 
 The framework itself is quite simple - it is a list of all of the domains of leadership, and how they interact with each other as a system. My experience is in the private sector - specifically that of software startups - but some parts of this are applicable outside of that context as well.
 
-To built the latticework, I started with a description of what is happening inside many corporations today:
+To built the latticework, it starts with a simple observation of what's going on in a corporation:
 
 **Individuals working together, making decisions and executing towards positive outcomes and meaningful impact.** 
 
-This is a very generic description, so I broke this down further to highlight **the domains of responsibility of a leader**. The domains outline the **scope of the role**, which is the starting point to building a learning framework.
+This is a very generic description, and seems simplistic, but for me helped to cover the scope of outcomes for which I was directly or indirectly responsible.
+
+I then broke this down further to highlight **the domains of responsibility of a leader**. The domains further detail the scope of the role, which is the starting point to building a learning framework.
 
 * Individual Domain, concerned with management at an individual level 
 * Organization Domain, concerned with how people organize and effectively work together
