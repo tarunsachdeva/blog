@@ -16,9 +16,9 @@ The Internet we know today exists because of two fundamental aspects of software
 
 Put together, these layers provide the building blocks for today's internet applications. This structure is reflected in popular development frameworks like [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller).
 
-Applications today have **all** the control over the presentation, logic and data of their products and services. This has provided a tremendous convenience to end users. 
+Applications today have **all** the control over the presentation, logic and data of their products and services. This has allowed for incredible innovations, convenience to end users, and ultimately a lot of value created. Application developers today represent some of the most valuable companies in the world.
 
-However, any abuse, neglect or irresponsibility on the part of their developers (in any of these layers) can have major negative downstream impact. The popularity of mobile and internet services makes this level of control a social and political issue around the world. We are seeing this play out in various ways.
+However, any abuse, neglect or irresponsibility on the part of their developers (in any layer) can have major negative downstream impact. The popularity of mobile and internet services makes this level of control a social and political issue around the world. We are seeing this play out in various ways.
 
 From the beginning of the Internet until recently, there really was no **technical solution** to the problem of applications having full control of layers of internet products. There simply was no other way to provide that convenience. 
 
