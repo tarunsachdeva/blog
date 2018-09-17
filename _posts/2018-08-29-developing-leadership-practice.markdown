@@ -11,9 +11,9 @@ The notion of creating a latticework as a means to learn was popularized by [Cha
 
 Given the expansive set of advice and knowledge freely available on the topic of management and leadership, a framework for learning was necessary was necessary for me.
 
-The framework itself is quite simple - it is a list of all of the domains of leadership, and how they interact with each other as a system. My experience is in that of software startups, some parts of this are applicable outside of that context as well.
+The framework itself is quite simple - it is a list of all of the domains of leadership, and how they interact with each other as a system. My experience is in the private sector - specifically that of software startups - but some parts of this are applicable outside of that context as well.
 
-To built the latticework, I started with a description of what is happening inside startups and corporations today:
+To built the latticework, I started with a description of what is happening inside many corporations today:
 
 **Individuals working together, making decisions and executing towards positive outcomes and meaningful impact.** 
 
