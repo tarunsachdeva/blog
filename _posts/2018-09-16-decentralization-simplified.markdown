@@ -20,7 +20,7 @@ Applications today have **all** the control over the presentation, logic and dat
 
 However, any abuse, neglect or irresponsibility on the part of their developers (in any layer) can have major negative downstream impact. The popularity of mobile and internet services makes this level of control a social and political issue around the world. We are seeing this play out in various ways.
 
-From the beginning of the Internet until recently, there really was no **technical solution** to the problem of applications having full control of layers of internet products. There simply was no other way to provide that convenience. 
+From the beginning of the Internet until recently, there really was no **technical solution** to the problem of applications having full control of layers of internet products. There simply was no other way to provide the same level of service without control over presentation, logic and data.
 
 This changed with the arrival of **Bitcoin** in 2008. Bitcoin's underlying invention was the Blockchain. The blockchain provides **a framework for _data_ and _logic_ to live outside the application layer, and into the protocol layer itself**.
 
