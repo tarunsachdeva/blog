@@ -3,7 +3,7 @@ layout: post
 title:  "Update on Tracking Time"
 date:   2018-09-06 12:00:00 -0500
 categories: code
-draft: true
+draft: false
 ---
 
 Time Tracking for the last 30 days.
