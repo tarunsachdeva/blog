@@ -8,5 +8,14 @@ draft: false
 
 Long term decision making frameworks
 
+General decision making 
+- inversion 
+- worst outcome/ opposite of that
 
-
+Long Term Frameworks
+- ikigari
+- ikigari simplified
+- long term Habit Framework 
+- Jeremy Saunders talk
+- longpath (3 methods)
+- mission thinking- what musk does
