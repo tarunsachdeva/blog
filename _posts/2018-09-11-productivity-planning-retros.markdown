@@ -10,7 +10,7 @@ In last week's Productivity Tuesday, I covered the power of habit-based producti
 
 Planning and Retrospectives are the simple practices of thinking forwards and backwards in time. Planning obviously entails outlining the activities required to reach an outcome. Retrospectives entail reflecting on how well you did towards a plan. Both operate on a specific timeframe, and ideally each planning session should have some form of retrospective.
 
-Most people plan to some degree - setting daily to-do's, new years resolutions, monthly goals - all are planning exercises. I'd guess that personal retrospectives frequently used - even though it's the more important of the two practices. 
+Most people plan to some degree - setting daily to-do's, new years resolutions, monthly goals - all are planning exercises. I'd _guess_ that personal retrospectives aren't as common (although I don't have any empirical evidence outside of my own experience). I believe it's the more important of the two practices.
 
 A good plan has (a) specific timeframe and (b) clear outcomes. A good retrospective answers how well you did against your intention, and where there is opportunity to improve.
 
