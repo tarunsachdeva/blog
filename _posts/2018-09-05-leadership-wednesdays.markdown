@@ -17,8 +17,8 @@ As a refresher, the domains of responsibility outlined were:
 
 In following weeks, I'll be examining each domain by detailing:
 
-* Responsibility Scopes within the domain: I'll dive into detail of each domain and cover the scope of responsibility. For example, in the Individual domain, the responsibilities of concern include understanding people and their strengths, managing their career journey, effectively providing feedback, etc.
-* Practices: This outlines the specific practices of the domain - a more tactical view of the previous section. For example, the practice of 1:1's, creating growth plans, how to fire people - etc. Some of these are battle tested, others are somewhat experimental. 
+* Guiding Mental Models: These mental models that can help understand the overall responsibility scope of the domain.
+* Practices: This outlines the specific practices of the domain. These cover the responsibility scope in more detail. 
 * Frameworks: Here I'll cover some of the frameworks that I've picked up along the way that have helped me in the practices above. The sources of these frameworks come from everywhere - experience, blog posts, books. 
 * Other Resources: Specific people, authors, books or websites I've found to be a great source of information related to this domain of leadership.
 

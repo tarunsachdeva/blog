@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leadership Wednesday: The Individual Domain"
+title:  "Leadership Latticework: The Individual Domain"
 date:   2018-09-12 12:00:00 -0500
 categories: leadership
 draft: false
@@ -8,11 +8,9 @@ draft: false
 
 Leadership roles have a massive surface area of accountability, and the process of learning as you go can be challenging. As part of **Leadership Wednesdays**, I'll be detailing the framework that I use to make the learning easier to manage (and quicker). To get a better understanding of this framework, check out [these]({{ site.baseurl }}{% post_url 2018-08-29-developing-leadership-latticework %}) [posts]({{ site.baseurl }}{% post_url 2018-09-05-leadership-wednesdays %}).
 
-The first domain of responsibility is that of **Individuals**. 
+The first domain of responsibility is that of **Individuals**, which I've found to be the most important domain because all management is exercised through people.
 
-The practice of management is exercised through people. There is quite literally no management advice that can escape this context (that I've come across). This domain is all about managing individuals through their personal career journey and the time that is spent within your organization.
-
-* The responsibility scope is large, and "the employee journey" framework has provided me a good encapsulation. The employee journey also highlights where there are missing links - parts of the job that can be simply overlooked.  The responsibility scope starts before an individual is brought on board - how that process actually begins, carries them through their career journey in the organization, and ends with managing their departure if necessary. The relationship can continue beyond that time frame but then falls out of scope of the framework. 
+* The guiding mental model I use is "the employee journey. This domain is all about managing individuals through their personal career journey and the time that is spent within your organization. The employee journey has provided me a good encapsulation of that responsibility. The employee journey also highlights where there are missing links - parts of the job that can be simply overlooked.  The responsibility scope starts before an individual is brought on board - how that process actually begins, carries them through their career journey in the organization, and ends with managing their departure if necessary. The relationship can continue beyond that time frame but then falls out of scope of the framework. 
 
 * Going through the employee journey, the following is list of some of those practices:
 
