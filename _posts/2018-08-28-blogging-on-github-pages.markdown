@@ -14,7 +14,7 @@ Why?
 Everything here is boilerplate Jekyll. A few small modifications:
 
 
-* ~~I've slightly [modified](https://github.com/jekyll/minima#customization) the default theme ([Minima](https://github.com/jekyll/minima)), and changes can be seen in commits in the ```_layouts```, ```_sass``` and ```_includes``` directories in the [repo](https://github.com/tarunsachdeva/blog/).~~
+* ~~I've slightly [modified](https://github.com/jekyll/minima#customization) the default theme ([Minima](https://github.com/jekyll/minima)), and changes can be seen in commits in the ```_layouts```, ```_sass``` and ```_includes``` directories in the [repo](https://github.com/tarunsachdeva/blog/).~~ Update: I'm now using a modified version of the  [Primer](https://github.com/pages-themes/primer) theme instead of Minima. 
 * The blog lives in a subdirectory based on instructions from [this article](http://shahrajat.com/2016-06-22-install-jekyll-subdirectory-blog-github-pages/)).
 * I'm using draft posts in the way described by [this simple solution](https://gist.github.com/carlo/2870636) (drafts are enabled in Jekyll natively through the ```_drafts``` folder, but I like this solution bettter.)
 * URL structure updated so it doesn't include categories (see ```permalink``` in [```_config.yml```](https://github.com/tarunsachdeva/blog/blob/gh-pages/_config.yml))
