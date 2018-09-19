@@ -19,5 +19,3 @@ Everything here is boilerplate Jekyll. A few small modifications:
 * I'm using draft posts in the way described by [this simple solution](https://gist.github.com/carlo/2870636) (drafts are enabled in Jekyll natively through the ```_drafts``` folder, but I like this solution bettter.)
 * URL structure updated so it doesn't include categories (see ```permalink``` in [```_config.yml```](https://github.com/tarunsachdeva/blog/blob/gh-pages/_config.yml))
 * Tags display will be added soon (I like [this approach](http://longqian.me/2017/02/09/github-jekyll-tag/)).
-
-~~
