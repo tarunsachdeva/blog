@@ -18,18 +18,19 @@ The first domain of responsibility is that of **Individuals**, which I've found 
 	* Sourcing and Interviewing
 	* Hiring and Onboarding
 	* Creating paths for growth, development and training
-	* Understanding strengths and weaknesses, and unlocking individual potential
+	* Understanding individual motivations
+	* Understanding strengths and weaknesses
+	* Unlocking individual potential
 	* Creating clarity in individual objectives and goals
 	* Managing individual output and performance
 	* Providing guidance and feedback
 	* Placement within the organization: promotions and demotions
 	* Managing their exit, if necessary (firing, quitting, etc)
 
-* There are hundreds, if not thousands of frameworks to help with the above practices. These come from books, blog posts, and other places. These are the tangibles that help make the practices of leadership easier. Remember these are tools in a toolbelt. There are multiple ways of managing each one of the above areas of responsibility.
+* There are hundreds, if not thousands of frameworks to help with the above practices. These come from books, blog posts, and other places. These are the tangibles that help make the practices of leadership easier. These are like tools in a toolbelt. An incomplete list below:
 
 	* Growth and Development: Training plans, Skills matrix
-	* Understanding Them: User Manuals
-	* Goals and Output: OKR's
-	* Guidance and Feedback: 1:1s, Direct Feedback methods
-
-I'll continue adding to this post as time goes on.
+	* Understanding Strengths and Weaknesses: MBTI, Enneagram
+	* Understanding Motivations: [Daniel Pink AMP Framework](https://www.theotherperspective.com/daniel-pink-autonomy-mastery-purpose/)
+	* Goals and Output: [OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), [SMART Goals](https://en.wikipedia.org/wiki/SMART_criteria), 
+	* Guidance and Feedback: 1:1s, Direct Feedback methods, [Radical Candor](https://www.radicalcandor.com/)
