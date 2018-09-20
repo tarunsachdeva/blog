@@ -8,9 +8,7 @@ draft: true
 
 The second layer of the Leadership Lattice is the Organization domain, which is about managing the structures and dynamics of teams.
 
-The concerns here on a wide spectrum based on size - from building cohesion within a single team to organizing business units across a larger organization. There are some shared problems across this spectrum but as a company scales, the frameworks are very different. 
-
-This part of the lattice is one of the most dynamic - team structures are constantly shifting, individuals move between teams
+This includes everything from building cohesion within a single team to organizing business units across a larger organization. There are some shared problems across this spectrum, but the frameworks are very different based on scale.
 
 * A guiding mental model I've found helpful is that of _Organizational Flow_. When we do things right to build and align teams in the right way, the organization structures become invisible and we can reach a collective ["flow" state](https://en.wikipedia.org/wiki/Flow_(psychology). On an individual level this is defined as "the mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment". Getting to this state requires the active practices of alignment, thoughtful organization, conflict resolution - all which are key to this part of the lattice. How this is achieved looks very different in a team vs. a large organization, but ultimately we just want our organizational structures to _work_. When they do, we're in a flow state. 
 
