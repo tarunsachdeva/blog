@@ -14,6 +14,8 @@ Notes:
 - Given this is a part of the protocol, the notion of scarcity in asset is part of the protocol, money is now a native function of the internet
 - MONEY VS TOKENS, how money is a perverse incentive, and not tied to the value of what's being created
 
+- ledger lives across multiple computers. Crypto functions - hashes etc - make it possible for all the computers to have the same record of the data without any central parties. But it's not magic - those computers still have to use their compute power to verify transactions on the chain. Tokens provide incentive for that 
+
 * Value and Digital Ownership - I'll examine the how value is built on the incorruptibility promise of the blockchain. This gives rise to transfer and ownership of digital assets (fungible and non-fungible). In this week, I'll also look at how the blockchain is making money a "native function of the internet".
 
 
