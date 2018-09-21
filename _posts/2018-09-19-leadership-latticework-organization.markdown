@@ -3,7 +3,7 @@ layout: post
 title:  "Leadership Latticework: The Organization Domain"
 date:   2018-09-19 12:00:00 -0500
 categories: leadership
-draft: true
+draft: false
 ---
 
 The second layer of the Leadership Lattice is the Organization domain, which is about managing the structures and dynamics of teams.
