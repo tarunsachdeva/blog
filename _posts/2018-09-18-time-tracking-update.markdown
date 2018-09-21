@@ -10,7 +10,7 @@ As part of a productivity practice recently I've been actively logging and track
 
 I've been doing this for over a month now, and wanted to share some results. The tracking is happening in a Google sheet, and looks a bit like this:
 
-(Image)
+![Daily Tracking](/blog/assets/img/daily-tracking.jpg)
 
 In the top rows are my To Dos. These are populated based on Weekly/Monthly goals from a regular planning and retrospective practice. 
 
