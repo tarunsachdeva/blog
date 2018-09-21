@@ -13,7 +13,3 @@ The cloud is that feeling of inconsolable pessimism. When everything is difficul
 I hate them _both_. 
 
 They both separate and keep you from the reality. They both give you a false sense of true capabilities. They both convince you of something that isn’t true, but make you act like it is. Both make you ignore the people closest to you. They both rob you of a full potential to learn.
-
-Fuck them _both_.
-
-The antidote is the Calm. The Calm is about now. The Calm is recognizing the Rush and the Cloud, and watching them pass like waves and clouds. The Calm is an open heart, eyes wide open, and a mind ready to learn. Stay Calm.
