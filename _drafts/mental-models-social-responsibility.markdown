@@ -20,10 +20,13 @@ Developing understanding:
 - ecosystems and niches
 - stratification
 - wealth gap
+- rape culture
+
 - Hanlons razor
 - migration
 - selfishness 
 - diversity / multi perspectives 
+
 
 Single person dynamics
 
@@ -40,8 +43,9 @@ On changing attitudes:
 - racism
 - ad hominem - attributing bad things to a person or groups of persons 
 
+Other concepts:
+- protest suppression - "all lives matter"
 - consistency bias 
-
 
 On making positive change: 
 - caring for the minority helps majority 
