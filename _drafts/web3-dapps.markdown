@@ -15,3 +15,6 @@ Incentives (from [Fat Protocols](http://www.usv.com/blog/fat-protocols)):
 From [Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
 > Early internet protocols were technical specifications created by working groups or non-profit organizations that relied on the alignment of interests in the internet community to gain adoption. This method worked well during the very early stages of the internet but since the early 1990s very few new protocols have gained widespread adoption. Cryptonetworks fix these problems by providing economics incentives to developers, maintainers, and other network participants in the form of tokens.
 
+
+
+https://medium.com/@kacperwikiel/crypto-mvc-b0a7e4f1831b

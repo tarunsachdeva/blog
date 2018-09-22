@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Web 3: Tokens"
+date:   2018-09-21 12:00:00 -0500
+categories: code
+draft: false
+---
+
+This is part of a [series of posts]({{ site.baseurl }}{% post_url 2018-09-06-future-fridays-web3 %}) on trying to understand the basics of Web 3.0.
+
+Last week, I covered the topic of [decentralization]({{ site.baseurl }}{% post_url 2018-09-16-decentralization-revisited %}). This week, I'll cover what that means for the design of the most common and powerful form of internet application - the _network_.
+
+The internet is a demonstration of the power of networks - applications that allow it's participants to share resources. From [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef): 
+
+> Networks - computing networks, developer platforms, marketplaces, social networks, etc — have always been a powerful part of the promise of the internet. Tens of thousands of networks have been incubated by developers and entrepreneurs, yet only a very small percentage of those have survived, and most of those were owned and controlled by private companies. Networks become more powerful as new participants join, a phenomenon known as network effects. 
+
+The only way to grow a network [before the Blockchain] was to build an application on the web or mobile, and scale it's adoption to participants. The corporation that owned the application controls the rules of, and data flowing through, the network. The financial value derived from that network is often enjoyed by the equity holders of that corporation - employees, executives, investors.
+
+With the blockchain, protocols themselves can now be encoded with the logic needed to govern a network. However, decentralization isn't magic - the data lives on real computers, and the logic uses real compute power. There are network participants that provide that storage and compute power to maintaining infrastructure and verifying transactions. These participants need real incentives to do so.
+
+Enter the use of Tokens. Tokens are a way for those maintaining the protocol to directly derive value from it's growth and adoption. Applications use that protocol, which will increase the value of the protocol. This is best explained in [Crypto Tokens and the Coming Age of Protocol Innovation](https://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol):
+
+> A for profit company can now create a new protocol and create value for itself (and its investors) by retaining some of the tokens. If the protocol becomes widely used, the value of the tokens will increase. For instance, think of a decentralized storage service (a la Amazon’s S3). Anyone can implement the storage protocol in whatever language they want to as long as they meet the protocol spec. They can then get paid in the relevant storage tokens. The original creator of the protocol will make money to the extent that it is adopted and to the degree they have retained some of the tokens (so they can sell them at a higher price later on). This is not hypothetical as there are a variety of such protocols out there, including Storj, SIA and Filecoin.
+
+Networks can now be built and provide the same value to participants _without_ handing over control to any one party. The tokens are a way to provide that incentive.
+
+Other advantages of tokens:
+* Tokens help fund the development of those protocols in early days.
+* Tokens align incentives among network participants because the reward for maintaining the network is native to the netwsork itself.
+* Given this is a part of the protocol, the notion of scarcity in asset is part of the protocol, money is now a native function of the internet
+
+
+
+OTHER NOTES
+- MONEY VS TOKENS, how money is a perverse incentive, and not tied to the value of what's being created
+- ledger lives across multiple computers. Crypto functions - hashes etc - make it possible for all the computers to have the same record of the data without any central parties. But it's not magic - those computers still have to use their compute power to verify transactions on the chain. Tokens provide incentive for that

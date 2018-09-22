@@ -22,8 +22,12 @@ However, any abuse, neglect or irresponsibility on the part of their developers 
 
 From the beginning of the Internet until recently, there really was no **technical solution** to the problem of applications having full control of layers of internet products. There simply was no other way to provide the same level of service without control over presentation, logic and data.
 
-This changed with the arrival of **Bitcoin** in 2008. Bitcoin's underlying invention was the Blockchain. The blockchain provides **a framework for _data_ and _logic_ to live outside the application layer, and into the protocol layer itself**.
+This changed with the arrival of **Bitcoin** in 2008. Bitcoin's underlying invention was the Blockchain. 
 
-Without knowing how any of it actually works, just this simple fact is important - **that data and logic no longer are only in the control of an application developer**. This can be an existential threat for some of the most valuable companies in the world which are built on the existing structure of value in the application layer.
+The Blockchain is a database distributed across multiple computers in the form of a ledger, that uses cryptographic techniques to ensure data cannot be tampered with once "written to the chain". While distributed databases were possible before the blockchain, there was no way to ensure all computers had the same data (without a 'central' authority) without some novel [cryptographic techniques](https://www.coindesk.com/information/how-does-blockchain-technology-work/) that made this possible. 
+
+With this technology, multiple computers can come to agreement on the state of an application's data and logic without a central party. This is **a framework for _data_ and _logic_ to live outside the application layer, and into the protocol layer itself**.
+
+Without knowing how it all works, just this simple fact is important - **that we can build useful services without giving up control of the data and logic to a single application developer**. This can be an existential threat for some of the most valuable companies in the world which are built on the existing structure of value in the application layer.
 
 Decentralization is the process of making this change - of products and services moving into the shared protocol layer, with fundamentally different incentives and power structures than what exists today.
