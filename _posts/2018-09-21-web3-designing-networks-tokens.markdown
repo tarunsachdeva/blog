@@ -34,7 +34,11 @@ With tokens, every protocol can now have an associated marketplace that can serv
 
 This marketplace can be used to fund development of the protocol itself. The developer of the network (i.e. the protocol developer) can issue a fixed number of tokens and put them on sale and raise funds through an ICO (initial coin offering). Note this is only one way to fund development - an ICO is not necessary to develop a blockchain powered protocol.
 
-This token marketplace also behaves as a tool of governance. Continued investment in the market through buying tokens is a way to signal to the protocol developers that they are "doing the right thing". These tokens can provide some utility in the protocol itself. For example, a file storage protocol might buy . The token can be bought and used in an app using the protocol. The token can be sold for other tokens in an exchange. 
+This token marketplace also behaves as a tool of governance. Continued investment in the market through buying tokens is a way to signal to the protocol developers that they are "doing the right thing". 
+
+This is a great summary of the flywheel effect of how protocol tokens appreciate in value (from [Fat Protocols](http://www.usv.com/blog/fat-protocols)):
+> When a token appreciates in value, it draws the attention of early speculators, developers and entrepreneurs. They become stakeholders in the protocol itself and are financially invested in its success. Then some of these early adopters, perhaps financed in part by the profits of getting in at the start, build products and services around the protocol, recognizing that its success would further increase the value of their tokens. Then some of these become successful and bring in new users to the network and perhaps VCs and other kinds of investors. This further increases the value of the tokens, which draws more attention from more entrepreneurs, which leads to more applications, and so on. 
+
 
 With the blockchain and tokens, protocols themselves can now be encoded with shared logic, data and a native currency. 
 
