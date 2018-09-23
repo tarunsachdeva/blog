@@ -10,7 +10,7 @@ A very short article today, as [yesterday's post]({{ site.baseurl }}{% post_url 
 
 In this video, Ray Dalio shares how Bridgewater navigated the 2008 financial crisis.
 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/g4LZsG6wo-o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include youtube.html youtube_id="g4LZsG6wo-o" %}
 
 It's a great video, and I didn't realize the role that Bridgewater played, especially in highlighting the problem to the highest levels of government.
 
