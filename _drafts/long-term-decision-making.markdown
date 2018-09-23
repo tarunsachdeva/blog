@@ -19,3 +19,4 @@ Long Term Frameworks
 - Jeremy Saunders talk
 - longpath (3 methods)
 - mission thinking- what musk does
+- Hunter Thomspon letter-  swimming/floating https://designluck.com/creating-purpose/
