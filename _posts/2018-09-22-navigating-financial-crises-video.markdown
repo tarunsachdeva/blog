@@ -6,15 +6,15 @@ categories: finance
 draft: false
 ---
 
-A very short article today, as [yesterday's post]({{ site.baseurl }}{% post_url 2018-09-21-web3-designing-networks-tokens %})) required some edits today.
+A very short article today, as [yesterday's post]({{ site.baseurl }}{% post_url 2018-09-21-web3-designing-networks-tokens %}) took more time than expected and required some edits today.
 
 In this video, Ray Dalio shares how Bridgewater navigated the 2008 financial crisis.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g4LZsG6wo-o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/g4LZsG6wo-o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-It's a great video, and I didn't realize the role that Bridgewater played in highlighting the problem to the highest levels of government.
+It's a great video, and I didn't realize the role that Bridgewater played, especially in highlighting the problem to the highest levels of government.
 
-Some takeaways:
+Some takeaways that can be applied to investing in other contexts:
  
 * It is very difficult to see the signals when you're in the middle of a crisis. History repeats itself, and there is a lot to learn from past financial crises that can provide the perspective necessary to make the right decision.
 * A solid framework (the depression indicator, in Bridgewater's case) and the strength to stick to the associated action plan helped Bridgewater navigate the crisis.
