@@ -1,4 +1,19 @@
+
+-
+
+A new OS for work - conversation centric workflow 
+
+A new way to build enterprise product. SASS apps - user model, distribution dynamics. Currently Apps are not as functional but slowly building towards it. 
+
+A new professional network. Your Slack workspaces like Reddit. 
+
+-
+
 Slack is a new way of working - inside a conversation. 
+
+Wave 1 - pc apps / stand-alone 
+Wave 2- web apps -  
+Wave 3 - 
 
 Web products provide utility first then conversation. Slack is about the reverse. 
 
@@ -28,4 +43,3 @@ SaaS companies that are Slack-first will win.
 More and more work will continue to happen in Slack.
 Their biggest competitor is the Browser, where the other work happens.
 Customer success teams should be rejoicing.
-Jumbomoji's are cool too.
