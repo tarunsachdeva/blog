@@ -8,18 +8,15 @@ draft: false
 
 As part of a productivity practice recently I've been actively logging and tracking how I spend my time in increments of 30 minutes. 
 
-I've been doing this for over a month now, and wanted to share some results. The tracking is happening in a Google sheet, and looks a bit like this:
+I've been doing this for over a month now, and wanted to share some results. The tracking is happening in a Google sheet, and looks like this.
 
 ![Daily Tracking](/blog/assets/img/daily-tracking.jpg)
 
-In the top rows are my To Dos. These are populated based on Weekly/Monthly goals from a regular planning and retrospective practice. 
+The time tracking is below with color coded cells for each category. Some of the categories are: family time, productive time, sleep, essentials, writing, wasted time, etc. I have them in a bar graph that higlights the total amount per category per day.
 
-From here, I analyze the number of tasks per day, how many I actually complete, and a rolling average of tasks. Here is the graph of tasks and completions:
+In the top rows I also track my to-do list. These are populated based on Weekly/Monthly goals from a regular planning and retrospective practice. In a graph (shown at the bottom of the sheet), I analyze the number of tasks per day, how many I actually complete, and a rolling average of tasks. 
 
-
-The time tracking is below with color coded cells for each category. Some of the categories are: family time, productive time, sleep, essentials, writing, wasted time, etc. This is a bar graph showing the daily time spent in each category:
-
-Doing this was a bit unnatural at first but once I started I quickly got addicted to the data. It gave me an understanding of myself I didn't have before. 
+Doing this was very unnatural at first but once I started I quickly looked past the inconvenience and got addicted to the data. It gave me an understanding of myself I didn't have before. 
 
 A few insights I got from the time tracking data:
  
