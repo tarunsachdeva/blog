@@ -10,7 +10,7 @@ This is part of a [series of posts]({{ site.baseurl }}{% post_url 2018-09-06-fut
 
 Last week, I covered the topic of [decentralization]({{ site.baseurl }}{% post_url 2018-09-16-decentralization-revisited %}). This week, I'll cover how it impacts the design of networks.
 
-Much of this article is a summary an paraphrased version of the articles on this topic by [Chris Dixon](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) and [Albert Wenger](https://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol).
+Much of this article is a summary an paraphrased version of the articles on this topic by [Chris Dixon](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) and [Albert Wenger](https://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol). This [Tweetstorm](https://twitter.com/naval/status/877467629308395521) by Naval also helped clarify my thinking on this topic. 
 
 The Internet is a demonstration of the power of networks. The Internet is a network of networks itself, and also an platform for the development of networked applications. 
 
