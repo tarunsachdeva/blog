@@ -7,7 +7,7 @@ categories: general
 
 I've reflected a lot on my own childhood, as I'm sure many new parents do. My childhood was characterized by movement - my father worked as an officer in the Indian Diplomatic corps, and we moved to different countries in three year stretches until I was 18, when I settled in Canada. 
 
-I was born in New Delhi, India in July of 1981.  When I was an infant, we moved to Copenhagen, Denmark. I don't remember much of anything there, but my parents tell me I spoke Danish pretty well. I remember none of it.
+I was born in New Delhi, India in July of 1981.  When I was an infant, we moved to Copenhagen, Denmark. My parents tell me I spoke Danish pretty well but I remember none of it. 
 
 The next post was Lilongwe, Malawi, a small country above South Africa. I started school in Malawi at a British School.
 
