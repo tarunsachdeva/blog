@@ -6,7 +6,7 @@ categories: technology
 draft: false
 ---
 
-This is a continuation of the **Future Friday** series on [Web 3]({{ site.baseurl }}{% post_url 2018-09-06-future-fridays-web3 %}). 
+This is a continuation of the **Future Friday** series on [Web 3]({{ site.baseurl }}{% post_url 2018-09-07-future-fridays-web3 %}). 
 
 Decentralization is the foundational concept of Web 3. Much has already been written on the topic. This article is a collection of quotes and articles that has helped to shape my understanding. 
 

@@ -6,7 +6,7 @@ categories: technology
 draft: false
 ---
 
-This is part of a [series of posts]({{ site.baseurl }}{% post_url 2018-09-06-future-fridays-web3 %}) on trying to understand the basics of Web 3.0.
+This is part of a [series of posts]({{ site.baseurl }}{% post_url 2018-09-07-future-fridays-web3 %}) on trying to understand the basics of Web 3.0.
 
 Last week, I covered the topic of [decentralization]({{ site.baseurl }}{% post_url 2018-09-16-decentralization-revisited %}). This week, I'll cover how it impacts the design of networks.
 
