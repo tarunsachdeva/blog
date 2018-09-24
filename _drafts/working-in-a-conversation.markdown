@@ -1,11 +1,17 @@
 
+
+Slack is one of the fastest growing technology companies today, and perhaps the fastest growing product in the small business and enterprise software market. 
+
+
+
+
 -
 
-A new OS for work - conversation centric workflow 
+A new OS for knowledge work - conversation centric workflow - information sharing, Decision Making
 
 A new way to build enterprise product. SASS apps - user model, distribution dynamics. Currently Apps are not as functional but slowly building towards it. 
 
-A new professional network. Your Slack workspaces like Reddit. 
+A new professional network. Your Slack workspaces are like Reddit. 
 
 -
 

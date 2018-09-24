@@ -9,7 +9,7 @@ As part of a critical thinking exercise, thought it would be useful to create a 
 
 What can slow down crypto / Dapp adoption:
 - Scalability never reached to a point where it becomes better than centralized alternative
-- Market dynamics get used wrongly or abused, - already happening in some pockets and this will likely happen more - also happened at beginning of internet
+- Market dynamics get used wrongly or abused, - already happening in some pockets and this will likely happen more - also happened at beginning of internet 
 - Blockchain innovation stops (can happen for many reasons) 
 	- incumbent Internet giants can somehow thwart or slow down its progress - legal action etc. 
 - building a standard for data trust between large companies
