@@ -1,0 +1,1 @@
+How the adoption of connected door locks will reshape our communities
