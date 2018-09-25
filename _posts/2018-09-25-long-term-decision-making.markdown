@@ -3,7 +3,7 @@ layout: post
 title:  "Long Term Decision Making Frameworks"
 date:   2018-09-25 12:00:00 -0500
 categories: productivity
-draft: false
+draft: true
 ---
 
 In the last few Productivity Tuesday's I've been covered practices that apply to managing hours, days and weeks. 
