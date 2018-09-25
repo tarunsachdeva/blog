@@ -7,6 +7,9 @@ sass:
 
 theme: jekyll-theme-primer
 
+plugins:
+  - jekyll-seo-tag
+
 github:
   private: false
   license:
