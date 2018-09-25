@@ -11,6 +11,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <div class="post-list">
       {%- for post in site.posts -%}
+        {%- unless post.draft -%}  
           <p>
             {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
             <div class="post-meta">{{ post.date | date: date_format }}</div>
@@ -21,6 +22,7 @@ layout: default
               {{ post.excerpt }}
             {%- endif -%}
           </p>
+        {%- endunless -%}
       {%- endfor -%}
     </div>
 
