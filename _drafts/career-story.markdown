@@ -1,0 +1,4 @@
+- coops 
+- tira 
+- big companies 
+- Wattpad
