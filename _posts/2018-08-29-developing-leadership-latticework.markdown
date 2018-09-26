@@ -20,10 +20,10 @@ This is a very generic description, and seems simplistic, but for me helped to c
 
 I then broke this down further to highlight **the domains of responsibility of a leader**. The domains further detail the scope of the role, which is the starting point to building a learning framework.
 
+* Self Domain, concerned with managing your own well being as a leader. 
 * Individual Domain, concerned with management at an individual level 
 * Organization Domain, concerned with how people organize and effectively work together
-* Output Domain, concerned with what is actually being created (can be divided into functional groups like code, design, sales, or broader outputs, like the decisions). 
-* Ecosystem Domain, concerned with the customers, markets and environment in which you're operating. Major strategic decisions will fall into this domain. 
+* Application Domain: concerned with the specifics of outputs and outcomes of the organization. Outputs are are specific to a functional area - some teams create products, others services, and others sell what is being created. Outcomes are how customers interact with them, be it an external market or internal users. There is a tight feedback loop between the two, which is why these live in the same domain. 
 * Impact Domain, concerned with the broader impacts of what's being created
 
 This is a system in which these domains are highly connected to each other, and they interact with the adjacent ones. Individual impact teams, teams impact outputs, etc. 
