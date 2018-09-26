@@ -9,10 +9,10 @@ I'm kicking off **Leadership Wednesday (LW)** with following up on the domains o
 
 As a refresher, the domains of responsibility outlined were:
 
-* Individual Domain, concerned with the people at an individual level 
+* Self domain, concerned with managing yourself as a leader
+* Individual Domain, concerned with people management at an individual level 
 * Organization Domain, concerned with how people organize to work together
-* Output Domain, concerned with what is actually being created (can be divided into functional groups like code, design, sales, or broader outputs, like the decisions). 
-* Ecosystem Domain, concerned with the customers, markets and environment in which you're operating. Major strategic decisions will fall into this domain. 
+* Application Domain: concerned with the specific outputs and outcomes of an organization. 
 * Impact Domain, concerned with the broader impacts of what's being created
 
 In following weeks, I'll be examining each domain by detailing:
