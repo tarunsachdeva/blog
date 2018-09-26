@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Ikigai"
+date:   2018-09-25 12:00:00 -0500
+categories: productivity
+draft: false
+---
+
+In the last few Productivity Tuesday's I've been covered some [practices]({{ site.baseurl }}{% post_url 2018-09-11-productivity-planning-retros %}) that apply to managing hours, days and weeks. Planning on longer time scales requires deeper thought and reflection, and different frameworks to help make decisions. These frameworks can help identify the sense of _purpose_ which then liberates us to focus and make the most of every day.
+
+Ikigai is one such framework. Ikigai helps to identify a sense of purpose by looking at the intersections of one's capability, opportunity and interest.
+
+![Ikigai](/blog/assets/img/ikigai.jpg){:width="500px"}
+
+More about [Ikigai](https://en.wikipedia.org/wiki/Ikigai) here.
