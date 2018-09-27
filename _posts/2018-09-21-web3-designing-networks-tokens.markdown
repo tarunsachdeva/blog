@@ -28,7 +28,7 @@ This is where tokens come in. Tokens are a kind of virtual currency, akin to wha
 
 The core capability here is the ability to transfer digital assets in a way that prevents double spending. All transactions are openly written onto a shared ledger, so when an asset is sent it cannot be used again by the sender. A digital asset can be transferred like money moving between accounts.
 
-This is a powerful capability - because a it allows _money_ to become a [native function](https://twitter.com/brian_armstrong/status/1033050236963323904) of a protocol. 
+This is a powerful capability - because it allows us to create a digital asset that has  scarcity, allowing it to behave like real money. Put another way, the ability to _program money_ can now be [built into](https://twitter.com/brian_armstrong/status/1033050236963323904) a protocol. 
 
 With tokens, every protocol can now have an associated marketplace that can serve multiple purposes to benefit the protocol.
 
