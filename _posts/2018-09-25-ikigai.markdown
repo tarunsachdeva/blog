@@ -14,10 +14,10 @@ Ikigai is one such framework. Ikigai helps to identify a sense of purpose by loo
 
 It is a very "complete" framework for evaluating long term decisions. Using Ikigai you take an introspective and outward facing perspective. 
 
-![Ikigai](/blog/assets/img/ikigai-analysis 2.jpeg){:width="500px"}
+![Ikigai](/blog/assets/img/ikigai-analysis2.jpeg){:width="500px"}
 
 It also reveals what is pragmatic and what is idealistic. 
 
-![Ikigai](/blog/assets/img/ikigai-analysis 1.jpeg){:width="500px"}
+![Ikigai](/blog/assets/img/ikigai-analysis1.jpeg){:width="500px"}
 
 More about [Ikigai](https://en.wikipedia.org/wiki/Ikigai) here.
