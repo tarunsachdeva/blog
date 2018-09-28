@@ -14,14 +14,12 @@ A leader is ultimately accountable for the output and outcome of the team. Howev
 
 This is a very expansive domain of concern, and can easily be divided into two sub-domains: outputs and outcomes. Outputs are what teams do, and outcomes are the results of those outputs. Outputs are often divided into functions - sales, engineering, product management, support. Outcomes are measured within the environment those outputs operate - in markets, with customers - both external and internal. 
 
-This domain includes the concerns of strategic planning, functional excellence and operational efficiency. It may seem as if one guiding mental model is not enough - but I think the concept of the _knowledge loop_ covers it quite well. The knowledge loop is the cycle of decision > execution > learning that takes place in organizations. Decisions guide execution, which creates learning, which in turn drives decisions. What you do, how you do it, and what results from this across different timescales is a good way to encapsulate the application domain.
-
-The exercise of setting a vision _can_ be a part of this domain. 
+It may seem as if one guiding mental model is not enough - but I think the concept of the _knowledge loop_ covers it quite well. The knowledge loop is the cycle of decision making > execution > learning that takes place in organizations. Decisions guide execution, which creates learning, which in turn drives decisions. This cycle occurs at an individual level, team level, and organization level. As such, there is an argument for making the individual and team concerns a part of their respective layers in the lattice. What you do, how you do it, and what results from this across different timescales is a good way to encapsulate the application domain.
 
 The practices of this domain include:
-* Vision setting
-* Strategy and strategic planning
-* Product and service excellence
+* Decision Making Frameworks
+* Strategy and Strategic Planning
+* Functional Excellence (sales, product, engineering, etc)
 * Analytics and Research
 * Knowledge management
 
