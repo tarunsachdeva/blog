@@ -1,4 +1,11 @@
-a manifesto of self improvement
+---
+layout: essay
+title:  "The Product of You"
+subtitle: "A manifesto of self improvement"
+permalink: the-product-of-you
+---
+
+A manifesto of self improvement
 
 My story
 - Anxiety 
