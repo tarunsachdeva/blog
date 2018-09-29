@@ -1,0 +1,1 @@
+Goal of innovation teams - define a timeframe and goal is to not exist within that timeframe 
