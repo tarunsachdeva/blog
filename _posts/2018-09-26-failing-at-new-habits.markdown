@@ -6,7 +6,7 @@ categories: productivity
 draft: false
 ---
 
-A few months ago, in an effort to get back into building things, I committed to writing _some_ code everyday. Last month, I chose to build a writing habit. 
+A few months ago, in an effort to get back into building things, I committed to writing _some_ code everyday. Last month, I chose to [build a writing habit]({{ site.baseurl }}{% post_url 2018-08-27-starting-a-new-habit %}). 
 
 I successfully built both habits into my day.
 
