@@ -24,13 +24,11 @@ There are a few issues with this.
 
 First, related to the core trust issue, is the financial benefit is not always distributed with the participants of the network. When it is shared, it is controlled by that same central party - often in the form of arbitrary revenue share. The second issue is the nature of the benefit itself which is in the form of a in a [fiat currency](https://en.wikipedia.org/wiki/Fiat_money). A more ideal benefit would be more native to the network - something where investing in the network allows you to extract some benefit from the network itself.
 
-This is where tokens come in. Tokens are a kind of virtual currency, akin to what is used in games. The blockchain allows tokens to have scarcity like real money in a decentralized environment.
+This is where tokens come in. Tokens are a kind of virtual currency, akin to what is used in games. We can create new tokens specific to a protocol and have all transactions of the token written to the blockchain for that protocol. What this does is prevent a sender from "double spending" a token, so when an asset is sent it cannot be used again by the sender. 
 
-The core capability here is the ability to transfer digital assets in a way that prevents double spending. All transactions are openly written onto a shared ledger, so when an asset is sent it cannot be used again by the sender. A digital asset can be transferred like money moving between accounts.
+A digital asset can be transferred like money moving between accounts - without a central authority like a bank.
 
-This is a powerful capability - because it allows us to create a digital asset that has  scarcity, allowing it to behave like real money. Put another way, the ability to _program money_ can now be [built into](https://twitter.com/brian_armstrong/status/1033050236963323904) a protocol. 
-
-With tokens, every protocol can now have an associated marketplace that can serve multiple purposes to benefit the protocol.
+This is a powerful capability, because every protocol can have a currency associated with it. Put another way, the ability to _program money_ can now be [built into](https://twitter.com/brian_armstrong/status/1033050236963323904) a protocol. Also, every protocol can now have an associated marketplace that can serve multiple purposes to benefit the protocol.
 
 This marketplace can be used to fund development of the protocol itself. The developer of the network (i.e. the protocol developer) can issue a fixed number of tokens and put them on sale and raise funds through an ICO (initial coin offering). Note this is only one way to fund development - an ICO is not necessary to develop a blockchain powered protocol.
 
@@ -38,7 +36,6 @@ This token marketplace also behaves as a tool of governance. Continued investmen
 
 This is a great summary of the flywheel effect of how protocol tokens appreciate in value (from [Fat Protocols](http://www.usv.com/blog/fat-protocols)):
 > When a token appreciates in value, it draws the attention of early speculators, developers and entrepreneurs. They become stakeholders in the protocol itself and are financially invested in its success. Then some of these early adopters, perhaps financed in part by the profits of getting in at the start, build products and services around the protocol, recognizing that its success would further increase the value of their tokens. Then some of these become successful and bring in new users to the network and perhaps VCs and other kinds of investors. This further increases the value of the tokens, which draws more attention from more entrepreneurs, which leads to more applications, and so on. 
-
 
 With the blockchain and tokens, protocols themselves can now be encoded with shared logic, data and a native currency. 
 
