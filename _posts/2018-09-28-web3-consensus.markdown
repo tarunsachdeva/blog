@@ -31,6 +31,6 @@ Some of most common consensus algorithms being used by different blockchains tod
 
 [This](https://medium.com/@BangBitTech/what-is-consensus-algorithm-in-blockchain-different-types-of-consensus-models-12cce443fc77) is a great article summarizing some of the most common consensus algorithms.
 
-From [Web 3 Consensus Mechanisms](https://medium.com/imbrexblog/web-3-consensus-mechanisms-2dcfb7bfaadb):
+From [Web 3 Consensus Mechanisms](https://medium.com/imbrexblog/web-3-consensus-mechanisms-2dcfb7bfaadb) on the importance of consensus mechanisms.
 
-> Consensus mechanisms are a integral to blockchain technology and other distributed systems. They are the basis on which participants of a given network with a range of varied self-interests, and even a mutual distrust for one another, can come to an agreement on the validity of data and transactions. The consensus model implemented by a project, company or team is the heart of its security, communication, and sustainability.
+> Consensus mechanisms are a integral to blockchain technology and other distributed systems. They are the basis on which participants of a given network with a range of varied self-interests, and even a mutual distrust for one another, can come to an agreement on the validity of data and transactions. **The consensus model implemented by a project, company or team is the heart of its security, communication, and sustainability**.
