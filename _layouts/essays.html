@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="essays-list">
+  {%- if page.title -%}
+    <h2 class="page-heading">{{ page.title }}</h2>
+  {%- endif -%}
+  
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <div class="post-list">
+      {%- for post in site.posts -%}
+        {%- if post.layout == 'essay' -%}  
+          <p>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </p>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+
+  {%- endif -%}
+
+</div>
