@@ -5,7 +5,7 @@ date:   2018-09-29 12:00:00 -0500
 categories: technology
 ---
 
-Working Copy is a very powerful, fully featured Git Client for iOS.
+[Working Copy](https://workingcopyapp.com/) is a very powerful, fully featured Git Client for iOS.
 
 I use Working Copy to edit this blog on my phone. Because this blog is also a git repository, I can edit content and code. I just commit and push any changes to my Github repository and see them live.
 
