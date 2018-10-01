@@ -8,4 +8,11 @@ draft: true
 
 - first decade of media on smartphone was current formats adopting it for distribution. Those that saw the potential won. 
 - thesis: second decade of smartphone will be unlocking the storytelling potential of the device - do things only possible on phone - interactive and participatory storytelling 
-- 
+
+Next wave of smartphone media will be native formats 
+- Current state
+- What's changing
+
+New entertainment habits and business models will emerge
+
+A new media ecosystem - awards, education, 

@@ -9,3 +9,8 @@ More companies grow
 More jobs get created
 More exits 
 More liquidity to start more 
+
+https://medium.com/@petergiordano/use-a-flywheel-to-drive-your-entrepreneurial-ecosystem-439502424c8a
+
+Brad Feld principles
+
