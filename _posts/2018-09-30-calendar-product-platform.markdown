@@ -13,7 +13,7 @@ I believe this is for a few reasons, centered around two fundamental design flaw
 
 First, **the calendar is an inherently social app that we are all forced to play in single player mode**. We plan events with colleagues, friends and family, but the social mechanics of event planning feels like a bad turn based game. The lack of real time back and forth, the consistent context switching between our communication apps and calendars is a massive point of frustration.
 
-Second, **the primary calendar abstraction - as a ledger of time - is woefully incomplete**. Events have way more nuance - whether it's the decisions leading up to acceptance, the last minute flurry of activity close an events, and the sharing of information after. All these activities require context switching that could be unnecessary. Working through a calendar today is like doing all your accounting directly on the ledger - it works, but it can drive you crazy.
+Second, **the primary calendar abstraction as a ledger of time is woefully incomplete**. Events have way more nuance - whether it's the decisions leading up to acceptance, the last minute flurry of activity close to events, or sharing meeting notes with attendees. All these activities require context switching that could be unnecessary. Working through a calendar today is like doing all your accounting directly on the ledger - it works, but it can drive you crazy.
 
 Just fixing these two would be enough - but the calendar is also highly underleveraged. 
 
