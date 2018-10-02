@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Decision Making Frameworks"
+date:   2018-10-01 12:00:00 -0500
+categories: mentalmodels
+---
+
+
+
 - Inversion
 -Divergent and convergent thinking
 - what's worst case / Oppostie of that
