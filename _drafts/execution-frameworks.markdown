@@ -1,0 +1,8 @@
+- assiduity
+- serial vs parallel 
+- batch processing
+- assembly line
+- delayed processing
+- opt / outsourcing/ leverage 
+
+
