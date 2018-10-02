@@ -5,7 +5,7 @@ date:   2018-10-01 12:00:00 -0500
 categories: learning
 ---
 
-A learning loop is a simplified framework of how people learn from experience. It's a feedback loop, and there are similar loops everywhere. They have been applied in many contexts - from self improvement to product development.
+A learning loop is a simplified framework of how people learn from experience - it's a simplified model of how our brain works. There are versions of learning loops everywhere - from self improvement frameworks to product development. Being intentional about our learning loops (and improving them) has wide ranging benefits.
 
 In it's simplest form, the learning loop is a _single loop_. It is the cycle of decision making to execution to learning, which then informs future decisions. Decisions are also informed by our mental models and decision frameworks. 
 
