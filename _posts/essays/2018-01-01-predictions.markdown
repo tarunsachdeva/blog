@@ -5,6 +5,7 @@ subtitle: "Tech Predictions"
 permalink: predictions
 ---
 
+- mobile 3.0
 - calendars
 - future of work
 - home 
