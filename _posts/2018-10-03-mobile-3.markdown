@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Mobile 3.0"
+date:   2018-10-03 12:00:00 -0500
+categories: technology
+draft: false
+---
+
+I've worked in the mobile industry since 2001. 
+
+When I worked at Amazon.com as a co-op student, I asked to be placed on a fledgling team called "Amazon Anywhere". It was formed to make Amazon work "anywhere outside the PC" (or so I'd heard). I remember building WAP pages and voice apps. I built a product where you could call a 1-800 number and order the latest Harry Potter book. Building and consuming mobile "apps" was full of friction.
+
+Mobile has come a long way since then, mostly because of the seminal introduction of the iPhone in 2007.
+
+Today, there are 2.5 billion smartphone users all around the world. Some of the most valuable companies in the world have been built because of this invention.
+
+And I think we're just getting started. I think the next decade of mobile is going to be the realization of it's fullest potential - a stage I'll call **Mobile 3.0**.
+
+First, some definitions:
+
+* **Mobile 1.0** (pre-smartphone) was about telecommunications networks, SMS and wireless data. Carriers had all the power in this stage - they owned the pipe and controlled content through their "decks". Building a mobile software company was an expensive endeavor.
+* **Mobile 2.0** (the transition to smartphones) was about all the race to own the mobile OS and the app ecosystem. Carriers lost power and it went to device manufacturers. The mobile form factor was solidifed, and phones evolved to get better displays, more sensors and a deeper software stack. Apps flourished and became a part of our everyday lives.
+* **Mobile 3.0** (smartphones everywhere) is about what's next - the realization of the smartphone's full potential. 
+
+Here's what I believe Mobile 3.0 will look like.
+
+1. Distribution beyond the app store
+2. The utility explosion
+3. Mobile Native Entertainment
+4. AI and AR
