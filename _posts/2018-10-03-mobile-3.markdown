@@ -3,7 +3,7 @@ layout: post
 title:  "Mobile 3.0"
 date:   2018-10-03 12:00:00 -0500
 categories: technology
-draft: true
+draft: false
 ---
 
 I've worked in the mobile industry since 2001. 
@@ -22,9 +22,12 @@ First, some definitions:
 * **Mobile 2.0** (the transition to smartphones) was about all the race to own the mobile OS and the app ecosystem. Carriers lost power and it went to device manufacturers. The mobile form factor was solidifed, and phones evolved to get better displays, more sensors and a deeper software stack. Apps flourished and became a part of our everyday lives.
 * **Mobile 3.0** (smartphones everywhere) is about what's next - the realization of the smartphone's full potential. 
 
-Here's what I believe Mobile 3.0 will look like.
+This can can be realized in a number of ways:
 
-1. Distribution beyond the app store
-2. The utility explosion
-3. Mobile Native Entertainment
-4. AI and AR
+* Utility that assumes ubiquity: There are 2.5 billion smartphone in consumers hands. Their ubiquity will mean more real world infrastructure will be built with an assumption that everyone has a phone. We will use smartphones to unlock our homes, start our cars, and maybe even use them as passports. Many of these use cases already exist today - this future will become more evenly distributed. These utilities will be tied to our real world identity and necessitate a stronger trust infrastructure. 
+
+* App distribution dynamics will change: One of the biggest points of friction in mobile distribution is the app install process. This might happen a number of ways. First, the app stores are already experimenting with previewing apps and micro-versions of app experiences to overcome this hurdle. From a development standpoint, frameworks like React Native and Expo are making it possible for continuous deployment of apps (Expo is a development platform but also a "browser of apps"). East Asian countries have already shown messaging apps can become app ecosystems, although that hasn't been realized in North America just yet. Facebook has the biggest advantage here with the social graph and ownership of the world's biggest social platforms.
+
+* Mobile native entertainment: The first decade of mobile was about mobile becoming the dominant distribution platform for media. But the media formats we're consuming has been largely defined in a pre-smartphone era. This is changing as the worlds of gaming, video, publishing and music are combining to create a new _mobile native_ media formats. New consumption business models will be built beyond simple subscription and a-la-carte, and new consumption patterns will develop especially in short-form narrative content.
+
+These are only some of the possibilities, and are simply predictions. However, I'm very confident that the smartphone's full potential remains to be realized - and we'll see that happen in the next decade. 
