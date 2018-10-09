@@ -6,9 +6,7 @@ categories: productivity
 draft: false
 ---
 
-A few months ago, in an effort to get back into building things, I committed to writing _some_ code everyday. Last month, I chose to [build a writing habit]({{ site.baseurl }}{% post_url 2018-08-27-starting-a-new-habit %}). 
-
-I successfully built both habits into my day.
+A few months ago, in an effort to get back into building things, I committed to writing _some_ code everyday. Last month, I chose to [build a writing habit]({{ site.baseurl }}{% post_url 2018-08-27-starting-a-new-habit %}). I somehow managed to build both habits into my day, often doing them together in the form of this blog.
 
 Based on these results, I became optimistic about my ability to build habits. In weekly planning, I became intentional about which habits I'm choosing to start, edit or remove. In the last few weeks, I tried to build in more habits into my days and weeks. I've attempted to track what I eat and drink, read before I go to sleep, meditate in the mornings, and start a bodyweight workout routine.
 
