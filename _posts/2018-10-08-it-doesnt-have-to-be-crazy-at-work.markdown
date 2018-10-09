@@ -11,4 +11,4 @@ Their most recent book, [It Doesn't Have to Be Crazy at Work](https://basecamp.c
 
 It's interesting to have read this today, because just yesterday I [wrote]({{ site.baseurl }}{% post_url 2018-10-07-ventakesh-rao-plugged-in-turnpike %}) about Venkatesh Rao's thinking about how we need to build a muscle memory for all types of information streams. The approach in this book feels like the antithesis. 
 
-Regardless - it's a quick read, and a refreshing take company building and culture. Get it [here](https://basecamp.com/books/calm).
+Regardless - it's a quick read, and a refreshing take on company building and culture. Get it [here](https://basecamp.com/books/calm).
