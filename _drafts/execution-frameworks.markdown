@@ -3,6 +3,4 @@
 - batch processing
 - assembly line
 - delayed processing
-- opt / outsourcing/ leverage 
-
-
+- opt / outsourcing/ leverage
