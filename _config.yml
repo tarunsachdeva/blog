@@ -22,8 +22,8 @@ github:
 title: Tarun Sachdeva
 description: 
 
-baseurl: "/blog"
-production_url : http://tarunsachdeva.com/blog
-BASE_PATH : http://tarunsachdeva.com/blog
-permalink: /:year/:month/:day/:title:output_ext
+baseurl: ""
+production_url : http://tarunsachdeva.com/
+BASE_PATH : http://tarunsachdeva.com/
+permalink: /:year:month:day/:title:output_ext
 date_format: "%b %-d, %Y"
