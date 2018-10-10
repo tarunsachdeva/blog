@@ -1,4 +1,4 @@
-Thesis - opportunity in providing the same level of service afforded to the super rich to make them more productive. 
+Thesis - opportunity in providing the same level of service afforded to the super rich to make them more productive.
 
 Time is the scarcest resource, a lot of cognitive overload required to manage time 
 
