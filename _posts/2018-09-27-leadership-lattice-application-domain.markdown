@@ -6,6 +6,8 @@ categories: leadership
 draft: false
 ---
 
+This is part of a series of posts about the **Leadership Lattice**, a framework for learning about the different dimensions of management and leadership.
+
 Leadership Wednesday was delayed by a day because I wanted to write about productivity yesterday.
 
 The next layer of the Leadership Lattice is the application domain, which is about managing the output and outcomes of the organization. It's about _what the team does_. 

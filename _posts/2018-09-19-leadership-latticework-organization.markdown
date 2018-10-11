@@ -6,6 +6,8 @@ categories: leadership
 draft: false
 ---
 
+This is part of a series of posts about the **Leadership Lattice**, a framework for learning about the different dimensions of management and leadership.
+
 The second layer of the Leadership Lattice is the Organization domain, which is about managing the structures and dynamics of teams.
 
 This includes everything from building cohesion within a single team to organizing business units across a larger organization. There are some shared problems across this spectrum, but the frameworks are very different based on scale.

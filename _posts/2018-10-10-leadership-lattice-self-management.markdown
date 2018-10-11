@@ -6,7 +6,7 @@ categories: leadership
 draft: false
 ---
 
-This is part of a series of posts about a Leadership Lattice.
+This is part of a series of posts about the **Leadership Lattice**, a framework for learning about the different dimensions of management and leadership.
 
 Managing yourself as a leader is a critical element of the leadership lattice. This lattice is a framework of learning - which in itself is a concern of the domain of self management.
 

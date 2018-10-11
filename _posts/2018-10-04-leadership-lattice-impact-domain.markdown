@@ -6,6 +6,8 @@ categories: leadership
 draft: false
 ---
 
+This is part of a series of posts about the **Leadership Lattice**, a framework for learning about the different dimensions of management and leadership.
+
 The next layer of the Leadership Lattice is the Impact domain - it's what all the previous layers add up to.
 
 The impact domain is concerned with the broader impact of an organization's products and services in market. For smaller, single product organizations - it can be argued that impact stops at the previous domain - after all, that's where we talked about the _outcomes_ of teams. For bigger organizations, this includes the second order impacts - how your products impact society and the world as a whole.
