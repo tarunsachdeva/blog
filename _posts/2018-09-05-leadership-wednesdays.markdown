@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "Leadership Wednesdays"
+title:  "Leadership Wednesdays: Building The Lattice"
 date:   2018-09-05 12:00:00 -0500
 categories: leadership
 ---
 
 I'm kicking off **Leadership Wednesday (LW)** with following up on the domains of responsibilty outlined in [developing a leadership latticework]({{ site.baseurl }}{% post_url 2018-08-29-developing-leadership-latticework %}). This learning framework is simply an outline of the areas for which leaders are either directly responsible or accountable.
 
-As a refresher, the domains of responsibility outlined were:
+As a refresher, the domains of responsibility outlined were (updated with links):
 
-* Self domain, concerned with managing yourself as a leader
-* Individual Domain, concerned with people management at an individual level 
-* Organization Domain, concerned with how people organize to work together
-* Application Domain: concerned with the specific outputs and outcomes of an organization. 
-* Impact Domain, concerned with the broader impacts of what's being created
+* [The Individual Domain]({{ site.baseurl }}{% post_url 2018-09-12-leadership-practice-individual-domain %}), concerned with people management at an individual level
+* [The Organization Domain]({{ site.baseurl }}{% post_url 2018-09-19-leadership-latticework-organization %}), concerned with how people organize to work together
+* [The Application Domain]({{ site.baseurl }}{% post_url 2018-09-27-leadership-lattice-application-domain %}), concerned with the specific outputs and outcomes of an organization. 
+* [The Impact Domain]({{ site.baseurl }}{% post_url 2018-10-04-leadership-lattice-impact-domain %}), concerned with the broader impacts of the organization's collective output
+* [The Domain of Self Management]({{ site.baseurl }}{% post_url 2018-10-10-leadership-lattice-self-management %}), concerned with managing yourself as a leader
 
 In following weeks, I'll be examining each domain by detailing:
 
