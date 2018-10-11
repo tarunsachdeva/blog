@@ -20,7 +20,7 @@ github:
   repository_url: "https://github.com/tarunsachdeva/blog"
   
 title: Tarun Sachdeva
-description: 
+description: Blog
 
 baseurl: ""
 production_url : http://tarunsachdeva.com/
