@@ -20,4 +20,3 @@ Became curious and then committed for a certain time period
 Relationships over everything
 Don't rush it - just getting started
 Side hustle 
-
