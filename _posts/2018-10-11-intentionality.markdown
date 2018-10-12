@@ -8,7 +8,7 @@ draft: false
 
 I've recently been thinking about the concept of intentionality. It is a philosophical concept that has a pretty [abstract meaning](https://www.iep.utm.edu/huss-int/). 
 
-To me, intentionality is about being aware of yourself at multiple levels, and doing things with more presence and purpose.
+To me, intentionality is about being aware of yourself at different levels, and doing things with more presence and purpose.
 
 Being intentional with time means understanding how it's being spent today, actively planning how I will spend it across multiple time horizons, and being reflective about the past.
 
