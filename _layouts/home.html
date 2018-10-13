@@ -14,7 +14,7 @@ layout: default
         {%- unless post.draft or post.layout == 'essay' -%}  
           <p>
             {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
-            <div class="post-meta">{{ post.date | date: date_format }}</div>
+            <div class="post-meta f3-light text-small">{{ post.date | date: date_format }}</div>
             <a class="post-link" href="{{ post.url | relative_url }}">
               {{ post.title | escape }}
             </a>
