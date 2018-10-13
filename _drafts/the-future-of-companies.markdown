@@ -6,3 +6,4 @@ How will the "Company of the future" be governed
 Themes:
 Crypto and decentralization
 Remote
+
