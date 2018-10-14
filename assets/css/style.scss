@@ -3,6 +3,21 @@
 
 @import "jekyll-theme-primer";
 
+
+// Overrides
+
+
+// Header
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-child-title {
+	width:70%;
+}
+
 // Post Specific Styling
 
 .post-disclaimer {
