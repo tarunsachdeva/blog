@@ -9,6 +9,7 @@ theme: jekyll-theme-primer
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
 
 github:
   private: false
