@@ -3,7 +3,6 @@ layout: post
 title:  "Unbundling G Suite"
 date:   2018-10-15 12:00:00 -0500
 categories: technology
-draft: false
 ---
 
 There's a new wave of software that is creating an unbundled rival to the trio of Google's "G Suite" software - Docs, Sheets and Slides. 
