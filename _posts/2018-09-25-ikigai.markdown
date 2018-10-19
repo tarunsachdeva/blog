@@ -10,14 +10,14 @@ In the last few Productivity Tuesday's I've been covered some [practices]({{ sit
 
 Ikigai is one such framework. Ikigai helps to identify a sense of purpose by looking at the intersections of one's capability, opportunity and interest.
 
-![Ikigai](/blog/assets/img/ikigai.jpg){:width="500px"}
+![Ikigai](/assets/img/ikigai.jpg){:width="500px"}
 
 It is a very "complete" framework for evaluating long term decisions. Using Ikigai you take an introspective and outward facing perspective. 
 
-![Ikigai](/blog/assets/img/ikigai-analysis2.jpeg){:width="500px"}
+![Ikigai](/assets/img/ikigai-analysis2.jpeg){:width="500px"}
 
 It also reveals what is pragmatic and what is idealistic. 
 
-![Ikigai](/blog/assets/img/ikigai-analysis1.jpeg){:width="500px"}
+![Ikigai](/assets/img/ikigai-analysis1.jpeg){:width="500px"}
 
 More about [Ikigai](https://en.wikipedia.org/wiki/Ikigai) here.

@@ -20,4 +20,4 @@ Some reflections from the first three months of parenting.
 
 Anyways - enough of that for now. Here are the little twerps:
 
-![Jade and Laila](/blog/assets/img/jadeandlaila.jpeg){:width="500px"}
+![Jade and Laila](/assets/img/jadeandlaila.jpeg){:width="500px"}
