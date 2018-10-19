@@ -1,3 +1,19 @@
+---
+layout: post
+title:  "CEO Anxiety"
+date:   2018-10-17 12:00:00 -0500
+categories: leadership
+---
+
+I had lunch with a founder CEO today and our conversation got to the topic of CEO anxiety.
+
+
+
+
+
+
+
+
 Working at a time of transformative change - incredible opportunities and responsibilities 
 
 Founder Anxiety 
@@ -12,4 +28,4 @@ Standards of what is growth is increasing, as are the standards of acceleration.
 
 Internet has a way of accelerating perceptions of reality - like the world is changing at an even faster pace. look at those S CURVES. 
 
-We are also in an age of self awareness and measurement - there's a growing sense of not measuring up. 
+We are also in an age of self awareness and measurement - there's a growing sense of not measuring up.

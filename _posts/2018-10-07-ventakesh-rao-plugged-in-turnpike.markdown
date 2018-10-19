@@ -11,7 +11,7 @@ In it, Venkatesh argues for building the muscles to stay connected to all stream
 
 He maps the information types on a spectrum in this graph:
 
-![Plugged-In Turnpike](/blog/assets/img/plugged-in-turnpike.png)
+![Plugged-In Turnpike](/assets/img/plugged-in-turnpike.png)
 
 I agree with the spirit of it, and believe we do need to adapt ourselves to be able to process the information onslaught instead of taking a "log cabin" approach and retreat towards only higher-order thinking. Also believe there's a natural ebb and flow up and down the "plugged-in turnpike" that the mind will naturally take, and we need to follow it there vs. trying to stop it.
 

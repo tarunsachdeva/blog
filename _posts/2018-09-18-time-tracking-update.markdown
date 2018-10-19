@@ -10,7 +10,7 @@ As part of a productivity practice recently I've been actively logging and track
 
 I've been doing this for over a month now, and wanted to share some results. The tracking is happening in a Google sheet, and looks like this.
 
-![Daily Tracking](/blog/assets/img/daily-tracking.jpg)
+![Daily Tracking](/assets/img/daily-tracking.jpg)
 
 The time tracking is below with color coded cells for each category. Some of the categories are: family time, productive time, sleep, essentials, writing, wasted time, etc. I have them in a bar graph that higlights the total amount per category per day.
 

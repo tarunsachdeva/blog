@@ -9,11 +9,11 @@ A learning loop is a simplified framework of how people learn from experience - 
 
 In it's simplest form, the learning loop is a _single loop_. It is the cycle of decision making to execution to learning, which then informs future decisions. Decisions are also informed by our mental models and decision frameworks. 
 
-![Single Loop Learning](/blog/assets/img/singleloop.png)
+![Single Loop Learning](/assets/img/singleloop.png)
 
 A double learning loop connects the learning step ("information feedback" in the diagram above) to the mental models. In double loop learning, the mental models and frameworks we use changes depending on our learning. Essentially, we don't blindly follow a singular framework to execute anything, but modify it based on a situation. I like this as a way to articulate how a latticework of mental models is built and used.
 
-![Double Loop Learning](/blog/assets/img/doubleloop.png)
+![Double Loop Learning](/assets/img/doubleloop.png)
 
 The concept of double loop learning was described by Chris Argyris, in a simple analogy:
 
