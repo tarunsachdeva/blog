@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Remote Work Enforces Good Team Learning"
+title:  "How Remote Work Creates Team Learning"
 date:   2018-10-19 12:00:00 -0500
 categories: management
 ---
