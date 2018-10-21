@@ -8,8 +8,10 @@ categories: leadership
 I had lunch with a founder CEO today and our conversation got to the topic of CEO anxiety.
 
 
+Our definition of success for a company is increasing. 
 
-
+The power law of capitalism
+Venture capital following the money 
 
 
 
