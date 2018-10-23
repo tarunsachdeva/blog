@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "CEO Anxiety"
+title:  "Hope and Anxiety"
 date:   2018-10-17 12:00:00 -0500
 categories: leadership
 ---
+
+Infinite Hope and Infinite Peril
+ 
 
 I had lunch with a founder CEO today and our conversation got to the topic of CEO anxiety.
 
