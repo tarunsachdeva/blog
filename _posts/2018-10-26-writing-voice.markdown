@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Developing a Writing Voice"
-date:   2018-10-25 12:00:00 -0500
+date:   2018-10-26 12:00:00 -0500
 categories: writing
 ---
 
