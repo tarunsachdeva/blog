@@ -6,11 +6,9 @@ categories: mentalmodels
 draft: true
 ---
 
-
 - knowledge/learning leverage through mental models - input facts, output faster insight 
 
 - financial leverage - OPM model
 - time leverage - OPT model 
 - code as leverage - multiply execution 
 - media as leverage - influence other actions 
-
