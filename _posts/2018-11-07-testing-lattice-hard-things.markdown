@@ -25,7 +25,6 @@ In the domain of managing individuals, the book talks about the following concep
 In the domain of managing teams, the book talks about:
 * How large Organisations are slowed down by single people
 * Minimise Politics by hiring for the right type of ambition, maintaining strict policy on org design, promoting based on performance, and ensuring 1:1's are held. Ben is a subscriber to the Andy Grove school of thought so OKR's make their way into The Hard Things as well. 
-* The Peter Principle
 
 In the domain of products and markets, the Hard Thing speaks of:
 * Good Product Managers vs. Bad Product Managers, a guide that continues to be relevant in the world of product management today.
