@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Dear Jeff"
+date:   2018-11-13 12:00:00 -0500
+categories: General 
+draft: false
+---
+
+A scathing [open letter](https://m.signalvnoise.com/dear-jeff-a6319829f92a) to Jeff Bezos by DHH of Basecamp and Ruby on Rails fame - in response to the entire HQ2 Process led by Amazon over the last few months. The process ended today with the selection of two cities in New York and Virginia to house HQ2 - not before hundreds of cities grovelled before Amazon and promised all kinds of subsidies in return. 
