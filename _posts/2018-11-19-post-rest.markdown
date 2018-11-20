@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Post REST"
+date:   2018-11-19 12:00:00 -0500
+categories: technology 
+draft: false
+---
+
+An [interesting article](https://www.tbray.org/ongoing/When/201x/2018/11/18/Post-REST) on the future of REST - the standard used by almost all web and mobile applications for data transfer. I remember having this discussion when I worked at Amazon in the early 2000s - when the early version of Amazon web services supported REST and SOAP. Now the discussion is back with the introduction of GraphQL - a new querying language and data transmission standard develop led and open sourced by Facebook (along with React, Relay and other JS based frameworks). 
