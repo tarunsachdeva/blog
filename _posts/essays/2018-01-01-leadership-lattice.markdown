@@ -5,5 +5,3 @@ subtitle: "Learning Leadership"
 permalink: leadership-lattice/
 ---
 
-This is my essay!
-
