@@ -15,6 +15,6 @@ Start with Why: How Great Leaders Inspire Action, is divided into 4 parts:
 3) Organizations - How "Why" plays a role in attracting and retaining employees - Lessons from this section apply mostly in the Individual domain, but some also in the domain of Organization.
 4) Personal leadership - How "Why" plays a role in leadership - This is primarily concerned with how leaders use Why as a tool to inspire and lead - and can be considered part of the Individual or Organization domain. 
 
-As a leadership book, Start with Why touches many parts of the lattice, and is one of the few books that bridges between the domain of Individual, Organization _and_ Application. The lessons test the structure of the lattice, and it's an interesting leadership book structured entirely around the concept of why, rather than a specific leadership technique or management approach.
+As a leadership book, Start with Why touches many parts of the lattice, and is one of the few books that bridges between the domain of Individual, Organization _and_ Application / . The lessons test the structure of the lattice, and it's an interesting leadership book structured entirely around the concept of why, rather than a specific leadership technique or management approach.
 
 This post uses [this great book summary](https://slooowdown.wordpress.com/2014/01/12/start-with-why-how-great-leaders-inspire-everyone-to-take-action-by-simon-sinek/).
