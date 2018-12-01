@@ -1,3 +1,10 @@
+---
+layout: essay
+title:  "Long Term"
+subtitle: "Long Term Decisions"
+permalink: long-term
+---
+
 If you're here you're looking for clarity on your next step. 
 
 I wrote this in a moment of clarity, and addressed it to my future self. 
