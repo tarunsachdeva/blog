@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taking a Music Break"
-date:   2018-11-29 12:00:00 -0500
+date:   2018-11-30 12:00:00 -0500
 categories: music
 draft: false
 ---
