@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "100"
+date:   2018-12-01 12:00:00 -0500
+categories: general
+draft: false
+---
+
+For the last 100 days, I've written everyday on this blog. Topics ranged from leadership, productivity, startups, code, and mental models.
+
+Sometimes the words have come easy. I've written some detailed, multi-part series. There are 20 posts about the [leadership lattice]({{ site.baseurl }}{% post_url 2018-10-20-leadership-lattice-simplified %}}), a learning framework for new leaders with roots in systems thinking. I've explored the world of crypto with a [series of posts]({{ site.baseurl }}{% post_url 2018-09-07-future-fridays-web3 %}) on the basics of Web 3.0.
+
+Other days, I've struggled with the self-imposed requirement to post everyday. Those days, I've put out nothing more than share an interesting link and some quick commentary.
+
+When I first started, there were many ideas I wanted to write about. When I started exploring some of them, I struggled through the writing process. I've started to gravitate towards a few topics I really enjoy - productivity, code, startups, leadership and learning. That said, this blog still doesn't have a clear topical identity - and that's okay for now. I'm sure I'll figure it out eventually.
+
+More than anything else, I've found value in making the simple _act of writing_ a part of my everyday routine.
+
+I thought 100 would be impossible when I first started. Now, it feels like just the beginning.
