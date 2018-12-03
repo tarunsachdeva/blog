@@ -9,11 +9,11 @@ I'm kicking off **Leadership Wednesday (LW)** with following up on the domains o
 
 As a refresher, the domains of responsibility outlined were (updated with links):
 
+* [The Domain of Self Management]({{ site.baseurl }}{% post_url 2018-10-10-leadership-lattice-self-management %}), concerned with managing yourself as a leader
 * [The Individual Domain]({{ site.baseurl }}{% post_url 2018-09-12-leadership-practice-individual-domain %}), concerned with the management and growth of individuals
 * [The Organization Domain]({{ site.baseurl }}{% post_url 2018-09-19-leadership-latticework-organization %}), concerned with how people organize to work together
 * [The Application Domain]({{ site.baseurl }}{% post_url 2018-09-27-leadership-lattice-application-domain %}), concerned with the specific outputs and outcomes of an organization. 
 * [The Impact Domain]({{ site.baseurl }}{% post_url 2018-10-04-leadership-lattice-impact-domain %}), concerned with the broader impacts of the organization's collective output
-* [The Domain of Self Management]({{ site.baseurl }}{% post_url 2018-10-10-leadership-lattice-self-management %}), concerned with managing yourself as a leader
 
 In following weeks, I'll be examining each domain by detailing:
 

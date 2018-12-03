@@ -18,5 +18,9 @@ Over the next few weeks, I'll start with some of the leadership books that are p
 - Crossing the Chasm by Geoffrey Moore
 - Good to Great by James C. Collins
 - The Fifth Discipline by Peter Senge
+- Effective Executive by Peter Drucker
+- Start with Why by Simon Sinek
+- Five Dysfunctions of a Team by Patrick Lencioni
+- Radical Candor by Kim Scott
 
 I'll be collecting the data from this analysis [in a Google Spreadsheet](https://docs.google.com/spreadsheets/d/1_b6q-XxuldiAuRPUSapd_P9oe0a6WQZh8HkaNhlKXb0/edit#gid=0), but will also link to it from the blog.
