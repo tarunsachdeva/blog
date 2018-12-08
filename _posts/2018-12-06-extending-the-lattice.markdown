@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Extending the Lattice"
+title:  "Extending the Lattice: Peer and Governance Domains"
 date:   2018-12-06 12:00:00 -0500
 categories: leadership
 draft: false
