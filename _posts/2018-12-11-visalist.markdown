@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "VisaList"
+date:   2018-12-11 12:00:00 -0500
+categories: general
+draft: false
+---
+
+VisaList is a new app that was featured on ProductHunt yesterday. It's a simple app - a user enters their country of citizenship, and then are shown all the countries where they can travel with a visa, a special permit, or without any visa. 
+
+It's a deceptively simple app, but can easily be extended to become the first place where travel plans start. Most often, travel plans take visa requirements for granted.
+
+It can also be extended beyond travel visas to work and education visas, and serve a starting point for larger migration decisions that hinge on visa requirements.
+
+Having travelled all my life, I'm way too familiar with visa rules across the world - whether they are related to travel, study, work or immigration. Something like VisaList can become starting point to a very underserved market.
