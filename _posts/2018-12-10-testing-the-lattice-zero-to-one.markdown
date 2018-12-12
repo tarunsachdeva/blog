@@ -6,5 +6,6 @@ categories: general
 draft: false
 ---
 
-Testing the Leadership Lattice: Zero to One
+This post references the book summary provided in [this medium post](https://medium.com/@paulmillr/zero-to-one-summary-8dbda22e1559).
 
+Zero to One, by Peter Thiel, is the seminal guide to the earliest stages of a startup's life. It covers topics like anti-incrementalism, 
