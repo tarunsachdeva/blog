@@ -6,9 +6,9 @@ categories: technology
 draft: true
 ---
 
-Strategy is the exercise of making decisions to drive the direction of a business. Strategy is about choice - what you're doing, and more importantly, what you're not doing. 
+Strategy is the exercise of making decisions to drive business direction. Strategy is about choice - what you're doing, and more importantly, what you're not doing. 
 
-Often, the stories of strategy involve a business taking big risks, employing a clever tactic, or hacking their way to success. Those are stories of how 
+Often, the stories of strategy involve a business taking big risks, employing a clever tactic, or hacking their way to success. Those are stories of 
 
 Evergreen strategies are those that 
 
