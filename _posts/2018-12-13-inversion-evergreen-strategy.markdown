@@ -10,9 +10,7 @@ Strategy is the exercise of making decisions to drive business direction. Strate
 
 Most strategy starts with a variation of a simple question - how can we win? What can we do that will help us capture a market or increase our profits?
 
-Markets are mapped, choices are enumerated, and decision making frameworks are put to work. 
-
-The stories of winning strategy go through that process - the tales of business taking big risks, employing some unique leverage, or hacking their way to success. 
+From that starting point - Markets are mapped, choices are enumerated, and decision making frameworks are put to work. Popular stories of strategy are about businesses taking big risks, employing some unique leverage, or hacking their way to success. 
 
 But what if we turned the process around? What if, instead of thinking _forward_ - developing strategy to help us win - we thought _backwards_ - and focused on strategy that just prevents us from losing.  
 
