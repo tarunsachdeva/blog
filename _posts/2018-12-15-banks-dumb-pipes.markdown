@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Banks and Dumb Pipes"
+title:  "Are Banks the new 'Dumb Pipes'?"
 date:   2018-12-15 12:00:00 -0500
 categories: finance
 draft: false
