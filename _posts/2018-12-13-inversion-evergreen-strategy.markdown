@@ -16,7 +16,7 @@ But what if we turned the process around? What if, instead of thinking _forward_
 
 In other words, what happens when [_inversion_]({{ site.baseurl }} {% post_url 2018-10-01-decision-making-frameworks %}) is the driving force behind strategic planning?
 
-I think what we'll end up with is a land of _evergreen strategy_ - strategy that is quite simply never wrong. The closest example to this is Amazon's focus on low prices and vast selection. One of the most quoted Jeff Bezos 
+I think what you end up with is a land of _evergreen strategy_ - strategy that is quite simply never wrong. The closest example to this is Amazon's focus on low prices and vast selection. One of the most quoted Jeff Bezos 
 
 > I very frequently get the question: "What's going to change in the next 10 years?" And that is a very interesting question; it's a very common one. I almost never get the question: "What's not going to change in the next 10 years?" And I submit to you that that second question is actually the more important of the two -- because you can build a business strategy around the things that are stable in time. ... [I]n our retail business, we know that customers want low prices, and I know that's going to be true 10 years from now. They want fast delivery; they want vast selection.
 > 
