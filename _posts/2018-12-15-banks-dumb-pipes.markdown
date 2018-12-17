@@ -16,4 +16,4 @@ Probably more relevant though is the comparison to cellphone networks before the
 
 A similar shift is in progress in the world of finance. Startups are providing consumers a number of banking services - attacking gaps in user experience, unfriendly pricing and general opacity in the world of banking. By building customer relationships, these companies can expand in the value chain to offer more services that banks currently offer.
 
-This probably doesn't mean a full disruption of banks, but a lot of the value sits above the core banking services (infrastructure, underwriting risk, and securitization). By losing the customer relationship through consumer financial products like checking, savings, investments, and loans - banks risk becoming the dumb pipes the finance industry.
+This probably doesn't mean a full disruption of banks, but a lot of the value sits above the core banking services (infrastructure, underwriting risk, and securitization). By losing the customer relationship through consumer financial products like checking, savings, investments, and loans - banks risk becoming the dumb pipes of the finance industry.
