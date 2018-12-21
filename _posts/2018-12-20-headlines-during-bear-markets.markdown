@@ -1,0 +1,3 @@
+- signals of bottoming - not the bottom / bottom is here
+- fed interest rates 
+- Cash is a good investment / no need for all cash 
