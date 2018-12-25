@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "2018 Media Consumption"
+date:   2018-12-24 12:00:00 -0500
+categories: general
+draft: false
+---
+
+Some of the best media I've come across in 2018: books, music, TV shows, podcasts - all of these things I've recommended multiple times. This is a running list and will be updating as I remember more.
+
+Books I read and recommended:
+- [Atomic Habits](www.atomichabits.com) by James Clear - A great framework for creating lasting behavioural changes ([my review]({{ site.baseurl }}{% post_url 2018-12-22-atomic-habits-review %}))
+- [The 5th Discipline](https://amzn.to/2RdSCno) by Peter Senge - about building teams that improve through continual learning. Not a new book, but one I disccovered this year. Recommended multiple times.
+- [High Growth Handbook](https://amzn.to/2CyaL7o), [Blitzscaling](https://amzn.to/2CyaL7o) and [The Messy Middle](https://amzn.to/2CwlaAm) - All three books are about growing a company in the "1 to n" phase.
+- [It Doesn't Have to be Crazy at Work](https://amzn.to/2RgTEPx) - The antidote to the previous three books. A sober take on company building - not found much in tech. 
+
+Websites I found myself visiting repeatedly:
+- [Farnam Street](www.fs.blog) (Blog) and the associated podcast, [The Knowledge Project](https://fs.blog/the-knowledge-project/)
+- I spent too much time on the short term news cycle and found myself going directly to news sources - CNN, Bloomberg, Axios, CNBC, Fox instead of through social media. 
+
+Music I played on repeat:
+- This incredible [Black Thought freestyle](https://www.youtube.com/watch?v=prmQgSpV3fA)
+- [Enter the Marauders](https://soundcloud.com/djfilthyrich/a-clan-called-wu-enter-the-marauders) - a Wu-Tang / Tribe mix by DJ Filthy Rich
+- [NASIR](https://amzn.to/2Czq1kp) (Nas)
+- [Scorpion](https://amzn.to/2BIqv5N) (Drake)
+- [November](https://www.youtube.com/watch?v=txZVJ24UVUs) (SiR)
+- [KTSE](https://www.youtube.com/watch?v=21njPEhEutQ) (Teyana Taylor)
