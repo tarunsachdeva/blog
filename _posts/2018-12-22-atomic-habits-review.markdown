@@ -19,4 +19,6 @@ I also really enjoyed the summaries at the end of every chapter. More books, esp
 Some of the key points that I found useful:
 * Start by defining your identity, and then the behaviours. When we try to change our habits (add new or remove existing), we often focus on the behaviours - going to the gym, reading every day, etc. It's easier to write everyday if you consider yourself a _writer_. 
 * Behaviour change follows the path of least resistance. Set up your environment and understand yourself to prevent the cues for bad habits. This is [inversion]({{ site.baseurl }}{% post_url 2018-10-01-decision-making-frameworks %}) applied to habit forming.
-* Implementation intention statements can be an effective way to take action on new habits.
+* Sometimes, it just comes down to writing it down and saying it aloud. Implementation intention statements can be an effective way to take action on new habits.
+
+* 
