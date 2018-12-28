@@ -14,6 +14,8 @@ The _Why_ is what motivates customers to use a product. It drives people to take
 
 The _How_ is what customers do in a product. It's the behaviours, the interactions, and how they feel going through your product. The How is about the measurable feedback - for an individual customer or your entire base. _How_ can be easy to start, but difficult to do well. It reveals itself with intention about what to measure.
 
-As a Product Manager, both Why and How give you perspective about your product and it's market. They can stand on their own, and you can certainly be successful by focusing on any one of them. I've met many PM's who are successful at one or the other. It's no uncommon to have teams where one PM is focused on "Why" and another on "How". 
+I've met many PM's who are better at one or the other. In a team, it's not uncommon where one PM is focused on "Why" and another on "How". 
 
-Why without How can lead to big vision without any accountability. How without Why leads to a graveyard of products no one will use. When put together, How and Why provide the insight required to build great products.
+When a team lacks one of these perspectives, it's never good. Why without How can lead to big vision without any accountability for success. How without Why leads to short term thinking because no one understands the real problem being solved. 
+
+When put together, How and Why provide the perspectives to build great products.
