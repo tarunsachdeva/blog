@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2019: Tell More People"
-date:   2018-12-26 12:00:00 -0500
+title:  "2019: Do More Publicly"
+date:   2018-12-31 12:00:00 -0500
 categories: general
 draft: true
 ---
@@ -10,10 +10,12 @@ draft: true
 
 Most importantly - I became a parent, and decided to take an extended paternity leave. 
 
-It was 
-
 I started writing everyday in August 2018. It was a small bit of productive, creative output throughout my parental leave.
 
-I written about leadership, finance, productivity, tech - but I was hesitant to share. It was a combination of factors.
+I written about leadership, finance, productivity, tech - but I was hesitant to share.
+
+
+
 
 Next year, my focus is to do more in public.
+
