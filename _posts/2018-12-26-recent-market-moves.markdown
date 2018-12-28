@@ -10,5 +10,5 @@ The last two days in the stock market have been wild. The worst Christmas ever, 
 
 It helps to have the insight of those that can see the forest from the trees, and I consider Ray Dalio one of those people. 
 
-He wrote [an excellent article](https://www.linkedin.com/pulse/help-put-recent-economic-market-moves-perspective-ray-dalio/?published=t) recently that helps to make sense of what is happening. He manages to explain complex systems like the global economy into a simple format, and it's worth the read. 
+He wrote [an excellent article](https://www.linkedin.com/pulse/help-put-recent-economic-market-moves-perspective-ray-dalio/?published=t) recently that helps to make sense of what is happening. He explains complex systems like the global economy in a simple format, and it's worth the read. 
 
