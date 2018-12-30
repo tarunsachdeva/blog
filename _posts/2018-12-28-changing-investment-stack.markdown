@@ -6,7 +6,7 @@ categories: finance
 draft: false
 ---
 
-This year I changed my approach to managing my investments and moved away from using a financial advisor to an independent broker. I also changed my investment strategy and asset allocation. This is a guide that goes through the steps I did, for anyone considering the same transition. If you are doing this - before you do anything - understand what it means to manage your own money. 
+This year I changed my approach to managing my investments and moved away from using a financial advisor to an independent broker. I also changed my investment strategy and asset allocation. This guide goes through my process for anyone considering the same transition. If you are doing this - before you do anything - understand what it means to manage your own money. 
 
 DISCLAIMER: I do not provide personal investment advice and I am not a qualified licensed investment advisor. I will not and cannot be held liable for any actions you take as a result of anything you read here.
 
@@ -14,7 +14,7 @@ DISCLAIMER: I do not provide personal investment advice and I am not a qualified
 
 This goes without saying, but any changes you are making to your investment strategy needs to fit within a plan. Your Financial Plan starts with understanding your current financial situation and your long term goals. Your Plan provides a path towards those goals from where you are today. Your investment strategy is a way to achieve this plan. If you have an investment strategy but no clear goals, there is no way to tell whether or not that strategy was successful.
 
-**Step 1: Understand Why Your Are Doing This**
+**Step 1: Understand Why You Are Doing This**
 
 It's important to take stock of why you are (a) moving away from an advisor and (b) choosing to manage your own investments. Both of these are completely different, but people often think about one without the other. Even if you are not satisfied with your advisors fees or investment strategy, you may not want to manage it all yourself. Just be mindful of what you are doing. 
 
@@ -26,7 +26,7 @@ Make sure your account setup mirrors what you have with your advisor. When you a
 
 Note: If you are married and setting up accounts with your spouse, make sure you request the trading authority / power of attorney so that you can manage it all in one dashboard without having to switch accounts.
 
-**Step 3: Making the Transition: Requesting The Transfer**
+**Step 3a: Making the Transition - Requesting The Transfer**
 
 Every brokerage will give you the option to transfer from an existing financial institution. The best brokerages make this process really easy (as they should!). 
 
@@ -36,7 +36,7 @@ You can also choose to transfer in-kind (transfer the securities as-is, without 
 
 Most brokerages will charge you for transferring out (mine charged $125 + tax), but the receiving brokerage is often happy to pay for that - as long as you show them the statement where the charge was made. That means you'll need to log into your old brokerage after the transfer was made to get that statement. It often needs to be an official PDF statement for the refund, so you might have to wait until the next statement date.
 
-**Step 4: Making the Transition: Communicating with Your Advisor**
+**Step 3b: Making the Transition - Communicating with Your Advisor**
 
 Once you have pushed the button and moved all your assets and cash - I would recommend you tell your advisor immediately. Many brokerages advise against thias to avoid an awkward conversation - but I don't think it's right.
 
