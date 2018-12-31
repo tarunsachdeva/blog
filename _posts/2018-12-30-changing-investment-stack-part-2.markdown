@@ -3,7 +3,7 @@ layout: post
 title:  "Changing My Investment Stack (Part 2 of 2)"
 date:   2018-12-30 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
 In the [first part]({{ site.baseurl }}{% post_url 2018-12-28-changing-investment-stack %}) of this series, I detailed my move from a financial advisor to an independent brokerage, focusing on the account setup and asset transfer. In this part, I detail the steps I followed to change my investment strategy.
