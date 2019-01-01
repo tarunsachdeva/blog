@@ -10,7 +10,7 @@ This year I changed my approach to managing my investments and moved away from u
 
 DISCLAIMER: I do not provide personal investment advice and I am not a qualified licensed investment advisor. I will not and cannot be held liable for any actions you take as a result of anything you read here.
 
-**Step 0: Have a Financial Plan**
+**Step 0: Revisit my Financial Plan**
 
 This goes without saying, but any changes you are making to your investment strategy needs to fit within a plan. Your Financial Plan starts with understanding your current financial situation and your long term goals. Your Plan provides a path towards those goals from where you are today. Your investment strategy is a way to achieve this plan. If you have an investment strategy but no clear goals, there is no way to tell whether or not that strategy was successful.
 
