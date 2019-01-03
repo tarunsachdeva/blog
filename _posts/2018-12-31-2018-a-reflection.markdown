@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2018, In One Image"
+date:   2018-12-31 12:00:00 -0500
+categories: general
+draft: false
+---
+
+This image sums up my year perfectly.
+
+![2018](/assets/img/2018.jpeg){:width="600px"}
+
+I'm really excited about 2019. I think it's going to be really interesting.

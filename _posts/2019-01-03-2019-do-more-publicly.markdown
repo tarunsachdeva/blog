@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2019: Do More Publicly"
-date:   2018-12-31 12:00:00 -0500
+date:   2018-01-03 12:00:00 -0500
 categories: general
 draft: true
 ---
@@ -13,8 +13,6 @@ The highlight was, ofcourse, becoming a parent to twins. I decided to spend most
 Parenting is all-consuming, but turning off from work was still difficult. It was (and still is) such a strong part of my identity.
 
 I needed a creative, productive outlet that fit with the parenting schedule. Something I could do whether I had 5 minutes or 2 hours. I started writing, and created a simple [blog](www.tarunsachdeva.com).
-
-I started on August 27, and have written everyday since then.
 
 I've written about leadership, technology, mental models, finance, and whatever else comes to mind. 
 
