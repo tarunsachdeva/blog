@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2019: Do More Publicly"
-date:   2018-01-03 12:00:00 -0500
+date:   2019-01-06 12:00:00 -0500
 categories: general
 draft: true
 ---
