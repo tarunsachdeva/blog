@@ -17,8 +17,8 @@ There are many takeaways from the book, and Clear has done readers a great servi
 I also really enjoyed the summaries at the end of every chapter. More books, especially non-fiction, should do this. 
 
 Some of the key points that I found useful:
-* Start by defining your identity, and then the behaviours. When we try to change our habits (add new or remove existing), we often focus on the behaviours - going to the gym, reading every day, etc. It's easier to write everyday if you consider yourself a _writer_. 
-* Behaviour change follows the path of least resistance. Set up your environment and understand yourself to prevent the cues for bad habits. This is [inversion]({{ site.baseurl }}{% post_url 2018-10-01-decision-making-frameworks %}) applied to habit forming.
-* Sometimes, it just comes down to writing it down and saying it aloud. Implementation intention statements can be an effective way to take action on new habits.
-
-* 
+* Every human behaviour follows the habit loop - cue, craving, response, and reward - most times without our awareness. Building habits is about understanding and being intentional about this loop.
+* We too often start with trying to change our behaviours directly. Instead, start by defining your identity (or desired one), and then the behaviours will follow. He writes about this [here](https://jamesclear.com/identity-based-habits). Specifically focus on the 3 layers of behaviour change - identity, process, and outcome.
+* Behaviour change follows the path of least resistance. Set up your environment and understand yourself to prevent the cues for bad habits. This is a form of [inversion]({{ site.baseurl }}{% post_url 2018-10-01-decision-making-frameworks %}) applied to habit forming.
+* _Habit stacking_ is about attaching a new behaviour to an existing one. It can be an effective way to start a new habit (existing behaviour becomes a cue for the new one, and can also be a reward if it's more desirable).
+* Sometimes, it just comes down to writing it down and saying it aloud. James provides some simple affirmation statements for habit building (called "implementation intentions"). 
