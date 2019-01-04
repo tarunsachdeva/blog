@@ -22,3 +22,4 @@ Some of the key points that I found useful:
 * Behaviour change follows the path of least resistance. Set up your environment and understand yourself to prevent the cues for bad habits. This is a form of [inversion]({{ site.baseurl }}{% post_url 2018-10-01-decision-making-frameworks %}) applied to habit forming.
 * _Habit stacking_ is about attaching a new behaviour to an existing one. It can be an effective way to start a new habit (existing behaviour becomes a cue for the new one, and can also be a reward if it's more desirable).
 * Sometimes, it just comes down to writing it down and saying it aloud. James provides some simple affirmation statements for habit building (called "implementation intentions"). 
+* Making it satisfying comes down to chasing the feeling once you're done the behaviour (which is instant) vs. chasing the result (which is delayed). Focusing on the latter decreases the likelihood of sticking with the habit.
