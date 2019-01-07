@@ -6,7 +6,21 @@ categories: general
 draft: true
 ---
 
-One of my favorite essays is "What Screens Want" by Frank Chimero.
+I re-read one of my favorite essays recently - [What Screens Want](https://frankchimero.com/writing/what-screens-want/) by Frank Chimero. Calling it an essay doesn't do it justice - it's an entertaining combination of words, images and video.
+
+There's one analogy from it that I've always wanted to examine further - of how **software has become like plastic**.
+
+The 
+
+
+
+
+
+
+
+
+
+
 
 - Software is like plastic. 
 - The plastic industry started by trying to mimic other materials - faux leather, wood grain, etc. And then we started making things that could only be made by plastic. It has the unique property of being able to _become anything_. Now, almost everything around us is made of plastic.
