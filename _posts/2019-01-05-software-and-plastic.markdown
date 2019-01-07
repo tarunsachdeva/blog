@@ -10,10 +10,14 @@ Software is like plastic - it started off trying to mimic something, and now has
 
 Infact, it is becoming _everything_. It is eating the world, and we are rushing to become closer to it.
 
-It is clear we are hurtling towards a world where software will be everywhere and in everything. So much so that it will become invisible.   
+It is clear we are hurtling towards a world where software will be everywhere and in everything. So much so that it will become invisible. 
+
+In this essay, I want to examine:
 - Who will create it? Will software be made by many or the few?
 - How will we value it? Will we consider it real? Will we go back?
-- 
+- What happens when we create too much software? What is the software equivalent of the plastic pacific garbage patch?
+
+
 
 
 

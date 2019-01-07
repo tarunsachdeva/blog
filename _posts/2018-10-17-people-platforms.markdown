@@ -21,4 +21,4 @@ The concept of a People Platform is very similar to a concept I explored few day
 
 > In essence - startups are **systems of impact** - they provide leverage to an individual's contribution so they can create the biggest possible impact. Organizations that are successful are excellent levers - they grow individuals, they provide them with the opportunities to exercise that leverage, and part of that is building great products and distribution networks.
 
-The companies that grow to be successful in the long term are those whose in which leaders focus on excellenace across _all_ [domains of leadership]({{ site.baseurl }}{% post_url 2018-09-05-leadership-wednesdays %}), and build an repeatable infrastructure to do so.
+The companies that grow to be successful in the long term are those whose in which leaders focus on excellenace across _all_ [domains of leadership]({{ site.baseurl }}{% post_url 2018-09-05-leadership-lattice %}), and build an repeatable infrastructure to do so.

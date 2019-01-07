@@ -20,4 +20,4 @@ Most of the concepts in the book are centered in the domain of self management. 
 
 However, many concepts also apply to the individual and team domains. The sections on contribution, strengths and concentration - all have lessons for managing individuals and creating organizational flow. There is a significant focus in managing teams time and running effective meetings.
 
-The lessons from Effective Executive fit well in the structure of the [lattice]({{ site.baseurl }}{% post_url 2018-09-05-leadership-wednesdays %}), and reinforce the lattice as a useful framework for learning about leadership and management.
+The lessons from Effective Executive fit well in the structure of the [lattice]({{ site.baseurl }}{% post_url 2018-09-05-leadership-lattice %}), and reinforce the lattice as a useful framework for learning about leadership and management.

@@ -3,6 +3,9 @@ layout: default
 ---
 
   <h2>{{ page.title | escape }}</h2>
+  
+  {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+  <div class="post-meta f3-light text-small">{{ post.date | date: date_format }}</div>
 
   <div class="post-content">
     {{ content }}
