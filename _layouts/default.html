@@ -9,11 +9,39 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-      {% endif %}
+      <div id="blog-header" class="columns">
+        <div class="column col-12">
+          {% if site.title and site.title != page.title %}
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+          {% endif %}
+        </div>
+      </div>
 
-      {{ content }}
+      <div class="columns">
+        <div class="column col-8">
+          {{ content }}
+        </div>
+        <div class="column col-4">
+          <div class= "post-disclaimer">
+            <h3>About</h3>
+              <div>
+                <p>My name is Tarun Sachdeva. I'm the GM of <a href="http://www.taptaptap.co">Tap</a> by <a href="http://www.wattpad.com">Wattpad</a>, a platform for enjoying interactive stories.</p>
+
+                <p>I use this space to write everyday - to clarify my thoughts, learn through writing, and sometimes just journal and post things I find interesting.</p>
+
+                <p>This blog is also <a href="/20180828/blogging-on-github-pages.html">open source</a>.</p>
+              </div>
+            <h3>Subscribe</h3>
+              <p><a href="/feed.xml">RSS</a></p>
+            <h3>Contact</h3>
+            <p>
+              <a href="http://www.twitter.com/bombayhustle">Twitter</a><br/>
+              <a href="mailto:tarun@tarunsachdeva.com">Email</a><br/>
+              <a href="https://www.github.com/tarunsachdeva">Github</a>
+            </p>
+          </div>                    
+        </div>
+      </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
