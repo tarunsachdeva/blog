@@ -7,6 +7,9 @@
   margin-right: -$grid-gutter;
   margin-left: -$grid-gutter;
   @include clearfix;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
 }
 
 // Base class for every column (requires a column width from below)

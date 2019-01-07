@@ -9,19 +9,34 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-
-      <div class="container">
-        <div class="columns">
-          <div class="column two-thirds">
-            {% if site.title and site.title != page.title %}
-              <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-            {% endif %}
-          </div>
-          <div class="column one-third">About</div>
+      <div id="blog-header" class="columns">
+        <div class="column col-12">
+          {% if site.title and site.title != page.title %}
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+          {% endif %}
         </div>
       </div>
 
-      {{ content }}
+      <div class="columns">
+        <div class="column col-8">
+          {{ content }}
+        </div>
+        <div class="column col-4">
+          <div class= "post-disclaimer">
+            <h3>About</h3>
+              <div>
+                <p>This is the personal blog of Tarun Sachdeva.</p>
+
+                <p>I use the space to clarify my thoughts, learn through writing, and sometimes just journal and post things I find interesting. Posts are updated often and changes can be tracked <a href="https://github.com/tarunsachdeva/blog/commits/gh-pages/{{ page.path }}">here</a> if you're interested.</p>
+              </div>
+            <h3>Contact</h3>
+              <a href="http://www.twitter.com/bombayhustle">Twitter</a><br/>
+              <a href="mailto:tarun@tarunsachdeva.com">Email</a>
+            <h3>Subscribe</h3>
+              <a href="/feed.xml">RSS</a>
+          </div>                    
+        </div>
+      </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
