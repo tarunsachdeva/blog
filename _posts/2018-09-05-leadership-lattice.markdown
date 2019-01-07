@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Leadership Wednesdays: Building The Lattice"
+title:  "Building The Leadership Lattice"
 date:   2018-09-05 12:00:00 -0500
 categories: leadership
 ---
 
-I'm kicking off **Leadership Wednesday (LW)** with following up on the domains of responsibilty outlined in [developing a leadership latticework]({{ site.baseurl }}{% post_url 2018-08-29-developing-leadership-latticework %}). This learning framework is simply an outline of the areas for which leaders are either directly responsible or accountable.
+I'm kicking off this post following up on the domains of responsibilty outlined in [developing a leadership latticework]({{ site.baseurl }}{% post_url 2018-08-29-developing-leadership-latticework %}). This learning framework is simply an outline of the areas for which leaders are either directly responsible or accountable.
 
 As a refresher, the domains of responsibility outlined were (updated with links):
 
