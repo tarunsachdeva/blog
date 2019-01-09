@@ -22,7 +22,7 @@ A central service can now offer the ability to schedule service providers and cr
 
 The use case is when you leave the house every morning to go to work, you'll know exactly who's coming in, what services they are going to provide, and most importantly - you'll come home to a house where many chores are already done for you.
 
-Trust is the obvious question - why would I trust strangers to come into my house? This is where you can follow the Uber and Lyft trust infrastructure model (which has it's own flaws, but largely works). After all, we would never have imagined getting into a strangers car to have them drive us somewhere, until Uber and Lyft provided a trust infrastructure to do so. 
+Trust is the obvious question - why would I trust strangers to come into my house? This is where you can follow the Uber and Lyft trust infrastructure model (which has it's own flaws, but largely works). After all, we would never have imagined getting into a strangers car to have them drive us somewhere, until Uber and Lyft provided the infrastructure to do so. 
 
 What is stopping this currently is the massive amout of fragmentation in smart locks, which makes it difficult to offer a seamless user experience. However, the connection to Homekit and Alexa makes this future possible. 
 

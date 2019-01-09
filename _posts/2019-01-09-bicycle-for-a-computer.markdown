@@ -1,10 +1,17 @@
 ---
 layout: post
-title:  "AI / Bicycle for Mind"
+title:  "Thoughts on Software"
 date:   2019-01-07 12:00:00 -0500
 categories: technology
 draft: true
 ---
+
+
+SOFTWARE THOUGHTS
+
+- Abstraction
+- Decomposition
+- Community
 
 - AI is making software is becoming harder to decompose. Google in Congress - can't modify search results.
 - The future of software will be the connection of multiple AI models. Tensorflow but easier to approach.

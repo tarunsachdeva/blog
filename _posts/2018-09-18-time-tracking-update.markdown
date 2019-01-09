@@ -34,3 +34,5 @@ A few insights from the To do Tracking data:
 * Based on this I will try a better structure for task sizing and see if that affects my rate. 
 
 This practice gives me a great baseline and also a great experiment framework for productivity - I can try new productivity methods and see their impact. I'll likely continue this for the foreseeable future. 
+
+**Update**: I've stopped this exercise after 3 months. I stopped getting value from it, and found every day to be highly repetitive as a new parent. I may start it up again later.
