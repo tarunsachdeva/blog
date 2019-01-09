@@ -16,3 +16,5 @@ So, here’s a tentative list of the theme days. Hopefully this reduces the burd
 On other days, I’ll leave it open to other topics. This might be too much structure already but I'm looking forward to reducing some burden of choice, and just write. I’m not sure. Let’s see.
 
 **Update**: I've changed these recently based on experience over the last week. I initially had 5 theme days a week, and found it to be too much structure and made writing less enjoyable. The changes to this post show the edits I made. 
+
+**Update 2**: I've [ended theme days]({{ site.baseurl }}{% post_url 2018-11-17-ending-theme-days %}). It works for some, but it just didn't for me. 

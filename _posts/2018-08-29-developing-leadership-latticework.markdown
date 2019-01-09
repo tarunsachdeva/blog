@@ -28,4 +28,4 @@ I then broke this down further to highlight **the domains of responsibility of a
 
 This is a system in which these domains are highly connected to each other, and they interact with the adjacent ones. Individual impact teams, teams impact outputs, etc. 
 
-In further posts, I'll expand on each domain. I will also stress test this framework through my personal experience and practice, as well as through examining how battle-tested leadership practices can be added into this approach. I’m looking forward to seeing when and how this breaks. 
+In further posts, I'll expand on each domain. I will also "stress test" this framework through my personal experience and practice, as well as through examining how battle-tested leadership practices can be added into this approach. I’m looking forward to seeing when and how this breaks. 

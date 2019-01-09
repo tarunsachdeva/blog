@@ -6,10 +6,10 @@ categories: code
 ---
 This blog is completely [open source](https://github.com/tarunsachdeva/blog/). It is based on the [Jekyll](https://jekyllrb.com/) library, which helps people create static sites, and is hosted on [Github Pages](https://pages.github.com/). 
 
-Why?
+Why? 
 
-- Hosting it myself gives me complete control of the format and content. Maintenance is minimal because it is a static site (there is no database). Jekyll has great integration with Github and an active community to help with any issues.
-- Github let’s me track changes in an [extremely detailed](https://github.com/tarunsachdeva/blog/commits/gh-pages) way. All my edits are available for anyone to see, which creates a strange sense of vulnerability and accountability. 
+- Hosting it myself gives me complete control of the format and content. Maintenance is fairly easy despite the extra steps. This is just a static site so I'm just editing Markdown files. Jekyll has great integration with Github and an active community to help with any issues. 
+- I like the development workflow for writing. Git let’s me track changes in an [extremely detailed](https://github.com/tarunsachdeva/blog/commits/gh-pages) way. All my edits are available for anyone to see, which creates a strange sense of vulnerability and accountability. 
 
 Everything here is boilerplate Jekyll. A few small modifications:
 
