@@ -5,7 +5,7 @@ date:   2018-09-03 12:00:00 -0500
 categories: mentalmodels
 ---
 
-In the past year, one of the most transformative practices I’ve found is to be more intentional about my own and other people’s mental models. It’s been transformative in that it’s helped me change how I learn, improve my decision making, and provide clarity of thought. 
+In the past year, one of the most transformative practices I’ve found is to be more intentional about my own and other people’s mental models. It provides clarity of thought, changed how I learn, and improved my decision making.
 
 A mental model is a simplified representation of the world around us. It can come in the form of an assumption, generalization or even an image. We use models to understand the world around us, and our models directly influence our actions. 
 

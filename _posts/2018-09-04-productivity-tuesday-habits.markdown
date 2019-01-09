@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Productivity Tuesday: Managing Habits"
+title:  "Managing Habits"
 date:   2018-09-04 12:00:00 -0500
 categories: productivity
 ---
 
-Productivity is the art of practicing leadership on yourself. In **Productivity Tuesday (PT)**, I'll reflect and share on that practice, and of bridging the gap between intention and the outcomes we seek. Whatever I share by way of advice and tips will come with some kind of empirical evidence or insight from personal experience. 
+Productivity is the art of practicing leadership on yourself. In **Productivity Tuesday**, I'll reflect and share on that practice, and of bridging the gap between intention and the outcomes we seek. Whatever I share by way of advice and tips will come with some kind of empirical evidence or insight from personal experience. 
 
 The first PT is about habits.
 

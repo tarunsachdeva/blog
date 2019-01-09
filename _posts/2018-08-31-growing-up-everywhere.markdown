@@ -5,7 +5,9 @@ date:   2018-08-31 12:00:00 -0500
 categories: general
 ---
 
-I've reflected a lot on my own childhood, as I'm sure many new parents do. My childhood was characterized by movement - my father worked as an officer in the Indian Diplomatic corps, and we moved to different countries in three year stretches until I was 18, when I settled in Canada. 
+Everyone who knows me well enough has heard this story multiple times. It's an important part of my identity, and something I think about frequently as a new parent.
+
+My childhood was characterized by movement - my father worked as an officer in the Indian Diplomatic corps, and we moved to different countries in three year stretches until I was 18, when I settled in Canada. 
 
 I was born in New Delhi, India in July of 1981.  When I was an infant, we moved to Copenhagen, Denmark. My parents tell me I spoke Danish pretty well but I remember none of it. 
 

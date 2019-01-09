@@ -5,14 +5,15 @@ date:   2018-09-02 12:00:00 -0500
 categories: productivity
 ---
 
-I’ve approached many self improvement challenges recently by starting with a practice of self curiosity before taking action or making a major decision on what to improve.
+I’ve approached many self improvement challenges recently by starting with a practice of self curiosity before taking action or making a major decision on what to improve. 
 
-For example, when trying to make sure I was eating right and drinking enough water, I started just by keeping a log of how many glasses of water I'm drinking daily. 
+For example, when trying to make sure I was eating right and drinking enough water, I started by keeping a log of how many glasses of water I'm drinking daily. I didn't make any _intentional_ changes.
 
 There are a few reasons why this approach works well:
 
 * It is a great way to get a baseline understanding of what is happening now. It helps to make sure I know how much I need to improve something - whether a gradual or more drastic approach to change is necessary.
 * It establishes a habit of measurement before any changes are actually made. This habit is just as important than the change itself.
+* The act of measurement always creates some change in behaviour - often for the better.
 
 A few areas where self-curiosity has been critical:
 * Time tracking: I've become curious about [how I'm spending my time]({{ site.baseurl }}{% post_url 2018-08-30-time %}), with the ultimate goal of making sure I'm spending an appropriate amount of time on the things that matter to me most. 
