@@ -3,7 +3,7 @@ layout: post
 title:  "A Better Trust Model for Home Services"
 date:   2019-01-08 12:00:00 -0500
 categories: technology
-draft: true
+draft: false
 ---
 
 In a [previous post]({{ site.baseurl }}{% post_url 2018-10-05-smart-locks-home-permissions-layer %}), I wrote about how smart locks enable a permissions layer for the home. 
