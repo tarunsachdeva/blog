@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Calendar as a Product and Platform"
+title:  "The Calendar as a Network and Platform"
 date:   2018-09-30 12:00:00 -0500
 categories: technology
 ---
