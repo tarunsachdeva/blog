@@ -1,29 +1,21 @@
 ---
 layout: post
-title:  "2019: Do Things and Tell More People"
+title:  "2019: Do Things and Tell _More_ People"
 date:   2019-01-09 12:00:00 -0500
 categories: general
 draft: false
 ---
 
-2018 was a busy year.
+This blog started in August 2018. It was a way to kickstart a writing habit, and as a much-needed creative output during parental leave.
 
-The highlight was ofcourse becoming a parent to [twin girls](https://www.instagram.com/p/Bkg8IrjnVjb/). I spent most of the year on an extended parental leave, and I'm really happy about that decision.
+It's been four months of daily writing; almost 140 posts. 
 
-Parenting is a full-court-press experience. Some parts of it were expected - the lost sleep, the emotional highs and lows, the bad eating habits. I knew it would be difficult, but I didn't expect to question my identity in the process. 
+Posts about everything from productivity, learning frameworks, technology, immigration, mental models, and whatever else comes to mind. This has become a tool for learning, a way to think through ideas, a journal and sometimes just a bookmarking tool.
 
-I went from hours of free time a day, to sometimes only 30 minutes. This made me ruthlessly prioritize what's really mattered.
+But - I've been pretty quiet about it - choosing not to share except occassionally to close friends. 
 
-I realized it was really important to have some kind of productive, creative output everyday. I needed something to work on, that fit into the new parent schedule. Something  that was still possible in 20 minutes or two hours. 
+This is a familiar pattern - for me, and I'm sure many others too.
 
-So I opened my laptop and started writing. I published this blog in August 2018. 
+I want to start 2019 by reversing that trend. To simply [do things and tell _more_ people]({{ site.baseurl }}{% post_url 2018-12-07-do-things-and-tell-people %}). So I'm starting here - by telling you what I've been up to for the last few months.
 
-Fast forward to today, I've published over 135 articles. I've written about everything from leadership, productivity, technology, mental models, finance, and whatever else comes to mind. It has become a tool for learning, a way to think through ideas, a journal and sometimes just a bookmarking tool.
-
-But I've been quiet about the whole thing. The only people that knew were the friends I'd share with occasionally.
-
-This is a familiar pattern for me, and it's time to change.
-
-In 2019, my goal is simple. To [do things and tell _more_ people]({{ site.baseurl }}{% post_url 2018-12-07-do-things-and-tell-people %}). So I'm starting here - by telling you what I've been up to for the last few months.
-
-I'm excited about the new year, and hope you are too.
+I'm excited about the new year, and hope you are too. 
