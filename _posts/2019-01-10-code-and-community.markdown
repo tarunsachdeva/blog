@@ -6,7 +6,7 @@ categories: general
 draft: false
 ---
 
-This post is about the relationship between code and community today, sparked by Github's recent [major announcement](https://blog.github.com/2019-01-07-new-year-new-github/).
+This post is about the close relationship between code and community, sparked by Github's recent [major announcement](https://blog.github.com/2019-01-07-new-year-new-github/).
 
 There is a social infrastructure that underpins today's development workflow. Building anything with code _requires_ the help of communities like Stack Overflow, Github and CodePen. To the point where an [open source] technology is considered only as good as the engagement of it's underlying community.
 
