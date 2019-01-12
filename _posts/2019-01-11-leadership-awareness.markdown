@@ -3,7 +3,7 @@ layout: post
 title:  "Awareness and Action"
 date:   2019-01-11 12:00:00 -0500
 categories: leadership
-draft: true
+draft: false
 ---
 
 A short (and somewhat abstract) post about awareness and action in the management context.
