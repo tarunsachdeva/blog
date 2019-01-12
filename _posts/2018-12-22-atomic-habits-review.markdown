@@ -8,9 +8,9 @@ draft: false
 
 I just finished [Atomic Habits](www.atomichabits.com) by James Clear. 
 
-This is the type of book you want to read so fast (so you can put it to use), but _need_ to read fully to understand. Thankfully, it's mostly signal and very little filler, and reads fairly quickly. 
+This is the type of book you want to read so fast (so you can put it to use). It's all signal and no filler.
 
-That said, it would also be a great book to pick up, read one chapter, and then put down again for a while. Each chapter stands on it's own - not surprising because it started as a series of blog posts.
+The 4 step habit framework underpins the entire book but each chapter also stands on it's own. This isn't surprising because it started as a series of blog posts.
 
 There are many takeaways from the book, and Clear has done readers a great service by creating a [cheatsheet](https://atomichabits.com/cheatsheet) of the habits framework. 
 
