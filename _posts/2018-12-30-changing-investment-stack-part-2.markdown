@@ -26,6 +26,6 @@ I won't go into the details of my new allocation, but it is a combination of [mo
 
 This was a two step process - selling the old stocks/bonds and using those proceeds, buying the same amount of the new. 
 
-I decided not to market time and made all my sell orders almost as soon as the transfer between brokerages was complete. The buy process is taking a little bit longer, primarily because of the recent activity in the market. I had a conversation recently ([and wrote about]({{ site.baseurl }}{% post_url 2018-12-08-entering-bear-markets %})) entering bear markets as an amateur investor.
+I decided not to market time and made all my sell orders almost as soon as the transfer between brokerages was complete. The buy process is taking a little bit longer, primarily because of the recent activity in the market. I recently ([wrote about]({{ site.baseurl }}{% post_url 2018-12-08-entering-bear-markets %})) investing in bear markets as well.
 
 This was a long and drawn out process - especially because it was my first time and I was extra cautious. I learned a lot along the way and am looking forward to taking greater control of my investments.
