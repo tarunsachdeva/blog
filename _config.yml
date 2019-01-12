@@ -31,3 +31,4 @@ permalink: /:year:month:day/:title:output_ext
 date_format: "%b %-d, %Y"
 paginate: 5
 paginate_path: "/page:num/"
+google_analytics: true
