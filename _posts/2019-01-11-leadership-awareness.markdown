@@ -14,4 +14,4 @@ In the context of management - _awareness_ is understanding the people, how they
 
 Awareness is also about understanding your peer group and governance structure, and what they and their organizations need to be successful. Managing anything in an organization requires the ability to influence change in all those directions. Doing so will make you a better citizen of your organization. 
 
-When any action is needed - whether the change is sudden or gradual - lasting impact requires a greater sensitivity and awareness of your ‘company system’.
+When it's time to take action, the awareness of a company-system helps to create change that has lasting impact.
