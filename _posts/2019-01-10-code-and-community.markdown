@@ -10,7 +10,7 @@ This post is about the close relationship between code and community. These thou
 
 There is a social infrastructure that underpins today's development workflow. Building anything with code _requires_ the help of communities like Stack Overflow, Github and CodePen. To the point where an [open source] technology is considered only as good as the engagement of it's underlying community.
 
-In a community, foundational software concepts like abstraction and decomposition take on new meaning. 
+Also, when coding in a community, core software concepts like abstraction and decomposition have new dimension. 
 
 Abstraction - the act of removing complexity - is a foundational concept of computing. In software, abstraction happens at all levels of Code. It is accelerated in a community environment. Open sourcing is synonymous with absracting complexity so code is usable by other programmers. Exposing code to a diverse community also enables new and interesting forms of abstraction, creating new applications along the way.
 
