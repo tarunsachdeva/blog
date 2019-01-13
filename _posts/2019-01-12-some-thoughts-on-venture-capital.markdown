@@ -25,7 +25,7 @@ This 'VC is evil' discourse is familiar, but seems to forget a few fundamental t
 **VC is a phase vs a continual mode of operating.**
 * Startups should think of the period that they are taking VC as a temporary period of rapid acceleration. It's not possible nor desired to stay in this mode. Exits have a very specific purpose.
 * When a company raises,  a board and governance structures are established to guide the company through its growth phase.
-* The best VC's know how to make this long term relationship much more than a financial transaction and understand this is a people business first.
+* The best VC's know how to make this long term relationship much more than a financial transaction. They understand this is a people business first.
 
 **VC has a very specific role to play in the ecosystem.**
 * Venture has played a critical role in developing the most valuable companies on the planet today. The availability of venture capital in an ecosystem can motivate founders to start companies that swing for the fences. 
