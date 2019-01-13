@@ -22,7 +22,7 @@ This 'VC is evil' discourse is familiar, but seems to forget a few fundamental t
 * You cannot blame VC when founders are going into deals with their eyes wide open. No one is forcing anyone to take their money. When it is taken, there is a value exchange and expectation. This value exchange in the form of equity (percentage ownership). It comes with well established governance structures that also may not be appropriate for all companies.
 * Tech companies and VC often go hand in hand, mostly because of the high leverage and distribution potential of the Internet. But just because it's an internet company, doesn't make it _venture scale_.
 
-**VC is a phase, not a continual mode of operating.**
+**VC is a phase vs a continual mode of operating.**
 * Startups should think of the period that they are taking VC as a temporary period of rapid acceleration. It's not possible nor desired to stay in this mode. Exits have a very specific purpose.
 * When a company raises,  a board and governance structures are established to guide the company through its growth phase.
 * The best VC's know how to make this long term relationship much more than a financial transaction and understand this is a people business first.
