@@ -31,4 +31,4 @@ This 'VC is evil' discourse is familiar, but seems to forget a few fundamental t
 * Venture has played a critical role in developing the most valuable companies on the planet today. The availability of venture capital in an ecosystem can motivate founders to start companies that swing for the fences. 
 * In an ecosystem, too much capital and not enough companies means that the dollars and expectations of a VC investment are poured into companies that are simply not ready for it yet. This leads to higher than expected failure rates especially when financial markets are unstable. It seems we may be heading this way.
 
-VC has a lot room for improvement, but too often jump to blaming VC as a financing structure itself. There are many other models of financing and acceleration often more appropriate to realize a company vision.
+VC has a lot room for improvement, but too often jump to blaming the financing structure without understanding it. There are many other models of financing and acceleration often more appropriate to realize a company vision.
