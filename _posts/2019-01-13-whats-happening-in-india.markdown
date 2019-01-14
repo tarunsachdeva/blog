@@ -6,7 +6,7 @@ categories: technology
 draft: false
 ---
 
-In the last few years, the creation and adoption of new internet services has been blowing up in India. This is entirely fueled by one change - the cost of mobile data has dropped dramatically. Today, mobile data costs **less that one tenth** what it did just two years ago. 
+There has been an explosion of internet services in India in the last few years. More and more Indians are coming online. This fuelled entirely by one change - the cost of mobile data has dropped dramatically. Today, mobile data costs **less that one tenth** what it did just two years ago. 
 
 India is now one of the world's largest consumers of mobile broadband data. It was 155th two years ago. By 2024 data usage is expected to [quadruple](https://gadgets.ndtv.com/mobiles/news/india-to-have-1-billion-smartphones-by-2024-data-usage-to-grow-by-4x-ercisson-1954167) as 1 billion smartphones come online. For 2016 and 2017, India's average data usage per SIM was the highest in the world, according to [a report by Tefficient](https://tefficient.com/wp-content/uploads/2018/07/tefficient-industry-analysis-1-2018-mobile-data-usage-and-revenue-FY-2017-per-country-10-July-2018.pdf)).
 
