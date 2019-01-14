@@ -24,4 +24,4 @@ I'm frankly surprised how _little_ we are talking about this change in North Ame
 
 We can now realize the potential of India's billion-people consumer market. This will enable all kinds of innovation and I'm excited to see that happen.
 
-At the same time there is also fear. Our planet is [very sick]({{ site.baseurl }}{% post_url 2018-10-28-climate-change %}), and won't survive another billion people recklessly consuming and creating waste. We cannot ignore this as India comes online and is ready to spend its time and money.
+At the same time there is also fear. Our planet is [very sick]({{ site.baseurl }}{% post_url 2018-10-28-climate-change %}), and won't survive another billion people recklessly consuming and creating waste. We cannot ignore this as India comes online.
