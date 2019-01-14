@@ -12,7 +12,7 @@ This 'VC is evil' discourse is familiar, but seems to forget a few fundamental t
 
 **Venture is a very specific investment type.**
 
-* As a company accepting venture capital, it's important to understand you are part of a broader system of fiduciary responsibility. VC firms raise money from LP's which include pension funds, endowment funds, family offices. This will influence the dynamics between a VC and individual company.  
+* As a company accepting venture capital, it's important to understand you are part of a broader system of fiduciary responsibility. VC firms raise money from LP's which include pension funds, endowment funds and family offices. This will influence the dynamics between a VC and individual company.  
 * VC is often part of an LP's high risk investment buckets. These high-risk-high-reward investments have binary outcomes - most investments will fail to realize any returns, but the ones that hit will more than make up for those failures. This binary outcome is baked into the deal - for both good situations and bad. In the latter, there is specific protection for VC's to recoup any value if a company is sold for parts. 
 
 **Venture is _not_ one size fits all.**
