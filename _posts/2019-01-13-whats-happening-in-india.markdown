@@ -6,7 +6,7 @@ categories: technology
 draft: false
 ---
 
-There has been an explosion of internet services in India in the last few years. Indians have come online to spend their time and money.
+There has been an explosion of internet services in India in the last few years. Indians have come online, ready to spend their time and money.
 
 This is fuelled entirely by one change - the cost of mobile data has dropped dramatically. Today, mobile data costs **less that one tenth** what it did just two years ago. 
 
