@@ -6,7 +6,7 @@ categories: general
 draft: false
 ---
 
-Every year, the Ministry of Immigration releases an [annual report](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/annual-report-parliament-immigration-2018/report.html) to Parliament on immigration. It's a comprehensive report to understand what the ministry is planning for the next few years.
+Every year, the Ministry of Immigration releases an [annual report](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/annual-report-parliament-immigration-2018/report.html) to Parliament on immigration. It's a comprehensive report to understand what the ministry is planning for the next few years. This year the government is planning ahead in a 3-year horizon vs single. 
 
 Some higlights from the Minister's letter this year:
 
