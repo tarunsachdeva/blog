@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Canada's Immigration Plans"
+title:  "Canada's Immigration Plan 2019-2021"
 date:   2019-01-14 12:00:00 -0500
 categories: general
 draft: false
