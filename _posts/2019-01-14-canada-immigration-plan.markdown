@@ -18,4 +18,6 @@ This table breaks it down:
 
 ![Immigration 2019-2021](https://cl.ly/71c2d958e39e/Image%202019-01-15%20at%2012.25.37%20AM.png)
 
-It's great to see that the government understands the role of immigrants and is looking to grow the program. I'd also like to see is more done for the _new_ immigrant experience itself - focusing on the language barriers, employment issues and trouble finding housing. The physical and cultural shock of a life-move are difficult enough.
+It's great to see that this government responding positively especially in light of what's happening in the US. Immigration is essential to our economy and social fabric. 
+
+There is a lot we are doing right but also plenty of room for improvement. The physical and cultural shift as an immigrant is not easy. Add to that the most common _new_ immigrant issues -  language barriers, employment issues and trouble finding housing - and it becomes especially difficult. These are issues that affect all Canadians but are pronounced in the first months and years of a life move.
