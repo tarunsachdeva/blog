@@ -18,4 +18,4 @@ This table breaks it down:
 
 ![Immigration 2019-2021](https://cl.ly/71c2d958e39e/Image%202019-01-15%20at%2012.25.37%20AM.png)
 
-It's great to see that the government understands the role of immigrants and is looking to grow our programs. I'd also like to see is more done for the _new_ immigrant experience itself. Immigrants most commonly face language barriers, employment issues and trouble finding housing. The physical and cultural shock of a life-move are difficult enough.
+It's great to see that the government understands the role of immigrants and is looking to grow our programs. I'd also like to see is more done for the _new_ immigrant experience itself - focusing on the language barriers, employment issues and trouble finding housing. The physical and cultural shock of a life-move are difficult enough.
