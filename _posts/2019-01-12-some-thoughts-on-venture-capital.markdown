@@ -10,12 +10,12 @@ There's been some interesting [discussion](https://twitter.com/bgurley/status/10
 
 What often follows is the familiar 'VC is evil' discourse, which seems to forget a few fundamental truths.
 
-**Venture is a very specific investment type.**
+**VC is a very specific investment type.**
 
 * As a company accepting venture capital, it's important to understand you are part of a broader system of fiduciary responsibility. VC firms raise money from LP's which include pension funds, endowment funds and family offices. This will influence the dynamics between a VC and individual company.  
 * VC is often part of an LP's high risk investment buckets. These high-risk-high-reward investments have binary outcomes - most investments will fail to realize any returns, but the ones that hit will more than make up for those failures. This binary outcome is baked into the deal - for both good situations and bad. In the latter, there is specific protection for VC's to recoup any value if a company is sold for parts. 
 
-**Venture is _not_ one size fits all.**
+**VC is _not_ one size fits all.**
 
 * Venture is appropriate  when a _sudden_ influx of cash has a high likelihood of accelerating a business' chances for succeeding in it's goals, most often capturing a market or creating a new line of business. This is when a business has found product market fit, is ready to scale, and there is significant _room_ for growth (i.e. the market is big). It goes without saying that founders also have to _want_ to capture that entire market.
 * This combination of factors is rare and most companies don't fit this criteria. When it does happen a company likely doesn't _need_ technically venture capital to survive - making it the best time to raise. When it doesn't, a company likely isn't ready and probably shouldn't accept VC as a forcing function. An influx of cash almost always leads to poor decision-making when it's not focused.
