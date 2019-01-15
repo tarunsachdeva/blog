@@ -8,7 +8,7 @@ draft: false
 
 There's been some interesting [discussion](https://twitter.com/bgurley/status/1083756889089798145) on Twitter recently about venture capital. Specifically around how most companies should not be taking VC at all.
 
-What often follows is the familiar 'VC is evil', which seems to forget a few fundamental truths.
+What often follows is the familiar 'VC is evil' discourse, which seems to forget a few fundamental truths.
 
 **Venture is a very specific investment type.**
 
