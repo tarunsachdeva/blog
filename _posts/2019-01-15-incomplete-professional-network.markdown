@@ -16,4 +16,4 @@ There's an argument  that it's fine - after all LinkedIn was designed from the g
 
 I don't believe this is true. I think there is a need for a space to express your true identity at work - your strengths, what you're working on, and how best you operate. A profile that is actively used at the workplace and one that moves with you throughout your career. 
 
-I think LinkedIn has a missing dimension to their network, and this may be it.
+I think our notion of a "professional network" has a missing dimension, and this may be it.
