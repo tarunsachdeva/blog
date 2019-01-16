@@ -6,9 +6,9 @@ categories: technology
 draft: false
 ---
 
-Our professional network is [broken](https://medium.com/@lancengym/the-endgame-for-linkedin-is-coming-31d4a8b2a76). Well - more so incomplete. Using LinkedIn today is a necessity for things like recruiting or client outreach - but not much else.
+Our professional network is [broken](https://medium.com/@lancengym/the-endgame-for-linkedin-is-coming-31d4a8b2a76). Well - more so incomplete. LinkedIn's value is primarily in external facing roles - recruiting and some outreach - but not much else.
 
-The perceived value of a LinkedIn connection has gone to zero. It was driven first by a race to the coveted "500+ Connections" on your profile. LinkedIn did a great job early on to incentivize us to fill out our profiles and start connecting with people. An additional connection can feel meaningless even if something clever is happening with that graph in the background. In the best cases conversation is quickly converted into email.
+The perceived value of a LinkedIn connection has also gone to zero. It was driven first by a race to the coveted "500+ Connections" on your profile. LinkedIn did a great job early on to incentivize us to fill out our profiles and start connecting with people. Now an additional connection is meaningless even if something clever is happening with that graph in the background. In the best cases, conversation is quickly converted into email.
 
 It's deeply ironic that for most, the world's biggest professional network isn't used more at work.
 
