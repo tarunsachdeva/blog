@@ -3,6 +3,7 @@ layout: post
 title:  "Our Incomplete Professional Network"
 date:   2019-01-15 12:00:00 -0500
 categories: technology
+draft: true
 ---
 
 Our professional network is [broken](https://medium.com/@lancengym/the-endgame-for-linkedin-is-coming-31d4a8b2a76). Using LinkedIn today is a necessity for recruiting or client outreach - but not much else. It's deeply ironic that for most, the world's biggest professional network isn't used _at work_. 
