@@ -14,6 +14,6 @@ It's deeply ironic that for most, the world's biggest professional network isn't
 
 There's an argument  that it's fine - after all LinkedIn was designed from the ground up to be a tool to _use your network_. Maybe the true value of the network has been fully realized through recruiting and sales. Even though it feels like network abuse more than use, perhaps it is all working as designed, and this is the end game.
 
-I don't believe this is true. I think there is a need for a space to express your true identity at work - your strengths, what you're working on, and how best you operate. A profile that is actively used at the workplace and one that moves with you throughout your career. 
+It doesn't feel like this is true. I think there is a need for a space to express your true identity at work - your strengths, what you're working on, and how best you operate. A profile that is actively used at the workplace and one that moves with you throughout your career. 
 
 I think our notion of a "professional network" has a missing dimension, and this may be it.
