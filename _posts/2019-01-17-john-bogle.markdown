@@ -10,7 +10,7 @@ The name John Bogle wasn't familiar to me until I read of his recent passing. He
 
 I'm surprised his name isn't mentioned more in the news alongside investment legends like Warren Buffet and Ray Dalio. His work has likely benefited individual investors more than _anyone_ else.
 
-Vanguard's [official statement](https://pressroom.vanguard.com/news/Press-Release-Vanguard-Announces-Passing-Of-Founder-Jack-Bogle-011619.html) of his death also some history of the first index fund:
+Vanguard's [official statement](https://pressroom.vanguard.com/news/Press-Release-Vanguard-Announces-Passing-Of-Founder-Jack-Bogle-011619.html) of his death also added some history of the first index fund:
 
 > In 1976, Vanguard introduced the first index mutual fund—First Index Investment Trust—for individual investors. Ridiculed by others in the industry as “un-American” and “a sure path to mediocrity,” the fund collected a mere $11 million during its initial underwriting. Now known as Vanguard 500 Index Fund, it has grown to be one of the industry’s largest, with more than $441 billion in assets (the sister fund, Vanguard Institutional Index Fund, has $221.5 billion in assets). Today, index funds account for more than 70% of Vanguard’s $4.9 trillion in assets under management; they are offered by many other fund companies as well and they make up most exchange-traded funds (ETFs). For his pioneering of the index concept for individual investors, Mr. Bogle was often called the “father of indexing.”
 
