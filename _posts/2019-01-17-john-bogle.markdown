@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "John Bogle"
+title:  "Jack Bogle"
 date:   2019-01-17 12:00:00 -0500
 categories: finance
 draft: false
 ---
 
-The name John Bogle wasn't familiar to me until I read of his recent passing. He created the world's first index fund. He was also the founder of the Vanguard group and huge proponent of low costs in mutual funds. 
+The name [Jack Bogle](https://g.co/kgs/kVJonA) wasn't familiar to me until I read of his recent passing. He created the world's first index fund. He was also the founder of the Vanguard group and huge proponent of low costs in mutual funds. 
 
 I'm surprised his name isn't mentioned more in the news alongside investment legends like Warren Buffet and Ray Dalio. His work has likely benefited individual investors more than _anyone_ else.
 
