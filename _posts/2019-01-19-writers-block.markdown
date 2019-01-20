@@ -14,8 +14,8 @@ Walking, reading, [freewriting](https://www.wikihow.com/Freewrite) - all have he
 
 I ask - **what would _future you_ find helpful?**
 
-The question helps to choose a topic. Sometimes those are familiar, like tech or mental models. Other times it sparks research, and the post just becomes an executive summary. Sometimes those topics have been on my mind for a while, and putting them into writing lightens my _future_ cognitive load.
+Asking the question sparks many topics. Sometimes they are familiar, like tech or mental models. Other times they require research, and the post just becomes an executive summary. Other times I choose topics that have been on my mind for a while, and putting them into writing lightens my _future_ cognitive load.
 
-Many of the posts on this blog have come from asking that question. I refer back to those posts and send them to people to illustrate my thinking.
+Many of the posts on this blog have come from asking that question. I've referred back to those posts, sent them to people to illustrate my thinking. They've actually been quite helpful.
 
-This post is a reminder of that tool. When I'm blocked again in the future, I hope it will help me again.
+This post itself is a reminder of that tool. If you're ever blocked for words, you might find it helpful to you too.
