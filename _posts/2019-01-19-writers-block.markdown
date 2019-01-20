@@ -8,9 +8,7 @@ draft: false
 
 It's 8, the kids are finally in bed. It's snowing outside and quiet inside. These are the dream hours for writing, but the words aren't coming easy.
 
-Writer's block is weird. It can become so tangible that sometimes I actually _feel_ it. A dull heaviness in my head. Like I said, _weird_. 
-
-Walking, reading, [freewriting](https://www.wikihow.com/Freewrite) - all have helped to a degree. But I often default to one method that I've found to be effective.
+Walking, reading, [freewriting](https://www.wikihow.com/Freewrite) - all have helped to a degree. But I often default to one method that I've found most effective.
 
 I ask - **what would _future you_ find helpful?**
 
@@ -18,4 +16,4 @@ Asking the question sparks many topics. Sometimes they are familiar, like tech o
 
 Many of the posts on this blog have come from asking that question. I've referred back to those posts, sent them to people to illustrate my thinking. They've actually been quite helpful.
 
-This post itself is a reminder of that tool. If you're ever blocked for words, you might find it helpful to you too.
+This post itself is a reminder of that tool. If you're ever blocked for words, you might find it helpful too.
