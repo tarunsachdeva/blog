@@ -6,12 +6,9 @@ categories: productivity
 draft: true
 ---
 
-It's the new year, which means _productivity_ is a hot topic. My productivity stack is a framework for getting things done. I've developed it over the last year, but it's always being tuned.
+My productivity stack is the set of frameworks and tools used to get things done. There are three categories - planning, execution, and reflection.
 
-The framework follows a simple structure:
-* Planning - How I plan to get the right things done
-* Execution - How I execute on things
-* Reflection - How 
+
 
 Planning is the process of looking ahead.
 * Lists structure
