@@ -6,7 +6,7 @@ categories: general
 draft: false
 ---
 
-It's 8, the kids are finally in bed. It's snowing outside and quiet inside. These are the dream hours for writing, but the words aren't coming easy. Writer's block; a familiar feeling.
+It's late, the kids are finally in bed. It's snowing outside and quiet inside. These are the dream hours for writing, but the words aren't coming easy. Writer's block; a familiar feeling.
 
 Walking, reading, [freewriting](https://www.wikihow.com/Freewrite) - all have helped to a degree. But I often default to a method that I've found most effective.
 
