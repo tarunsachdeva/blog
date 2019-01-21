@@ -6,7 +6,7 @@ categories: productivity
 draft: false
 ---
 
-Every Sunday for the few years I've started a weekly planning and reflection habit. It's one of my favourite productivity hacks and you might find it useful too. 
+Every Sunday for the few months I've started a weekly planning and reflection habit. It's one of my favourite productivity hacks.
 
 During the practice I reflect on the week past and plan for the week ahead. 
 
