@@ -6,7 +6,7 @@ categories: technology
 draft: false
 ---
 
-I will be at the [Founder Institute](https://fi.co/curriculum/5801) tomorrow afternoon talking about growth and growth teams. I'm using this as a chance to get my thoughts together on the topic. 
+I will be at the [Founder Institute](https://fi.co/curriculum/5801) tomorrow talking about growth and growth teams. I'm using this as a chance to get my thoughts together on the topic. 
 
 * The growth practice has matured. It wasn't long ago we were talking about hacking our way to growth. Startups have recognized it's importance, gone through the missteps and learned many things along the way. But progress couldn't have happened without shared information from those on the frontlines. There are so many Medium posts, blogs, and books dedidcated to growth. There are even formal training and events. These have accelerated the growth practice.
 
