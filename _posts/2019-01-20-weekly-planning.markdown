@@ -22,4 +22,4 @@ All of this happens in one Simplenote post.
 
 ![Weekly Planning](https://cl.ly/be1621c0fb26/Image%202019-01-19%20at%2010.53.44%20PM.png)
 
-The act of weekly planning is a great way to start off the week, and has helped me take more control of my time.
+The act of weekly planning is a great way to start off the week, and has helped me take more control of my time. I hope you find it helpful too. 
