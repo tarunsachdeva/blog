@@ -25,5 +25,5 @@ Some key points, with quotes from the LA Times article:
 * This means many companies are getting loans that they won't be able to repay.
 > Because those companies with non-investment-grade ratings are highly leveraged, the chances are greater that they won’t pay back a loan. For that reason, the interest rate needs to be higher to offset that risk. The higher interest rate makes the loans desirable to investors seeking a greater return on their money.
 
-* This is very similar to the housing crisis in 2008, but maybe not as much as risky.
+* This is very similar to the housing crisis in 2008, but maybe not as risky.
 > The risks aren’t nearly as widespread as they were during the housing bubble, when the percentage of all mortgages that were subprime jumped to about 20%. Leveraged loans, while growing rapidly, account for less than 5% of the more than $42-trillion U.S. fixed income debt market, which also includes corporate and municipal bonds.
