@@ -10,7 +10,7 @@ Today, our [Studios](http://business.wattpad.com/studios/) team announced [Wattp
 
 Wattpad has always helped writers become successful on our platform. We do this by giving them a platform to tell stories, build community around their stories, and make a living with their writing.
 
-Wattpad Studios launched a few years ago to amplify that success - by helping writers turn their stories into books, TV shows and movies. Wattpad Books is another way to help our writers succeed. 
+Wattpad Studios launched a few years ago to amplify that success - by helping writers turn their stories into books, TV shows and movies.
 
 Wattpad Books will be a data driven publisher and will focus on undiscovered stories from marginalized communities. 
 
