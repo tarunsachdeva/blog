@@ -10,7 +10,7 @@ We've moved into a post capital world. Albert Wenger who has [written a book on 
 
 > Technological progress has shifted scarcity for humanity. When we were foragers, food was scarce. During the agrarian age, it was land. Following the industrial revolution, capital became scarce. With digital technologies scarcity is shifting once more. We need to figure out how to live in a World After Capital in which the only scarcity is our attention.
 
-Now, a new book by Shoshanna Zuboff called [The Age of Surveillance Capitalism](https://amzn.to/2Te2wDi) - discusses how technology powerhouses have created a new, _mutant_ form of capitalism which uses our data as a raw material.
+A new book by Shoshanna Zuboff called [The Age of Surveillance Capitalism](https://amzn.to/2Te2wDi) discusses how technology powerhouses have created a new, _mutant_ form of capitalism which uses our data as a raw material.
 
 The Guardian provides an [in-depth commentary](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook) on the book and the concept of surveillance capitalism:
 
