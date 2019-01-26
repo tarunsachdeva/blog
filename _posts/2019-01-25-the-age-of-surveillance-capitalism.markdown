@@ -6,7 +6,7 @@ categories: technology
 draft: false
 ---
 
-We've moved into a post capital world. Albert Wenger who has [written a book on this](http://worldaftercapital.org), writes:
+We've moved into a post capital world, where attention is the scarcest resource - and therefore the one with most value. Albert Wenger wrote a book on this topic, [The World After Capital](http://worldaftercapital.org), in which he writes:
 
 > Technological progress has shifted scarcity for humanity. When we were foragers, food was scarce. During the agrarian age, it was land. Following the industrial revolution, capital became scarce. With digital technologies scarcity is shifting once more. We need to figure out how to live in a World After Capital in which the only scarcity is our attention.
 
