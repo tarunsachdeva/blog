@@ -6,6 +6,17 @@ categories: mentalmodels
 draft: true
 ---
 
+
+
+I appreciate the clarity of mental models.
+
+I love that they provide a framework for learning, self improvement, and understanding the world around us. 
+
+- Looking inwards - develop strong mental models, think about making decisions
+- Looking outwards - facing reality
+
+
+
 Mental models that help us be better Community members and citizens of the world. 
 
 I love the clarity of mental models. Developing a latticework is a powerful tool of learning and understanding. 
