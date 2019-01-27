@@ -18,4 +18,4 @@ In the [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%
 
 It would be powerful if a prototyping tool also enabled a stronger connection with the database layer. For example, if Framer/Sketch also connected with a library like GraphQL. It would be additionally powerful if the data structure was _inferred_ from a prototype based on the types of UI elements being used. It would allow for designers to develop the infrastructure of the app, and potentially launch their database driven prototypes in market. 
 
-Design and development will continue trending towards each other. Tools will get more powerful _and_ easier to use. This convergence will enable more ideas to turn into real products.
+This convergence is bound to happen, and maybe already is (and hasn't been announced). And if not this, design and development will continue trending towards each other in other ways. Tools will get more powerful _and_ easier to use, and this will enable more ideas to turn into real products.
