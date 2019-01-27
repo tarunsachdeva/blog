@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interface Design and Development"
+title: "Prototypes and Databases"
 date:   2019-01-26 12:00:00 -0500
 categories: technology
 draft: false
@@ -14,7 +14,7 @@ Design tools are also using development workflows (like version control) and eve
 
 Merging the two fields means developers and designers are able to lend their skillsets to each other. We are at the point where a design prototype can _almost_ become a launchable app or website to test with real users.
 
-In the [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) framework, the View and Controller have design and development overlap - the Model and database connection still require development. While design prototypes can be connected to real data with an API, but the prototype and database are completely independent. 
+In the [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) framework, the View and Controller have design and development overlap. But, the Model and database is mostly development. While design prototypes can be connected to real data with an API, the prototype and database are completely independent. 
 
 It would be powerful if a prototyping tool also enabled a stronger connection with the database layer. For example, if Framer/Sketch also connected with a library like GraphQL. It would be additionally powerful if the data structure was _inferred_ from a prototype based on the types of UI elements being used. It would allow for designers to develop the infrastructure of the app, and potentially launch their database driven prototypes in market. 
 
