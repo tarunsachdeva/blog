@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Be Successful (with some notes)"
-date:   2019-01-26 12:00:00 -0500
+date:   2019-01-27 12:00:00 -0500
 categories: technology
 draft: true
 ---
