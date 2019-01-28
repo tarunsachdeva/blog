@@ -2,8 +2,8 @@
 layout: post
 title: "How to Be Successful (with some notes)"
 date:   2019-01-27 12:00:00 -0500
-categories: technology
-draft: true
+categories: general
+draft: false
 ---
 
 Sam Altman from YCombinator published [some perspectives](https://blog.samaltman.com/how-to-be-successful) on how to be successful. 
