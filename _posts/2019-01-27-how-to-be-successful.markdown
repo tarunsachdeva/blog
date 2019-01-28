@@ -8,10 +8,8 @@ draft: false
 
 Sam Altman from YCombinator published [some perspectives](https://blog.samaltman.com/how-to-be-successful) on how to be successful. 
 
-I'm conflicted by this piece. 
-
 On one hand it's incredibly useful - a condensed insight into the patterns of people seeking to make a mark in the world. A great guide to company building. 
 
-On another hand, it feels a bit out of touch. It's a strange time for a leader from Silicon Valley to aggrandize the alpha mentality - focused only on self improvement and trying to outwork each other. 
+On another hand, it also feels a bit out of touch. It's a strange time for a leader from Silicon Valley to aggrandize the alpha mentality - focused only on self improvement and trying to outwork each other. Boldness and willfulness created Uber but also took down it's cofounder. 
 
-Success is relative. Maybe this post should be named "How to be successful...as a founder trying to build a disruptive venture scale company in the Valley".
+Success is relative. This post is useful but needs a balanced perspective.
