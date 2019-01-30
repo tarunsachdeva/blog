@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Closer to Software"
-date:   2019-01-29 12:00:00 -0500
+date: 2019-01-29 12:00:00 -0500
 categories: technology
 draft: false
 ---
