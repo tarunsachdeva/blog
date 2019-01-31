@@ -14,6 +14,6 @@ I agree wholeheartedly- and had a similar observation in a post on [Software and
 
 We will have to pay even closer attention to the people using these products - observing, listening and understanding their lives. Making software has always been about the people; as it gets closer to us, it will be even more so. 
 
-Second, technology products will go beyond software to physical goods and materials. It will be important to understand many crafts outside of software to build a consumer technology product. 
+Second, technology products will go beyond software to physical goods and materials. It will be important to understand many crafts outside of software to build a consumer technology product. When software becomes a part of _everything_, it won’t be enough for software products practitioners to only understand the “technology” side of their products. This will require multidisciplinarity.
 
 Above all, making technology products will look very little like it does today and I'm pretty excited about those changes. 
