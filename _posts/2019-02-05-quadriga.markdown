@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Quadriga"
+date: 2019-02-05 12:00:00 -0500
+categories: technology
+draft: false
+---
+
+Like many in the world of crypto I've been following the bizarre [story](https://www.google.com/amp/s/www.coindesk.com/indian-death-certificate-crypto-exchange-quadrigacx-death%3Famp) of QuadrigaCX filing for creditor protection following its founders untimely death. 
+
+I used Quadriga for all my trades but never stored any Crypto in the exchange. Luckily I chose to transfer out as soon as my transactions completed. 
+
+There will likely be more of these types of stories emerging. It goes to show how much work needs to be done to build the public trust in crypto - especially if it's to fulfill its destiny as "Money 2.0". 

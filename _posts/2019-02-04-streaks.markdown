@@ -1,0 +1,17 @@
+---
+layout: post
+title: "The Simple Power of Streaks"
+date: 2019-02-04 12:00:00 -0500
+categories: writing
+draft: false
+---
+
+I broke my publishing streak yesterday. 165 days. 
+
+I started a post and just couldn't get it completed in time, from complete exhaustion. I started the post on my phone at night, and in minutes my phone fell on my face and I passed out. 
+
+I decided to write this post as a quick reflection. 
+
+Streaks are a simple but effective mechanics to build habits. They serve as a reminder to continue habits, and are in itself a reward one a habitual behaviour is completed. A broken streak is strangely painful, which can serves as a one time cue in the [atomic habits](http://www.atomichabits.com) framework. 
+
+James Clear also has a [really good article](https://jamesclear.com/stop-procrastinating-seinfeld-strategy) about the power of streaks in the context of comedy writing. 
