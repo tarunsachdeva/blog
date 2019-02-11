@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "The Gumroad Story"
+date:   2019-02-10 12:00:00 -0500
+categories: technology
+---
+
+I remember hearing about [Gumroad](http://www.gumroad.com) and it's founder Sahil Lavingia when Chris Sacca tweeted about him sometime in 2012. At that time, Gumroad was enjoying it's time in the limelight and Sahil was the 19-year-old whiz kid entrepreneur.
+
+He's since gone through an incredible journey and shared it in a lengthy [post](https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7) - it's chock full of insight into the ups and downs of company building.
