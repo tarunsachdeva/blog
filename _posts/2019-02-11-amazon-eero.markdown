@@ -11,7 +11,7 @@ Not many details of the acquisition were revealed, especially how Alexa and Eero
 
 > By joining the Amazon family, we’re excited to learn from and work closely with a team that is defining the future of the home, accelerate our mission, and bring Eero systems to more customers around the globe. 
 
-I can see a world where Alexa is built into all Eero hubs, and Eero hubs become the smartphone hub of choice (vs hubs by Sengled or other smart device manufacturers). This makes the setup process of Smarthome products easier for customers. 
+I can see a world where Alexa is built into all Eero hubs, and they become the smarthome hub of choice (vs hubs by Sengled or other smart device manufacturers). This makes the setup process of Smarthome products easier for customers. 
 
 I can also imagine the opposite - Eero technology is built into every Echo device, and is an additional value proposition for buying Echo devices. If an Echo helps you improve your wifi, it's one more reason to put one in every room. 
 
