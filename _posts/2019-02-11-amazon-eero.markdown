@@ -7,7 +7,7 @@ categories: technology
 
 Amazon just bought Eero - the maker of the popular home mesh wifi hardware. 
 
-Details were not revealed, especially how Alexa and Eero would integrate. From the [press release](https://www.businesswire.com/news/home/20190211005750/en/Amazon-Acquire-eero-Customers-Connect-Smart-Home):
+Not many details of the acquisition were revealed, especially how Alexa and Eero would integrate. From the [press release](https://www.businesswire.com/news/home/20190211005750/en/Amazon-Acquire-eero-Customers-Connect-Smart-Home):
 
 > By joining the Amazon family, we’re excited to learn from and work closely with a team that is defining the future of the home, accelerate our mission, and bring Eero systems to more customers around the globe. 
 
