@@ -1,0 +1,7 @@
+Mark Suster from Upfront VC posted a an [analysis](https://bothsidesofthetable.com/why-has-seed-investing-declined-and-what-does-this-mean-for-the-future-6a9572357130) recently about the state of the venture capital industry. In particular he focused on the seed stage market which seems to have flattened in the last few years. 
+
+It was great way to understand venture capital as an industry in service of entrepreneurship. One takeaway really stuck out - the technology costs to build a product becomes a leading indicator of seed investment behaviour. For example, AWS made it cost effective to provision infrastructure for web services, and that made it cheaper to start an startup. This led to smaller seed rounds (and a lot more of them). 
+
+This led me to ask - what changes are happening today that might have a similar effect on venture capital? For one, it's never been easier and cheaper to build a business on the internet. So much so that technology isn't the biggest cost item anymore, and therefore in some segments it's no longer a predictor of how the seed venture market will evolve. You can start a billion dollar retail business on Shopify, and build an enterprise startup on Slack - all with very low technology operating costs. 
+
+The costs have shifted to distribution.
