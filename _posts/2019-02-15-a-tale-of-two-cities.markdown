@@ -11,4 +11,4 @@ There are two similar stories that dominated my feed today. Amazon's [reversal](
 
 I live around the corner from Quayside so that story is particularly alarming. I have no problem with Sidewalk as a concept, but it has created the problems it's facing. Amazon seems to as well, because the whole search was a ridiculous affair.
 
-Technology is a part of almost everything we do, and technology companies cannot operate under their own self made rules and visions. Whether it's through regulation, dialogue with the public, or other means - we need to rebuild the broken trust between tech companies and society. This will take years of intentional effort on the part of the entire industry.
+Technology is a part of our society's fabric. Technology companies cannot operate under their own self made rules and visions. Whether it's through regulation, agency over data, dialogue with the public, or other means - tech companies are responsible for rebuilding this broken trust. This will take years of intentional effort by the entire industry, and the biggest need to lead by example.
