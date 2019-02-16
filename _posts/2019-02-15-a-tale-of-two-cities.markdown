@@ -1,0 +1,1 @@
+There are two similar stories that dominated my feed today. Amazon's  reversal to build HQ2 in New York, and Sidewalk's "secret" plans to 
