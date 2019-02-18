@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Alpha"
+date:   2019-02-16 12:00:00 -0500
+categories: investing
+---
+
+[Alpha](https://www.investopedia.com/terms/a/alpha.asp) is a performance measure of an investment strategy. It's defined as the ability for an investment strategy to beat the market (i.e. it's edge over other strategies).
+
+There's been an interesting discussion started by [Ben Hunt](https://twitter.com/EpsilonTheory/status/1096360266416209920) (Epsilon Theory) on this topic. Howard Lindzon (StockTwits) also added [his perspective](http://howardlindzon.com/alpha-in-your-eyes-your-ears-and-your-feet/).
+
+Some of the discussion was tough to follow, but one takeway that stuck is true "alpha" only comes with _private information_. This is the only kind of natural advantage that an investor has over someone else. With restrictions on what information is disclosed from public companies, it can be really difficult to find alpha in today's public markets. Howard Lindzon [argues](http://howardlindzon.com/alpha-in-your-eyes-your-ears-and-your-feet/) angel investing is full of alpha opportunities.
