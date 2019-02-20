@@ -9,7 +9,7 @@ I've been interested in how the "Web 3.0" vision is evolving, and one of the com
 
 Developing dApps requires a significant change in mental models for developers. But the core purpose of a development platform is the same - to help developers build, grow and monetize their apps.
 
-Blockstack takes an interesting approach. All DApps are single page apps that interact with the `blockstack.js` library, which provide the core identity and storage services for a DApp. All the complexity for a Decentralized app is moved to clients (which have compute power) vs. on the blockchain itself through smart contracts.
+Blockstack takes an interesting approach. All DApps are single page apps that interact with the `blockstack.js` library, which provide the core identity and storage services for a DApp. All the complexity for a Blockstack app is [moved to clients](https://en.wikipedia.org/wiki/End-to-end_principle) vs. on the blockchain itself through smart contracts. This makes sense since clients have the compute power, and the chain is only used for the core decentralization purposes. 
 
 There are 3 principles that define what type of apps developers can build using Blockstack:
 - Users own their _identity_, and have full control over how that is used. Blockstack provides the infrastructure to provide users that control. Decentralized identity is a fundamental part of every dApp.
