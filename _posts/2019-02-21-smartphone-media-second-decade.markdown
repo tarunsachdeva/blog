@@ -12,6 +12,6 @@ Most of the dominant media formats were created before the smartphone was launch
 This will happen in many ways:
 - **Stories will look like a combination of film, books and games.** There will also be some formats that have never existed (AR) that will enable new dimensions of storytelling. People will _play_ more stories, not just watch or read them. The most mainstream example of this is Black Mirror: Bandersnatch on Netflix.  
 - **Production approaches will be shared across film, gaming, publishing and software design.** To create a story, we'll be using the pre / post production structures from film, the storyboarding approaches to creating games, and the narrative design from the world of publishing.
-- **Interaction will make stories managed like software product.** We will come for the utility, and stay for the network around a story. Successful stories will build communities around them as a native part of the story experience.
+- **Interaction will make stories managed like software product.** We will come for the [entertainment] utility of a story, and stay for the network. Successful stories will build communities around them as a native part of the story experience (Fortnite is the most important example here).
 
-We're building this future at [Wattpad](http://www.taptaptap.co) - if you're interested, we're [hiring](http://www.wattpad.com/jobs)!
+We're building towards this future at [Wattpad](http://www.taptaptap.co) - if you're interested, we're [hiring](http://www.wattpad.com/jobs)!
