@@ -5,7 +5,7 @@ date:   2019-02-21 12:00:00 -0500
 categories: media
 ---
 
-In just over a decade, the smartphone has become the dominant channel for all types of media. Gaming, publishing, film and tv - all are enjoyed on the smartphone more than any other channel. One device is now used to read books, watch movies, and play games. 
+In just over a decade, the smartphone has become the dominant channel for all types of media. Gaming, publishing, film and tv - all are enjoyed on the smartphone more than any other device. It's important to note that a _single_ device is now used to read books, watch movies, and play games.
 
 Most of the dominant media formats were created before the smartphone was launched, but this will change. In the second decade of mobile, **multidisciplinarity across formats** will be a dominant theme. 
 
