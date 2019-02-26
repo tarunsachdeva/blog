@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "On the Supporting Ecosystems in Media"
+title:  "Some Thoughts on Creative Education"
 date:   2019-02-25 12:00:00 -0500
 categories: media
 ---
 
 Yesterday I was [discussing]({{ site.baseurl }}{% post_url 2019-02-24-award-shows %}) how awards and award shows play an important role in supporting any media ecosystem. 
 
-There are a few clarifications. First, award shows are a profitable enterprise in and of themselves. So to call them purely a "supporting" role is probably unfair. That said, in reference to the content value chain (concept > production > distribution > engagement), awards play a supporting role.
+A clarification first: Award shows are a profitable enterprise in and of themselves. So to call them purely a "supporting" role is probably unfair. That said, in reference to the content value chain (concept > production > distribution > engagement), awards play a supporting role.
 
 The second supporting ecosystem is **creative education**. This serves the only side of the ecosystem where creators are the customer (concept / production). Creative education institutions - e.g. film schools, arts schools - create a healthy supply of talent once an industry has matured. 
 
