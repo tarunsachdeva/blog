@@ -15,4 +15,4 @@ The best of these schools measure success by how quickly they get students place
 
 When creatives in any field are successful and find fame, it inspires younger people to follow in their footsteps. This often starts with the creative education provided by these schools. The internet has changed how people are being educated altogether, so while these schools might not be as relevant as before - the value of education definitely is.
 
-So while we talk endlessly about production and distribution for any given media format, it is supported/accelerated by creative education and award shows. 
+So while the value chain narrative for media revolves around production and distribution, we need to recognize it is only possible with creative education and award shows. 
