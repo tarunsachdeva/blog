@@ -15,4 +15,4 @@ The best of these schools measure success by how quickly they get students place
 
 When creatives in any field are successful and find fame, it inspires younger people to follow in their footsteps. This often starts with the creative education provided by these schools. The internet has changed how people are being educated altogether, so while these schools might not be as relevant as before - the value of education definitely is.
 
-So content is still king, but is supported by creative education and award shows.
+So while we talk endlessly about production and distribution in media, it is supported by creative education and award shows. 
