@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understanding Each Other with Software"
+title:  "Understanding Each Other Through Software"
 date:   2019-03-07 12:00:00 -0500
 categories: technology
 draft: false
