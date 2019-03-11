@@ -16,8 +16,11 @@ Technology has helped in building the foundation. To understand, we need to be a
 
 But, technology (networks in particular) hasn't gone much farther to _create_ understanding, let alone 'shared feelings'. This can become esoteric very quickly, so I'm interested more in areas where _empathy creates value_. This is the case for knowledge workers working in team environments, i.e. the majority of startups today.
 
-So, what can software do to create empathy in a team environment?
+So, what can software do to create empathy in a team environment? Breaking this down into sub-problems:
 
-One way is by helping us understand each others personalities, both through behavioural and declaritive information. Another is by helping us resolve conflicts with battle-tested techniques for structuring conversations. But these are only two of many possibilities. This is an area that I think we need to explore further. 
+- How can software help us understand each other and our personalities?
+- How can software help us resolve conflicts?
+- How can software help us become better listeners?
+- How can software help us express ourselves more authentically?
 
-As software moves to higher order problems I imagine more problems of this nature coming to the surface. 
+This is just the start. This is an area that I think we need to explore further. As software moves to higher order problems I imagine more problems of this nature coming to the surface. 
