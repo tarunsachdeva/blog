@@ -6,7 +6,7 @@ categories: technology
 draft: false
 ---
 
-Product management is the practice of facilitating problem solving. The simplest mental model I've used is to divide this into two steps.
+Product management is the practice of facilitating problem solving. The simplest mental model I've used is to divide this into two domains - the problem space and solution space.
 
 In the first, you are operating in the _problem space_. In this space, the goal is to **create the right product**, with as much possible data in a reasonable time frame. This can involve user interviews, existing data, and other forms of research. The more you operate in this space, the better you understand the problem, and the more you can rely on your intuition to build the right thing.
 
