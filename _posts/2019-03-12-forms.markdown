@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Software as Forms"
+date:   2019-03-12 12:00:00 -0500
+categories: technology
+draft: true
+---
+
+A form is the most common form of user input on the web. Forms are everywhere. They've been around for so long and there are some widely accepted and used best practices.
+
+At its simplest, a form is a method of gathering structured user input, which is often then sent to a server to respond - with an 
+
+Most of the software products we use daily are really just forms. 
