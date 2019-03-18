@@ -11,5 +11,6 @@ A form is the most common form of user input on the web. Forms are everywhere. T
 At its simplest, a form is a method of gathering structured user input, which is often then sent to a server to respond with some behaviour. 
 
 A form is the atomic unit of most software products. 
+At its simplest, a form is a method of gathering structured user input, which is often then sent to a server to respond.  
 
-Most of the software products we use daily are really just forms. 
+Most of the software products we use daily are really just forms.
