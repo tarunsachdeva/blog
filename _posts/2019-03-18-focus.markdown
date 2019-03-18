@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "A Few Thoughts About Focus"
+date:   2019-03-18 12:00:00 -0500
+categories: productivity
+draft: false
+---
+
+This post is just a few disconnected thoughts I've been holding about the topic of **focus**.
+
+- **Focus is a skill.** Like other skills, it requires practice. For knowledge work, it's arguably the most important skill. It's a foundational ability we can apply towards building products, selling, writing code, or any other job. 
+- **Focus is about serial execution**. Adding goals to a plan is easy, whether it's a daily to-do or a yearly strategy - everything seems _possible_ with the time and resources at our disposal. Then, we don't specify the order of operations and and try to execute everything _in parallel_, completing a little bit of everything but also, nothing at all. When you operate with focus, you operate serially - one task at a time. In the end, more gets done. This is deceptively simple.
+
+Focus has been a personal issue for many years, and I've found it very difficult to keep focus for long periods of time on just about _anything_.
