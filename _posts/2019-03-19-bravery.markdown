@@ -1,5 +1,13 @@
+---
+layout: post
+title:  "Bravery"
+date:   2019-03-19 12:00:00 -0500
+categories: general
+draft: false
+---
+
 Most change happens because someone was brave enough to take a stand. 
 
-Most solutions are found because someone was brave enough to solve a problem. 
+Most solutions are found because someone was brave enough to try solving a problem. 
 
-Taking the attempt, putting skin in the game, 
+This is a reminder to take the attempt, to put skin in the game, and to be brave enough to take things head on. Because so often, bravery is all you really need.
