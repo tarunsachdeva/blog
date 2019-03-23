@@ -1,0 +1,1 @@
+Discovery is different across companies and stages. 
