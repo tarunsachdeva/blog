@@ -3,7 +3,7 @@ layout: post
 title:  "Software and empathy in the workplace (continued)"
 date:   2019-03-25 12:00:00 -0500
 categories: technology
-draft: true
+draft: false
 ---
 
 I've been thinking a lot recently about how software can be used to promote human understanding in the workplace. I've written about this before, but will continue to explore this topic to clarify my thoughts. There are a few open questions before exploring what kind of software and product features. 
