@@ -3,7 +3,7 @@ layout: post
 title:  "Engaging Closer to Content"
 date:   2019-04-10 12:00:00 -0500
 categories: technology
-draft: true
+draft: false
 ---
 
 In online networks designed for sharing content, a general product trend is user interaction always gets _closer_ to the content. Put another way, when users are given the ability to react to something _as they are enjoying it_, it tends to create more engagement. 
