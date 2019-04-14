@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Thought Exercises"
+date:   2019-04-10 12:00:00 -0500
+categories: technology
+draft: true
+---
+
+Effect of climate change on economy 
+
+Another massive downturn 
