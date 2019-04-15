@@ -3,7 +3,7 @@ layout: post
 title:  "Thought Experiments"
 date:   2019-04-14 12:00:00 -0500
 categories: technology
-draft: true
+draft: false
 ---
 
 I recently received the book of [Great Mental Models](https://www.amazon.com/Great-Mental-Models-Thinking-Concepts-ebook/dp/B07P79P8ST). One of the chapters is about thought experiments. From [Farnam](https://fs.blog/2017/06/thought-experiment-how-einstein-solved-difficult-problems/):
