@@ -2,7 +2,7 @@
 layout: post
 title:  "Swimming Upstream"
 date:   2019-04-15 12:00:00 -0500
-categories: technology
+categories: general
 draft: false
 ---
 
