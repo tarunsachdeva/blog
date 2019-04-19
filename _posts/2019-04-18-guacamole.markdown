@@ -6,9 +6,11 @@ categories: food
 draft: false
 ---
 
-Some days (like today) I don't feel like writing. Lack of sleep compounds quickly, and I'm ready to call it. I'm just going to share my guacamole recipe - something I've been perfecting over the last _decade_. 
+Some days (like today) I don't feel like writing. Lack of sleep compounds quickly, and I'm ready to call it a day. 
 
-You can make a decent guacamole just by cutting all the veggies and mashing it all together. The key here is order of operations - it's the difference between good and fucking amazing. I've won a few backyard cooking contests purely with this side. 
+So I'm just going to share my guacamole recipe - something I've been perfecting over the last _decade_. 
+
+You can make a decent guacamole just by cutting all the veggies and mashing it all together. The key here is order of operations - it's the difference between good and great. I've won a few backyard cooking contests purely with this side. 
 
 Summer's almost here, so enjoy.
 
