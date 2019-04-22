@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Ten"
-date:   2019-04-14 12:00:00 -0500
-categories: technology
-draft: true
+date:   2019-04-19 12:00:00 -0500
+categories: general
+draft: false
 ---
 
-We're celebrating a milestone tonight. A few weeks ago was my 10th anniversary With Dee.
+No lengthy post for today. Tonight I'm celebrating a milestone anniversary with my wife and some of our closest friends. 
 
-We're spending the evening with some of our closest friends - the ones we always call family. We're pretty fortunate to have a crew like this.
+There's a lot to be thankful for. We've been surrounded by the love and support of family and friends for almost two decades. I'm excited about everything we've done, but even more for what's ahead.
