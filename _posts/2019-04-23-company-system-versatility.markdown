@@ -8,7 +8,7 @@ draft: false
 
 I've referred to the Company System, or Leadership Lattice framework in a number of contexts recently, and what I've found to be true is that it's truly versatile in it's uses. 
 
-* As a mental model for company structure - The company system is a first principles breakdown of a company and how it works. Individuals, joining teams - it's key constituents being the individuals, teams, products, customers, and ultimately a grand vision. There is also the leader themself, and the broader governance layer that is responsible for the whole operation. 
+* As a model for company building - The company system is a first principles breakdown of a company and how it works. It starts with individuals, being organized into teams of all sizes, responsible for products and services that are adopted by a market of customers. The result of this has a broader impact, often encompassed as a mission or vision. There is also the leader themself, and the broader governance layer that is responsible for the whole operation. 
 
 * As a learning framework - Leadership is one of the most written about topics, and social media has created advice overload. The system is a way of mentally categorizing insight and techniques - for better recall and to avoid recency bias.
 
