@@ -6,6 +6,6 @@ categories: leadership
 draft: true
 ---
 
-Personality assessments suck.
-Data is locked in.
-They are hard to share and apply in the day to day. 
+The experience sucks.
+Data is locked in. 
+Hard to share and apply how you want. Should be frictionless. 
