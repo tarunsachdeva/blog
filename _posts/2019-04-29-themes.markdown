@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Career Threads"
+date:   2019-04-29 12:00:00 -0500
+categories: general
+draft: false
+---
+
+I was talking to someone yesterday about some of the common threads of our individual career stories. It was an interesting discussion and I thought I'd put it into writing. There are 3 themes that come up.
+
+* **Storytelling and Technology** - I've worked in the mobile industry since 2001, building products for entertainment and storytelling. Mostly in games, music and now written narratives (at Wattpad, where I've been for the last 7 years). My most recent project, Tap, has been about unleashing the full potential of interactive storytelling. The smartphone is only 12 years old, and storytellers are just starting to realize it's full potential to tell non-linear and mixed-media narratives. We want to be at the forefront of this and are building the "Netflix of Interactive Stories".
+
+* **Community, Technology and Responsibility**: At Wattpad, we were very intentional about building not just a product, but a space to express and enjoy stories safely. Writers need to tell their story and find an audience without fear of retribution. Readers need a space to enjoy stories without fear of judgement. Wattpad, now a community with 70M monthly users, is still considered one of the safest spaces on the internet. These didn't just happen - they came with years of effort across the company from privacy decisions to active community moderation. It all started with accepting that we have a broader responsibility of the full effects of our product - something leading social networks are just coming around to realize.
+
+* **Technology and Understanding**: Most of my career has been focused on helping consumers enjoy themselves with their phone. More broadly - it's been at the intersection of software and entertainment. Now, I'm exploring how software can play a role in a higher order human function - to develop meaningful understanding. I'm working on a small project to explore how this affects our workplace interactions - it's a professional social network designed to create empathy between people, and help us become more productive. Definitely too early to call it a thread of my career but it's been top of mind for a while now. 
