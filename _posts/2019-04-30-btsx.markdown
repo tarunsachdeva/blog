@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "BTSX"
+date:   2019-04-30 12:00:00 -0500
+categories: finance
+draft: false
+---
+
+Recently I adopted a new investment strategy for a part of my portfolio, focused on dividend yielding equities. There are a number of common strategies for this - the Dogs of the Dow is probably the most well known.
+
+Here in Canada the equivalent is BTSX - or "Beating the TSX". It was introduced to me by a family member who pioneered it over the last 2 decades. To read more about the method, check out the new blog [Dividend Strategy](https://dividendstrategy.ca/stock-selection-method/). 
+
+> Most retail investors – people like you and me – pay fees to financial planners who invest their money in expensive actively managed mutual funds that ultimately underperform the market. The ideal investing strategy is exactly the opposite:  simple, low-cost, without error-prone predictions about the future.
+> 
+> Twenty-five years ago a professor named David Stanley published a method of selecting Canadian blue-chip dividend-paying stocks based on a strategy south of the border called “Dogs of the DOW” which had been shown to consistently beat the index.
