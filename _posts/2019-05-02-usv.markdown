@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "USV: The Long Game / Free Learning"
+date:   2019-05-02 12:00:00 -0500
+categories: general
+draft: false 
+---
+
+I came across two really cool posts from USV today. 
+
+The first, Fred Wilson talked about his [long relationship](https://avc.com/2019/05/the-long-game/) with Return Path and it's founder Matt Blumberg. Very heartfelt and a really great story. 
+
+The second is an interesting project started by USV today called [Free Learning](https://freelearners.org/). 
+
+> Free learning is free-form and self-directed (much like Free Climbing or Free Diving). In free learning, learners ask questions, they want to know things. They use their innate curiosity to drive the learning. 
+>
+> How does one free learn? The first step is to be passionate, the next step is to ask a question, and then the last step is to find a community where finding the answer is encouraged. This passion and community-driven learning is already happening in music and sports – we join bands and teams that encourage us to learn more, and it is our own passion that drives us to get better – imagine if the same could happen in other subjects too.
+
