@@ -6,7 +6,7 @@ categories: leadership
 draft: false 
 ---
 
-I'm hate when tech companies use [combat analogies](https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/), but that's not what this post is about. It's about _wartime_ - the most famous of them all. 
+I'm hate when tech companies use [combat analogies](https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/), but that's not what this post is about. It's about _wartime_ - the most famous of them all.  
 
 Wartime is a mode of highly focused work, often driven by a market condition like direct competition. Wartime is when companies go into must-win mode. I've been in a company in wartime mode, and recently had a conversation about that experience. This post is a collection of some notes on this topic.
 
