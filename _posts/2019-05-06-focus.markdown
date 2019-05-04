@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Focus"
+date:   2019-05-03 12:00:00 -0500
+categories: general
+draft: true 
+---
+
+Focus is a difficult problem. Ambition is unbounded but attention isn't. 
+
+This post is about some mental models that help to create focus. 
+
+- Long Term thinking - When you think of the long term it's not going to matter whether you did something today or two months later. This makes it okay to focus. If it means you can dedicate all your energy towards one thing
+- Order of Operations - Often one thing needs to happen before another. 
+- Serial vs Parallel execution 
+- Attention is Zero Sum
