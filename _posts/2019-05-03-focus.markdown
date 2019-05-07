@@ -2,15 +2,15 @@
 layout: post
 title:  "Focus"
 date:   2019-05-03 12:00:00 -0500
-categories: general
-draft: true 
+categories: productivity
+draft: false
 ---
 
-Focus is a difficult problem. Ambition is unbounded but attention isn't. 
+Focus is perhaps the defining problem of the digital age. Access to more information has made ambition unbounded. At the same time, the same tools are designed to harvest _attention_ - the raw ingredient that makes visions a reality.
 
-This post is about some mental models that help to create focus. 
+This post is about some mental models I've used that help to create focus.
 
-- Long Term thinking - When you think of the long term it's not going to matter whether you did something today or two months later. This makes it okay to focus. If it means you can dedicate all your energy towards one thing
-- Order of Operations - Often one thing needs to happen before another. 
-- Serial vs Parallel execution 
-- Attention is Zero Sum
+- Attention is Zero Sum. There are a finite number of hours we all have on the planet. If you're reading this, you're likely priveleged enough to have agency over that time. But spending time on one thing means you're implicitly deciding not to spend it on another. That simple fact can prioritize the most important thing. 
+- Long Term thinking. It's commonly said that it takes a decade to build anything great. If we take that long term view - when we look back it won't really matter whether something gets done today, or a month from now. In ten years it will all seem like noise. This allows us to operate serially vs. in parallel and ensure we're doing things in the right order of operations.
+- Order of Operations - I've written about [this concept]({{ site.baseurl }}{% post_url 2018-10-27-order-of-operations %}) before. It emphasizes that outcomes depend on the sequence in which you do things. You cannot combine the same elements in a different order and expect the same output. This is a fancy way of saying that strategy is about choices, all of which help to create focus. 
+- Serial vs Parallel execution - Serial execution is about doing one thing at a time, one after another. Parallel is about doing the same things all together. There is a time and place for each, but _serial execution_ is literally synonymous with focus. Focus, by definition, is the choice of doing one thing at a time.

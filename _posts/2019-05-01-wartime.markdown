@@ -6,11 +6,11 @@ categories: leadership
 draft: false 
 ---
 
-I'm hate when tech companies use [combat analogies](https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/), but that's not what this post is about. It's about _wartime_ - the most famous of them all.  
+I hate when tech companies use [combat analogies](https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/), but I'll write about that disdain another day. I want to talk about _wartime_ - the most famous of them all.  
 
-Wartime is a mode of highly focused work, often driven by a market condition like direct competition. Wartime is when companies go into must-win mode. I've been in a company in wartime mode, and recently had a conversation about that experience. This post is a collection of some notes on this topic.
+Wartime is when companies go into **must-win mode**. Wartime is a mode of highly focused output, often driven by a market condition like direct competition. I've been in a company in wartime mode, and recently had a conversation about that experience. This post is a collection of some notes on this topic.
 
-In my experience, wartime was 3 weeks of focused effort towards a very specific objective - to launch an iOS, Android and Web app for a new product from scratch. It took working 7 days a week, and often 10-11 hour days. It's wasn't normal, and I don't recommend it - but we got the job done. 
+In my experience, wartime was 3 weeks of focused effort towards a fairly ambitious task - launch a fully featured iOS, Android and Web app for a new product from scratch. It took working 7 days a week, and often 10-11 hour days. It wasn't normal, and I really don't recommend it for everyone - but we got the job done. 
 
 Here's how things felt during that time, and some guidelines for anyone considering it:
 * Wartime feels unmistakebly different. It's a hard shift that can't be created through regular means. An aggressive goal in an OKR doesn't create wartime. Companies can sometimes feel like they are in wartime mode until they see what that actually means. Wartime is _essential_ when it happens, but it should never be overapplied. 
@@ -19,4 +19,4 @@ Here's how things felt during that time, and some guidelines for anyone consider
 * Wartime is a choice. The people working on a team during this mode have to be allowed to opt-out without retribution. It's not for everyone, and that shouldn't be a negative thing. 
 * Wartime gets the entire company together. In my experience it was a relatively small team, but the energy of the team spread across the company and beyond. 
 
-If you or someone you know is in a company that's planning to go into "wartime mode", I'd love to [speak](mailto:tarun.sachdeva@gmail.com) to them.
+If you or someone you know is in a company that's planning to go into "wartime mode", I'd love to [speak](mailto:tarun.sachdeva@gmail.com) to them about their experience.
