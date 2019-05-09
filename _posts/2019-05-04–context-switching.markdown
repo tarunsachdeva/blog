@@ -14,4 +14,4 @@ Context switching is a computing term, and often applies to the workload of hand
 
 In _human_ terms, context switching is the process and time to moving from one task to another. This act requires shutting off your mind to the old task, and completing the attention switch to the new one. Let's say you have _n_ to-do's in a day. With context switching considered - you actually have _n + (n-1)_, or _2n - 1_ in total. So for 5 tasks, there are actually 9 with context switching considered. This is  pronounced if they are very disparate tasks. 
 
-Context switching quickly becomes expensive - it's is the invisible friction that's brings productivity to a halt. 
+Context switching quickly becomes expensive - it's the invisible friction that's brings productivity to a halt. 
