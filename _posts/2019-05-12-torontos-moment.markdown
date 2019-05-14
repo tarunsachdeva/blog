@@ -14,4 +14,4 @@ What a shot. Kawhi's buzzer beater capped off an otherwise ugly game of basketba
 
 {% include youtube.html youtube_id="3emK-oy0LyQ" %}
 
-Toronto's moment is now.
+There's so much to say about moments like this, but right now it's just a time to _feel_ them. The whole city feels dialed into this. Lots of work ahead but that was an incredible victory.
