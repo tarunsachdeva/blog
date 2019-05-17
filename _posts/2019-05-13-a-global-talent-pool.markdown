@@ -10,8 +10,8 @@ Restricting talent to a local candidate pool isn't a sustainable way to build a 
 
 So what does it mean to do business in a global talent pool? Some considerations:
 
-- Hiring and firing becomes infinitely easier and more difficult. Finding the best people globally means there's an opportunity for the meritocracy myth to actually be true - but  the right person is the needle in a haystack. 
-- Helping create team dynamics in a global talent pool is extremely difficult. This is a common challenge with remote work - they can feel isolated and teams may not feel as cohesive. 
-- There's an additional overhead investment to make remote successful. This can include operational issues like knowledge management. 
+- Hiring becomes both easier and more difficult. Finding the best people globally means there's greater space for meritocracy vs privelege. But, finding the right person is now the proverbial needle in a haystack. 
+- Helping create team dynamics in a global talent pool is extremely difficult. This is a common challenge with remote work. Individuals can feel isolated and teams may not feel as cohesive. 
+- There's an additional overhead investment to make remote successful. This can include operational issues like knowledge management.
 
-An organization is a group of individuals and people that choose to spend a part of their career journey towards company goals. A global talent pool affects all parts of that system.
+A global talent pool affects all parts of a company system - there's great potential when it can work, but it won't come without proactive investment. For many, that may be too tough a hurdle.
