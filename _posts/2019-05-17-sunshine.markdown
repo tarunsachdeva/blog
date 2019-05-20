@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Sunshine"
+date:   2019-05-17 12:00:00 -0500
+categories: general
+draft: false
+---
+
+The weather has finally turned a corner. The sun is shining in Toronto after the longest winter in recent history (this might not be true but it really felt like it). 
+
+So much changes when the sun is out. Optimism abounds. Problems solve themselves. A simple walk can change everything.
+
+Like many others, I'm feeling thankful and looking forward to the summer.
