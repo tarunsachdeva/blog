@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132352042-1"></script>
+    
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-132352042-1');
+      </script>
+    
+
+    <script>
+    window['_fs_debug'] = false;
+    window['_fs_host'] = 'fullstory.com';
+    window['_fs_org'] = 'HQKQB';
+    window['_fs_namespace'] = 'FS';
+    (function(m,n,e,t,l,o,g,y){
+        if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
+        g=m[e]=function(a,b,s){g.q?g.q.push([a,b,s]):g._api(a,b,s);};g.q=[];
+        o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+        y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+        g.identify=function(i,v,s){g(l,{uid:i},s);if(v)g(l,v,s)};g.setUserVars=function(v,s){g(l,v,s)};g.event=function(i,v,s){g('event',{n:i,p:v},s)};
+        g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
+        g.consent=function(a){g("consent",!arguments.length||a)};
+        g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+        g.clearUserCookie=function(){};
+    })(window,document,window['_fs_namespace'],'script','user');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Smart Locks and the Home Permissions Layer | Tarun Sachdeva</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Smart Locks and the Home Permissions Layer" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="I’ve been spending a lot of time at home for a parental leave, and have been thinking about how technology is going to play a stronger role in making our lives easier at home and in our neighbourhoods." />
+<meta property="og:description" content="I’ve been spending a lot of time at home for a parental leave, and have been thinking about how technology is going to play a stronger role in making our lives easier at home and in our neighbourhoods." />
+<link rel="canonical" href="http://localhost:4000/20181005/smart-locks-home-permissions-layer.html" />
+<meta property="og:url" content="http://localhost:4000/20181005/smart-locks-home-permissions-layer.html" />
+<meta property="og:site_name" content="Tarun Sachdeva" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-10-05T13:00:00-04:00" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/20181005/smart-locks-home-permissions-layer.html","headline":"Smart Locks and the Home Permissions Layer","dateModified":"2018-10-05T13:00:00-04:00","datePublished":"2018-10-05T13:00:00-04:00","description":"I’ve been spending a lot of time at home for a parental leave, and have been thinking about how technology is going to play a stronger role in making our lives easier at home and in our neighbourhoods.","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/20181005/smart-locks-home-permissions-layer.html"},"@type":"BlogPosting","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=4b95d6e664445fd9b91518dad0a5aa6c44bd0beb">
+
+  </head>
+  <body>
+    <div class="container markdown-body">
+      <div id="blog-header" class="row">
+        <div class="col">
+          
+            <h1><a href="http://localhost:4000/">Tarun Sachdeva</a></h1>
+          
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-8">
+          <div class="post-meta f3-light text-small">
+  	Oct 5, 2018
+  </div>
+  
+  <h2>Smart Locks and the Home Permissions Layer</h2>
+  
+
+  <div class="post-content">
+    <p>I’ve been spending a lot of time at home for a parental leave, and have been thinking about how technology is going to play a stronger role in making our lives easier at home and in our neighbourhoods.</p>
+
+<p>There’s been a lot of activity in this space for many years now - from Alexa to Homekit becoming the OS for our homes, to the assortment of smart-everything devices.</p>
+
+<p>All of these are exciting in their own right, but I believe the smart door lock is particularly consequential. The smart lock creates a use case that goes beyond the home itself - it can help change the nature of how we work with home service providers, and help to build stronger communities.</p>
+
+<p>When a smart lock is installed, it gives the owners the ability to generate multiple keys to the house. Those keys can be activated and deactivated remotely, and distributed to members of the household or other trusted people. This capability gives the home a “permissions layer”.</p>
+
+<p>The ability to generate keys for other trusted people is the most powerful concept. This can be used for service providers like contractors, delivery people, the cable guys, dog walkers, nannies, and so on.</p>
+
+<p>For residents of the home, you no longer have to be home for service providers to do the work on your house, fix your cable, or drop off a package. For the service providers (contractors especially) they don’t have to worry about offering services outside of a traditional 9-5 schedule when you are home.</p>
+
+<p>A central service can now offer the ability to schedule service providers and create a specific key for them, valid only for the day and times they are scheduled to arrive.</p>
+
+<p>The use case is when you leave the house every morning to go to work, you’ll know exactly who’s coming in, what services they are going to provide, and most importantly - you’ll come home to a house where many chores are already done for you.</p>
+
+<p>Trust is the obvious question - why would I trust strangers to come into my house? This is where you can follow the Uber and Lyft trust infrastructure model (which has it’s own flaws, but largely works). After all, we would never have imagined getting into a strangers car to have them drive us somewhere, until Uber and Lyft provided the infrastructure to do so.</p>
+
+<p>What is stopping this currently is the massive amout of fragmentation in smart locks, which makes it difficult to offer a seamless user experience. However, the connection to Homekit and Alexa makes this future possible.</p>
+
+<p>Infact, it is already here - Amazon launched a service called Amazon Key for their package delivery service. I can easily see this being extended beyond just one type of service.</p>
+
+<p>This also has obvious network effects - the more people with a smart door lock, the more benefit to other users as it can drive down prices and create economies of scale. A contractor may be able to offer discounts for adjacent homes and apartments using smart door locks. Sharing service providers - something that already happens in neighbourhoods today - can go a long way to create a stronger sense of community as well.</p>
+
+  </div>
+
+	<br/>
+
+        </div>
+        <div class="col-sm-4">
+          <div class= "post-disclaimer">
+            <h3>About</h3>
+              <div>
+                <p><img src="/assets/img/me.jpg" /></p>
+                <p>My name is Tarun Sachdeva. I'm the GM of <a href="http://www.taptaptap.co">Tap</a> by <a href="http://www.wattpad.com">Wattpad</a>, a platform for enjoying interactive stories.</p>
+
+                <p>I use this space to write everyday - to clarify my thoughts, learn through writing, and sometimes just journal and post things I find interesting.</p>
+
+              </div>
+            <h3>Subscribe</h3>
+              <p><a href="/feed.xml">RSS</a></p>
+            <h3>Contact</h3>
+            <p>
+              <a href="http://www.twitter.com/tarunsachdeva">Twitter</a><br/>
+              <a href="http://www.twitter.com/bombayhustle">Instagram</a><br/>
+              <a href="mailto:tarun@tarunsachdeva.com">Email</a><br/>
+<!--              <a href="https://www.github.com/tarunsachdeva">Github</a> -->
+            </p>
+          </div>                    
+        </div>
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

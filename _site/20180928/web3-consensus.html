@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132352042-1"></script>
+    
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-132352042-1');
+      </script>
+    
+
+    <script>
+    window['_fs_debug'] = false;
+    window['_fs_host'] = 'fullstory.com';
+    window['_fs_org'] = 'HQKQB';
+    window['_fs_namespace'] = 'FS';
+    (function(m,n,e,t,l,o,g,y){
+        if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
+        g=m[e]=function(a,b,s){g.q?g.q.push([a,b,s]):g._api(a,b,s);};g.q=[];
+        o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+        y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+        g.identify=function(i,v,s){g(l,{uid:i},s);if(v)g(l,v,s)};g.setUserVars=function(v,s){g(l,v,s)};g.event=function(i,v,s){g('event',{n:i,p:v},s)};
+        g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
+        g.consent=function(a){g("consent",!arguments.length||a)};
+        g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+        g.clearUserCookie=function(){};
+    })(window,document,window['_fs_namespace'],'script','user');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Web 3: Consensus | Tarun Sachdeva</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Web 3: Consensus" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The last few Future Friday’s, I’ve focused on Web 3. I explored how the blockchain is paving the way for a decentralized networks, and how those networks can be developed and governed using crypto tokens as incentives." />
+<meta property="og:description" content="The last few Future Friday’s, I’ve focused on Web 3. I explored how the blockchain is paving the way for a decentralized networks, and how those networks can be developed and governed using crypto tokens as incentives." />
+<link rel="canonical" href="http://localhost:4000/20180928/web3-consensus.html" />
+<meta property="og:url" content="http://localhost:4000/20180928/web3-consensus.html" />
+<meta property="og:site_name" content="Tarun Sachdeva" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-09-28T13:00:00-04:00" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/20180928/web3-consensus.html","headline":"Web 3: Consensus","dateModified":"2018-09-28T13:00:00-04:00","datePublished":"2018-09-28T13:00:00-04:00","description":"The last few Future Friday’s, I’ve focused on Web 3. I explored how the blockchain is paving the way for a decentralized networks, and how those networks can be developed and governed using crypto tokens as incentives.","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/20180928/web3-consensus.html"},"@type":"BlogPosting","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=4b95d6e664445fd9b91518dad0a5aa6c44bd0beb">
+
+  </head>
+  <body>
+    <div class="container markdown-body">
+      <div id="blog-header" class="row">
+        <div class="col">
+          
+            <h1><a href="http://localhost:4000/">Tarun Sachdeva</a></h1>
+          
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-8">
+          <div class="post-meta f3-light text-small">
+  	Sep 28, 2018
+  </div>
+  
+  <h2>Web 3: Consensus</h2>
+  
+
+  <div class="post-content">
+    <p>The last few Future Friday’s, I’ve focused on Web 3. I explored how the blockchain is paving the way for a <a href="/20180916/decentralization-revisited.html">decentralized networks</a>, and how those networks can be developed and governed using <a href="/20180921/web3-designing-networks-tokens.html">crypto tokens</a> as incentives.</p>
+
+<p>Today I want to cover some details of how data is transmitted and how people reach agreement within a decentralized world using Blockchains.</p>
+
+<p>In order for a decentralized world to work, there needs to be a few elements in place:</p>
+
+<ul>
+  <li>The ability for one node in a network to reliably send messages to another without a central party - a reliable and trustworthy method of <em>peer-to-peer messaging</em>.</li>
+  <li>The ability for multiple computers to agree on the validity of a transaction, a problem known as <em>consensus</em>. A transaction can be any blockchain-based transaction - it can be to record the transfer of digital assets like Bitcoin, but also for something like file transfers (as used in <a href="https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c">IPFS</a>).</li>
+</ul>
+
+<p>Both of these are solved by cryptography.</p>
+
+<p>Peer to peer messaging is done using public-key cryptography and digital signatures. Public Key Cryptography is a cryptographic system that relies on a pair of keys, a  secret private key and an ‘open’ public key which is broadcasted out to the network. This system helps ensure the authenticity and integrity of a message by relying on advanced cryptographic techniques. (<a href="https://www.blockchain-council.org/blockchain/how-does-blockchain-use-public-key-cryptography/">source</a>)</p>
+
+<p>Agreement on the validity of transaction is done using a <em>consensus algorithm</em> agreed to by all members of the blockchain. This consensus algorithm is used to validate transactions on the chain without needing a central party. There are two forms of conensus (<a href="https://mastanbtc.github.io/blockchainnotes/blockchaintypes/#what-is-consensus">source</a>):</p>
+
+<ul>
+  <li>Permissionless, in which every node in the network participate in consensus procedure, e.g. Bitcoin Blockchain (Proof of Work)</li>
+  <li>Permissioned, in which only Selected nodes (validators, e.g. Government or trusted nodes) participate in consensus procedure</li>
+</ul>
+
+<p>Some of most common consensus algorithms being used by different blockchains today are Proof of Work (used by Bitcoin), and Proof of Stake.</p>
+
+<ul>
+  <li>A Proof of Work (PoW), where a node on the network has to solve mathematically complex puzzles on the new block before approving the block to the ledger. After solving the puzzle, the solution is then forwarded to other miners and verified by them before being accepted to their respective copies of the ledger (<a href="https://medium.com/@BangBitTech/what-is-consensus-algorithm-in-blockchain-different-types-of-consensus-models-12cce443fc77">source</a>).</li>
+  <li>Proof of Stake (PoS), in which a node on the network is selected to verify the transaction based on how much token ownership they have.</li>
+</ul>
+
+<p><a href="https://medium.com/@BangBitTech/what-is-consensus-algorithm-in-blockchain-different-types-of-consensus-models-12cce443fc77">This</a> is a great article summarizing some of the most common consensus algorithms.</p>
+
+<p>From <a href="https://medium.com/imbrexblog/web-3-consensus-mechanisms-2dcfb7bfaadb">Web 3 Consensus Mechanisms</a> on the importance of consensus mechanisms.</p>
+
+<blockquote>
+  <p>Consensus mechanisms are a integral to blockchain technology and other distributed systems. They are the basis on which participants of a given network with a range of varied self-interests, and even a mutual distrust for one another, can come to an agreement on the validity of data and transactions. <strong>The consensus model implemented by a project, company or team is the heart of its security, communication, and sustainability</strong>.</p>
+</blockquote>
+
+  </div>
+
+	<br/>
+
+        </div>
+        <div class="col-sm-4">
+          <div class= "post-disclaimer">
+            <h3>About</h3>
+              <div>
+                <p><img src="/assets/img/me.jpg" /></p>
+                <p>My name is Tarun Sachdeva. I'm the GM of <a href="http://www.taptaptap.co">Tap</a> by <a href="http://www.wattpad.com">Wattpad</a>, a platform for enjoying interactive stories.</p>
+
+                <p>I use this space to write everyday - to clarify my thoughts, learn through writing, and sometimes just journal and post things I find interesting.</p>
+
+              </div>
+            <h3>Subscribe</h3>
+              <p><a href="/feed.xml">RSS</a></p>
+            <h3>Contact</h3>
+            <p>
+              <a href="http://www.twitter.com/tarunsachdeva">Twitter</a><br/>
+              <a href="http://www.twitter.com/bombayhustle">Instagram</a><br/>
+              <a href="mailto:tarun@tarunsachdeva.com">Email</a><br/>
+<!--              <a href="https://www.github.com/tarunsachdeva">Github</a> -->
+            </p>
+          </div>                    
+        </div>
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
