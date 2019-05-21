@@ -18,6 +18,10 @@ PandaConf + ContentMakers
 Tuesday May 21, 10:30 - 10:50 (20min)
 The democratization of augmented reality is throttling innovation and its widespread adoption. In this talk, Eitan Pilipski outlines the vision for a future where computing is no longer confined to a screen in our hand, it's overlaid on the world around us.
 
+
+
+
+
 Y Combinator: Calling on founders
 Centre Stage
 Tuesday May 21, 10:45 - 11:05 (20min)
