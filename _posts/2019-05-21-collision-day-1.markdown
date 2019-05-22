@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Collision Day 1"
+title:  "Collision Day 1 Retrospective"
 date:   2019-05-21 12:00:00 -0500
 categories: technology
 draft: false
