@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "The Ivy Lee Method"
+date:   2019-05-22 12:00:00 -0500
+categories: productivity
+draft: false
+--- 
+
+Today I learned of a simple productivity technique called the [Ivy Lee method](https://jamesclear.com/ivy-lee), created in 2018 but still relevant.
+
+> 1. At the end of each work day, write down the six most important things you need to accomplish tomorrow. Do not write down more than six tasks.
+> 2. Prioritize those six items in order of their true importance.
+> 3. When you arrive tomorrow, concentrate only on the first task. Work until the first task is finished before moving on to the second task.
+> 4. Approach the rest of your list in the same fashion. At the end of the day, move any unfinished items to a new list of six tasks for the following day.
+> 5. Repeat this process every working day.
+
+There's an app that makes this easier, appropriately named [Ivy](https://itunes.apple.com/us/app/ivy-stress-free-to-do-lists/id1458049415?ls=1&mt=8). I really appreciate the retrospective graphs. A few months ago I started using a simpler productivity system - weekly planning and retrospectives. For the latter, I look at what I accomplished vs. what I committed to. Retrospectives highlight my mistakes, which I try to avoid in my next round of planning.
