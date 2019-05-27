@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Raptors"
+date:   2019-05-23 12:00:00 -0500
+categories: general 
+draft: true
+--- 
+
+The Toronto Raptors made the NBA finals for the first time, defeating the Milwaukee Bucks 100-94 in Game 6. 
+
+- Why not us mentality
+- Artificial barriers and getting in our own way 
