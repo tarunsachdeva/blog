@@ -12,4 +12,4 @@ For the last few weeks I've found myself fall into a familiar pattern - skip wri
 
 I'm not sure exactly how to reposition the habit so it can happen more regularly. Mornings are tough because those are my deep work sessions that I like to use. One way I've seen it work is when I can complete a post right before I leave work.
 
-Anyways, I'm not sure how this habit will regularize itself again - but one thing is clear - writing everyday at EOD isn't working that well. I'm hoping to get this fixed soon, and if anyone has a suggestion, please [slide into DM](www.twitter.com/tarunsachdeva) on Twitter.
+Anyways, I'm not sure how this habit will regularize itself again - but one thing is clear - writing everyday at EOD isn't working that well. I'm hoping to get this fixed soon. 
