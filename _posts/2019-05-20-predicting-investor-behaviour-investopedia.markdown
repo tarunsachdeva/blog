@@ -6,7 +6,7 @@ categories: investing
 draft: false
 --- 
 
-A really cool talk from the CEO of Investopedia about how they are able to predict market trends based on search behaviour. It highlights a few things:
+A really cool talk from the CEO of Investopedia about how they are able to predict market trends based on search behaviour. They created an Investopedia Anxiety Index similar to the VIX. It highlights a few things:
 
 * Most investors are newbies and rely on sites like Investopedia regularly
 * Most investors over follow the market and make short term decisions for quick rewards (not a good move)
@@ -14,4 +14,4 @@ A really cool talk from the CEO of Investopedia about how they are able to predi
 
 {% include youtube.html youtube_id="Dq6LzLWtq7U" %}
 
-I'm still looking for the slide deck that was being presented - will update this post when I find it.
+Details on the [Investopedia Anxiety Index](https://www.investopedia.com/anxiety-index-explained/).
