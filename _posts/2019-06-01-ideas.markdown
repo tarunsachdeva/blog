@@ -9,3 +9,5 @@ draft: false
 Erik Torenberg published a pretty epic twitter thread about how to think of markets and business ideas (albeit from a VC perspective- which has its own specific lean). 
 
 Check it out [here](https://mobile.twitter.com/eriktorenberg/status/1135272936657416192). 
+
+[Some more notes](https://www.google.com/amp/s/25iq.com/2015/02/21/a-dozen-things-ive-learned-from-don-valentine-about-venture-capital-and-business/amp/) on this topic from Tren Griffin.  
