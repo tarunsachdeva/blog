@@ -6,7 +6,7 @@ categories: technology
 draft: false
 ---
 
-Erik Torenberg published a pretty epic twitter thread about how to think of markets and business ideas (albeit from a VC perspective- which has its own specific lean). 
+Erik Torenberg published a pretty epic twitter thread about how to think of markets and business ideas (albeit from a VC perspective- which has its own specific lean).   
 
 Check it out [here](https://mobile.twitter.com/eriktorenberg/status/1135272936657416192). 
 
