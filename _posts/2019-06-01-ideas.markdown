@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Where Good Ideas Come From"
-date:   2019-05-31 12:00:00 -0500
+date:   2019-06-01 12:00:00 -0500
 categories: technology 
 draft: false
 ---
