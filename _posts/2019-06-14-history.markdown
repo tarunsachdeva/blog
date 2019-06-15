@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "History"
+date:   2019-06-12 12:00:00 -0500
+categories: general
+draft: false
+---
+
+History made. Still don't know what to say, so I'll just leave this here:
+
+![Freddie](https://i.imgur.com/N7z6ukP.jpg)
