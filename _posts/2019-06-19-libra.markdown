@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Some Early Thoughts on Libra"
+date:   2019-06-19 12:00:00 -0500
+categories: technology
+draft: false
+---
+
+Libra is a massive new initiative to deliver on the promise of the 'internet of money' using Blockchain technology. 
+
+> Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+
+In simpler terms, Libra is a stable, fiat backed cryptocurrency that will launch inside some of the world’s largest consumer-facing applications ([USV](https://www.usv.com/blog/why-usv-is-joining-the-libra-association)).
+
+There's a lot to take in with Libra but it's pretty clear that the backing of the biggest consumer app in the world will jumpstart crypto adoption. The ability to send and receive money as quickly as we transfer data will unlock and create new opportunities. Being backed by a reserve gives it the necessary stability to build trust with developers.
+
+At the same time, there's a ton of challenge - trust itself being one. Facebook isn't exactly known to be the most trusted organization but they are only a single member of the governing body. There are many questions around regulations. The government has already cracked down and asked Facebook to stop development on Libra, and the SEC has an investigation underway with Kik and it's Kin cryptocurrency.
+
+Looking forward to seeing this evolve.
