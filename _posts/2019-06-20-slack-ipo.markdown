@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Slack's IPO"
+date:   2019-06-20 12:00:00 -0500
+categories: investing
+draft: true
+---
+
+Slack IPO'd today.
+
+Should you buy?
+- P/E
+- Sales / Marketing 
+
+From S-1:
+
+We have incurred significant net losses in each year since our inception, including net losses of $146.9 million, $140.1 million, and $138.9 million in fiscal years 2017, 2018, and 2019, respectively. We expect to continue to incur net losses for the foreseeable future and we may not achieve or maintain profitability in the future. Because the market for Slack, and the features, integrations, and capabilities we offer on Slack, is rapidly evolving and has not yet reached widespread adoption, it is difficult for us to predict our future results of operations or the limits of our market opportunity. We expect our operating expenses to significantly increase over the next several years as we hire additional personnel, particularly in sales and marketing, expand our partnerships, operations, and infrastructure, both domestically and internationally, continue to enhance Slack and develop and expand its features, integrations and capabilities, and expand and improve our application programming interfaces, or APIs. 
+
