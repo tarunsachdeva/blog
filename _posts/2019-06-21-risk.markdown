@@ -3,6 +3,17 @@ layout: post
 title:  "On Risk"
 date:   2019-06-21 12:00:00 -0500
 categories: investing
-draft: true
+draft: false
 ---
 
+I've been faced with some decisions recently that have tested my risk tolerance. Almost serendipitously I was catching up on The Knowledge Project, in particular [this episode](https://fs.blog/howard-marks/) featuring Howard Marks of Oaktree Capital.
+
+Some notes from this conversation:
+
+On Outperformance: By definition this requires contrarian thinking. Getting ahead _by definition_ means you're working either smarter or harder than everyone else. Working harder isn't en vogue these days. And while Nothing is really deterministic but ultimately working hard is a predictor of success more than it isn't. 
+
+These two paragraphs from the [summary](https://fs.blog/howard-marks/) really hit home.
+
+> To be an out-performer, you have to think different from the crowd. But most of the time, the crowd is about as close to being right as you can get. Ergo, the problem. So, to be an above average investor, number one you have to think different from the crowd. But number two, you have to be right. So, second-level thinking is thinking which is different and better.
+>
+> The question is not, do you dare to be great? The question is, do you dare to be different? To diverge from the pack is required if you’re going to be a superior in anything. Number two, do you dare to be wrong? Number three, do you dare to look wrong? Because even things which are going to be right in the long run, maybe look wrong in the short run. So, you have to be willing to live with all those three things, different, wrong, and looking wrong, in order to be able to take the risk required and engage in the idiosyncratic behavior required for success.

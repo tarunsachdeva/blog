@@ -3,16 +3,12 @@ layout: post
 title:  "Slack's IPO"
 date:   2019-06-20 12:00:00 -0500
 categories: investing
-draft: true
+draft: false
 ---
 
-Slack IPO'd today.
+Slack IPO'd today and I was looking through the [S-1](https://sec.report/Document/0001628280-19-004786/) they filed a few months prior. 
 
-Should you buy?
-- P/E
-- Sales / Marketing 
+Slack gets a lot of love from the tech press, and [I'm a fan]({{ site.baseurl }}{% post_url 2018-09-23-slack-product-network-ecosystem %}) of the product. I was taken aback at the scale of their loss and particularly the sales and marketing costs. Slack is upheld as the champion of bottoms up organic growth in the enterprise, but the numbers tell a slightly different story. Obviously an outsiders perspective but pretty interesting. Still gonna buy; too much FOMO.
 
-From S-1:
-
-We have incurred significant net losses in each year since our inception, including net losses of $146.9 million, $140.1 million, and $138.9 million in fiscal years 2017, 2018, and 2019, respectively. We expect to continue to incur net losses for the foreseeable future and we may not achieve or maintain profitability in the future. Because the market for Slack, and the features, integrations, and capabilities we offer on Slack, is rapidly evolving and has not yet reached widespread adoption, it is difficult for us to predict our future results of operations or the limits of our market opportunity. We expect our operating expenses to significantly increase over the next several years as we hire additional personnel, particularly in sales and marketing, expand our partnerships, operations, and infrastructure, both domestically and internationally, continue to enhance Slack and develop and expand its features, integrations and capabilities, and expand and improve our application programming interfaces, or APIs. 
-
+From the risks section of their S-1:
+> We have incurred significant net losses in each year since our inception, including net losses of $146.9 million, $140.1 million, and $138.9 million in fiscal years 2017, 2018, and 2019, respectively. We expect to continue to incur net losses for the foreseeable future and we may not achieve or maintain profitability in the future. Because the market for Slack, and the features, integrations, and capabilities we offer on Slack, is rapidly evolving and has not yet reached widespread adoption, it is difficult for us to predict our future results of operations or the limits of our market opportunity. **We expect our operating expenses to significantly increase over the next several years as we hire additional personnel, particularly in sales and marketing**, expand our partnerships, operations, and infrastructure, both domestically and internationally, continue to enhance Slack and develop and expand its features, integrations and capabilities, and expand and improve our application programming interfaces, or APIs. 
