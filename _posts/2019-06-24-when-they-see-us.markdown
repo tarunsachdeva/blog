@@ -6,6 +6,6 @@ categories: general
 draft: false
 ---
 
-Ava DuVernay's latest work is a 4 part series on Netflix about the Central Park 5. It goes into detail about their experience - on the night of the event, throughout unfair incarceration, and assimilation back into normal society.
+Ava DuVernay's latest work is a 4 part series on Netflix about the Central Park 5. It goes into detail about their experience - on the night of the event, throughout unfair incarceration, and assimilation back into normal society. 
 
-I don't say this lightly - It fucked me up. It made my blood boil, it made me cry, and it gave me so much respect for those five. Check it out on Netflix.
+It will grip you, make your blood boil, and make you cry. It is important storytelling. Check it out on Netflix.
