@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "Waves"
-date:   2019-06-25 12:00:00 -0500
+date:   2019-06-26 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
+A product or company's success is dependent on the waves it's riding. These waves can be broad market trends, shifts in behaviour or the success of other products. 
+
+For example, mobile app companies rode the wave of broad global smartphone adoption. Similarly, instability in the public markets increases adoption of Bitcoin. 
+
+While it's nice to think success is always fully earned, the truth is in understanding the broader system. It's often the larger waves that influence a company's success more than anything else. 
