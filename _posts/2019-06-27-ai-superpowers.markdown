@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Waves"
+title:  "AI Superpowers"
 date:   2019-06-26 12:00:00 -0500
 categories: general
-draft: false
+draft: true
 ---
 
 A product or company's success is dependent on the waves it's riding. These waves can be broad market trends, shifts in behaviour or the success of other products. 
