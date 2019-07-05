@@ -10,8 +10,6 @@ The world was on #KawhiWatch today. I was getting multiple messages full of rumo
 
 It's pretty insane to see this happening. No athlete in recent memory has gotten this type of attention. It's incredible to be a witness. 
 
-The choice is pretty clear. Toronto objectively is a better city for Kawhi.
-
-That said, we need to chill a bit. 😂
+The choice should be  clear. Toronto objectively is a better city for Kawhi. The  chance to defend the championship, a highly competent organization at all level, and cap space to offer upto a 5 year max. That said, we probably need to chill a little bit :)
 
 
