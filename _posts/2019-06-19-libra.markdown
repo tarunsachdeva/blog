@@ -10,7 +10,7 @@ Libra is a massive new initiative to deliver on the promise of the 'internet of 
 
 > Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 
-In simpler terms, Libra is a stable, fiat backed cryptocurrency that will launch inside some of the world’s largest consumer-facing applications ([USV](https://www.usv.com/blog/why-usv-is-joining-the-libra-association)).
+In simpler terms, from [USV](https://www.usv.com/blog/why-usv-is-joining-the-libra-association): Libra is a stable, fiat backed cryptocurrency that will launch inside some of the world’s largest consumer-facing applications.
 
 There's a lot to take in with Libra but it's pretty clear that the backing of the biggest consumer app in the world will jumpstart crypto adoption. The ability to send and receive money as quickly as we transfer data will unlock and create new opportunities. Being backed by a reserve gives it the necessary stability to build trust with developers.
 
