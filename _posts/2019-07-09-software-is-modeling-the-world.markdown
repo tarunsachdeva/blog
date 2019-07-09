@@ -6,7 +6,7 @@ categories: general
 draft: false
 ---
 
-Perhaps software isn't _eating_ the world, its actually just _modelling_ it. 
+Software isn't _eating_ the world, its just _modelling_ it. A model is a simulation, and that simulation has some really exponential outcomes. Many of these are also unintended - because software scales human capability, and that comes with scale effects which are hard to predict.
 
 It's modelling our personalities. 
 It's modelling our relationships.
