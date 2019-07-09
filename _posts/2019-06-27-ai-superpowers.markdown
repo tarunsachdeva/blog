@@ -6,8 +6,10 @@ categories: general
 draft: true
 ---
 
-A product or company's success is dependent on the waves it's riding. These waves can be broad market trends, shifts in behaviour or the success of other products. 
+[AI Superpowers](https://aisuperpowers.com/) is a book by Kai-Fu Lee, Chairman of Sinovation, a Chinese VC firm. 
 
-For example, mobile app companies rode the wave of broad global smartphone adoption. Similarly, instability in the public markets increases adoption of Bitcoin. 
+It's a book about the different stages of AI evolution, from it's role in creating new business models, improving perception of the world, and creating intelligent autonomous robots.
 
-While it's nice to think success is always fully earned, the truth is in understanding the broader system. It's often the larger waves that influence a company's success more than anything else. 
+More interesting is the cultural dimension. He posits China will win it all because of the differences in how Chinese companies operate and outcompete it's US rivals. What drives this the _market-driven_ mental model of most founders, vs. _mission-driven_ which is the prevailing model for North American startups. Being market driven means being ruthless about creating any product, copying where necessary, and doing anything to win and establish moats in a market. 
+
+There's likely more nuance in reality, but it's a great read nonetheless.
