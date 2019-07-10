@@ -6,18 +6,15 @@ categories: general
 draft: false
 ---
 
-Software isn't _eating_ the world, its just _modelling_ it. A model is a simulation, and that simulation has some really exponential outcomes. Many of these are also unintended - because software scales human capability, and that comes with scale effects which are hard to predict.
+I don't like to think of software as _eating_ the world; rather just _modelling_ it. 
 
-It's modelling our personalities. 
-It's modelling our relationships.
-It's modelling how we tell stories through words, music, and video. 
+It's modelling our personalities and relationships.
+It's modelling how we tell stories through words, music, and video and games. 
 It's modelling our money and how we interact with it.
 It's modelling how we trust and look for social proof.
 
 We now wear our software, live, breathe and sleep in it. We can almost touch it.
 
-But software is imperfect. Models often over simplify and leave out the niches and edge cases, often excluding people without intending. It's our job as software practitioners to make sure that doesn't happen. 
+But software is imperfect: the map is not the territory. Models often over simplify and leave out the niches and edge cases, often excluding people without intending. It's the job of the designers and builders to make sure that doesn't happen. 
 
-And to what end? What happens when we've built the perfect model of our world? When will we stop building more software? How do we use that to become better people? Can we use our software as a feedback loop to create the optimal behaviour for us? I'm not sure. 
-
-There is so much progress but there's so much more to do. 
+A model is a simulation, and through that simulation we can create exponential outcomes. When those stay in the software space, they seem harmless. But when you reach a certain scale, that simulation can have unintended real-world effects. 
