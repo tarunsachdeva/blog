@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Software is Modelling the World"
-date:   2019-07-09 12:00:00 -0500
+date:   2019-07-07 12:00:00 -0500
 categories: general
 draft: false
 ---

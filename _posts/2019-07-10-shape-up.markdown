@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Shape Up"
+date:   2019-07-10 12:00:00 -0500
+categories: general
+draft: true
+---
+
+https://basecamp.com/shapeup/
