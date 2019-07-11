@@ -3,7 +3,9 @@ layout: post
 title:  "Shape Up"
 date:   2019-07-10 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
-https://basecamp.com/shapeup/
+Another book from the crew at Basecamp - this one called [Shape Up](https://basecamp.com/shapeup/), and details their development process with illustrations. They introduced some concepts in [It doesn't have to be crazy at work](https://basecamp.com/books/calm), especially that of the 6-week project limit. I would call this the most _Rails_ approach to project management - eschewing complexity and reinforcing simple conventions in process. 
+
+It's a quick and impactful read. 
