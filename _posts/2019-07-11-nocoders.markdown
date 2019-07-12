@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "No Coders"
+date:   2019-07-11 12:00:00 -0500
+categories: technology
+draft: false
+---
+
+['No Code'](https://www.nocode.tech/) is a movement that enables non-technical entrepreneurs to create real, working digital products. Tools to do this include Shopify, Webflow, Carrd, Glitch and many others. A great starting point for understanding the movement is [Makerpad](https://www.makerpad.co/).
+
+As web and mobile products become easier to build, we're about to see a massive increase in the top of the funnel for new products being created. This inflection means more innovate products in market, but a proportional increase in competition. No code tools are also helping designers and developers collaborate and share common mental models and tools.
+
+It's an exciting wave of growth that can be as powerful as the appstores themselves and will likely create many more digital entrepreneurs along the way.

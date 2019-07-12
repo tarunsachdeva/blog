@@ -1,8 +1,0 @@
-- Diverse cofounders 
-- City wide commitment
-- The role of venture in reducing risk
-- 
-
-Diversity Flywheel??
-
-
