@@ -6,8 +6,8 @@ categories: technology
 draft: false
 ---
 
-From [Science Mag](https://www.sciencemag.org/news/2019/07/giant-batteries-and-cheap-solar-power-are-shoving-fossil-fuels-grid) on the progress of solar:
+From [Science Mag](https://www.sciencemag.org/news/2019/07/giant-batteries-and-cheap-solar-power-are-shoving-fossil-fuels-grid) on the progress of solar technology:
 
 > This month, officials in Los Angeles, California, are expected to approve a deal that would make solar power cheaper than ever while also addressing its chief flaw: It works only when the sun shines. The deal calls for a huge solar farm backed up by one of the world's largest batteries. It would provide 7% of the city's electricity beginning in 2023 at a cost of 1.997 cents per kilowatt hour (kWh) for the solar power and 1.3 cents per kWh for the battery. That's cheaper than any power generated with fossil fuel.
 
-Technology cost curves are at work. They actively change the dynamics of incumbent industries. 
+This is the power of technology cost curves. Incremental technology improvements over time will bring down costs. After that point, change happens fast, and incumbents get displaced.
