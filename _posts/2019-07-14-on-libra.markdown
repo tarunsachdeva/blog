@@ -6,6 +6,8 @@ categories: general
 draft: true
 ---
 
+Fat nixon said his piece about crypto and Libra today. 
+
 Libra is the new cryptocurrency being spearheaded by Facebook. There are already 
 
 - Wallet
