@@ -8,4 +8,4 @@ draft: true
 
 Problems;
 - Things don't happen because calendars are so broken
-- 
+- Awkward silences emerge
