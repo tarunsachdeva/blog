@@ -9,11 +9,13 @@ draft: true
 Problem
 - Setting Up learning infrastructure takes too long
 - Milennials expect more
+- Fresh start in every LMS
+- Knowledge shared across vc portfolios
 
-
-Solution
+A new learning platform needs to:
 - Turnkey solution to build a learning community 
-- 
+- Have content delivered in a way to maximize comprehension
+- Help people build personal brands
 
 
 - When a startup prioritizes learning, they do one of a few things - set a budget per employee, have a recommended vendor, look for events and conferences. They end up feeling incomplete, not auctioned, or worse - go unused altogether. 
