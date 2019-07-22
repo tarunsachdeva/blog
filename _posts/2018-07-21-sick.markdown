@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Sick"
+date:   2019-07-21 12:00:00 -0500
+categories: general
+draft: true
+---
+
+I've been sick all day today. It's a mild flu - a cloudy head, sinuses clogged and that _everything hurts_ feeling. 
+
+- Importance of self care
+- 
