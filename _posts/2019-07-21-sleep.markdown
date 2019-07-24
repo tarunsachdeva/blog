@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Sleep"
+date:   2019-07-21 12:00:00 -0500
+categories: general
+draft: false
+---
+
+I'm not feeling great today, and need to rest. In that spirit I'm writing a very short post about the importance of sleep. I read recently that Sleep is the ultimate [Nootropic](https://en.wikipedia.org/wiki/Nootropic) - it just takes 8 hours to take effect.  
+
+From the National Institute for Health:
+
+> Without sleep you can’t form or maintain the pathways in your brain that let you learn and create new memories, and it’s harder to concentrate and respond quickly.
+> 
+> Sleep is important to a number of brain functions, including how nerve cells (neurons) communicate with each other.  In fact, your brain and body stay remarkably active while you sleep.  Recent findings suggest that sleep plays a housekeeping role that removes toxins in your brain that build up while you are awake. 
+> 
+> Everyone needs sleep, but its biological purpose remains a mystery.  Sleep affects almost every type of tissue and system in the body – from the brain, heart, and lungs to metabolism, immune function, mood, and disease resistance.  Research shows that a chronic lack of sleep, or getting poor quality sleep, increases the risk of disorders including high blood pressure, cardiovascular disease, diabetes, depression, and obesity.
+
