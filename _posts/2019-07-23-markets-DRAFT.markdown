@@ -6,6 +6,6 @@ categories: general
 draft: true
 ---
 
-Narrative of impending recession is dominating. 
+It won't show in the numbers but there's a palpable tension everytime the Dow Jones closes at a new high.  
 
 Lots of anxiety. Good time to remember that markets don't exist - just a bunch of people making decisions. 
