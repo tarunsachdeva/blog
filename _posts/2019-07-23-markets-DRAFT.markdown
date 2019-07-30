@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tense Markets"
-date:   2019-07-22 12:00:00 -0500
+date:   2019-07-23 12:00:00 -0500
 categories: general
 draft: true
 ---
