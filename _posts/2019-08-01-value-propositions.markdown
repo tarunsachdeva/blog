@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Machines will Run the Financial World"
+title:  "Value Propositions"
 date:   2019-08-01 12:00:00 -0500
 categories: general
 draft: true
