@@ -3,7 +3,11 @@ layout: post
 title:  "Blackbox"
 date:   2019-07-29 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
-First angel investment in Blackbox
+I made an angel investment recently in [Blackbox](www.blackboxai.tech). They have built an incredible voice search engine and their demo  blew me away. 
+
+Blackbox is able to take thousands of hours of voice data and tokenize it, and then layered on a semantic search capability. In their demo, they used recorded podcasts, and I was able to ask it questions on the fly like "what do the best VCs look for in their investments?" - and it returned the exact snippets in the podcasts where that was answered. It was incredible and really demonstrates that we're so early in realizing AI's potential. 
+
+Looking forward to supporting their journey. 
