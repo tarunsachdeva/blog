@@ -3,34 +3,23 @@ layout: post
 title:  "Minimum Viable Products"
 date:   2019-07-30 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
-- Make the modules as interactive as possible
+I'll be giving a talk at Ryerson for a product management prep course, covering topics like Minimum Viable Products and Defining a Value Proposition. This post is an outline of the narrative of the first talk about MVPs. 
 
-LINKS
-https://blog.ycombinator.com/practical-design-mvp/
-https://blog.ycombinator.com/minimum-viable-product-process/
-https://medium.com/@desmondlim/how-to-build-an-mvp-a-five-step-guide-for-student-founders-d06af19fc7a5
-Do Things that Don't Scale: http://startupclass.samaltman.com/courses/lec08/
-https://www.innofied.com/updated-mobile-app-development-mvp-strategy-for-startup/
-https://uxdesign.cc/the-tyranny-of-the-minimum-viable-product-fb25e2e57e6e
-https://www.lean-labs.com/blog/proof-of-concept-vs.-minimum-viable-product-and-when-to-use-each
-https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp
+Building anything is an investment - of time and capital. Investments are probabilistic - which means there is risk involved and a chance that things will fail. Startups in particular have a high failure rate - and over 40% fail because they built something no one cared about - there was no market need. Humans hate risk - it's scary, but most importantly - failure sucks. 
 
-CONTENT
-- 42% startups fail because there was no market need. What does this statistic tell you?
-- “The minimum viable product is that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort.” by Eric Ries
-- Motor
+This is where MVPs come in. Minimum viable products are a framework for derisking investments. MVP’s came from the Lean Startup Movement created by Eric Ries as a framework for launching new startups. 
 
+> "The minimum viable product is that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort." — Eric Ries
 
-- What is an MVP? Lean startup overview
-- What is Minimum 
-- What is Viable
-- What is "Product"
-- Examples
-- Strategies for building an MVP
-- 
+An MVP is a way to test the water - a small investment that helps us justify the big investment. It's a test, not necessarily the whole thing. 
 
+Most importantly an MVP has to  be *viable* and actually solve the original problem in some way. And that product can be anything - a landing page with a promise, a service provided, or something else. 
 
-PROJECT
+MVP’s are about derisking, not eliminating all risk. Minimum viable products exist to help you test a hypothesis but you won’t know all the details until you actually launch. MVP’s can be applied to existing products too, not just new products. There are some examples of [successful MVP’s](https://speckyboy.com/successful-minimum-viable-products/). 
+
+Software is getting easier to create. Risk to start is getting lower and it's easier than ever to create a fully functional MVP especially with new tools and the rise of the No Code Movement. 
+
+Some of the most successful companies in technology started as MVPs - I'm looking forward to seeing what these students create!
