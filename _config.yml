@@ -10,6 +10,7 @@ theme: jekyll-theme-primer
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-sitemap
 
 github:
   private: false
