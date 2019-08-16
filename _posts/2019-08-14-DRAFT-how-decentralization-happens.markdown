@@ -8,6 +8,16 @@ draft: true
 
 This is the first in a series of posts about how decentralization is taking place in marketplaces across industries. 
 
+> Decentralization: The process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group.
+
+
+1. Decentralization is the process of losing trust in a central intermediary. In online marketplaces, this can happen on both the supply and demand side. 
+
+2. Suppliers can lose trust when intermediaries start to squeeze their margins, treat them unfairly and in general are not helping them grow their business. 
+
+3. Customer trust in intermediaries erodes when there's reduced utility (e.g poor selection, data abuse, ). This is happening in the financial, medical industry, and social media. 
+
+
 
 To customers, a marketplace is a convenient one stop shop, offering broad selection and fulfillment for everything from fine art to furniture. Suppliers - the creatives, merchants  and makers - have benefitted through access to a built-in customer base that can help them build audiences and drive up sales.
 
