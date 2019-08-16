@@ -6,9 +6,14 @@ categories: general
 draft: true
 ---
 
-The rise of online marketplaces has unlocked the economic potential of the internet. To customers, a marketplace is a convenient one stop shop, offering broad selection and fulfillment for everything from fine art to furniture. Creators and makers have benefitted through access to a built-in customer base that can help them build audiences and drive up sales.
+This is the first in a series of posts about how decentralization is taking place in marketplaces across industries. 
 
-That said, decentralization is taking place as intermediaries are losing trust across many industries.
+
+To customers, a marketplace is a convenient one stop shop, offering broad selection and fulfillment for everything from fine art to furniture. Suppliers - the creatives, merchants  and makers - have benefitted through access to a built-in customer base that can help them build audiences and drive up sales.
+
+
+
+is taking place as intermediaries are losing trust across many industries.
 
 Suppliers of goods and services are losing trust that these intermediaries have their best interests in mind. Where they were once a channel for healthy income (and in many cases their only income), their margins are being squeezed and they are getting consistently mistreated - all in the name of increasing 'marketplace value'. We can expect suppliers across industries flocking to companies enabling them to operate more independently. Shopify is the obvious and leading example for this in commerce, but this is happening [in other industries](https://dumpling.us/). Mistreating makers has effects on the other side of the marketplace. 
 
