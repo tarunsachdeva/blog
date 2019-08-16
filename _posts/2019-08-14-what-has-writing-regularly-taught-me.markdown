@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Writing Everyday Has Taught Me"
+title:  "What Writing Regularly Has Taught Me"
 date:   2019-08-14 12:00:00 -0500
 categories: writing
 draft: false
