@@ -6,20 +6,50 @@ categories: general
 draft: true
 ---
 
-This is the first in a series of posts about how decentralization is taking place in marketplaces across industries. 
+This is the first in a series of posts to detail a thesis of how decentralization is taking place. I'm focusing on online marketplaces and service aggregators across diffirent industries. First, a definition:
 
-> Decentralization: The process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group.
+> **Decentralization:** The process by which the activities of an organization, particularly those regarding planning and decision making, are _distributed or delegated away from a central, authoritative location or group_.
+
+For marketplaces, decentralization is the process of losing trust in that central intermediary. This can happen on both the supply and demand side. In this post, I'll focus on the former.
+
+Here's how most marketplaces start:
+
+SUPPLIERS >>> MARKETPLACE >>> CUSTOMERS
+
+HOSTS >>> AIRBNB >>> TRAVELLERS
+DRIVERS >>> UBER >>> RIDERS
+GROCERIES >>> INSTACART >>> SHOPPERS
+
+* Hosts benefit on Airbnb from a new income stream (potentially a new career altogether), and travellers have a convenient way to have an authentic experience.
+* Drivers benefit on Uber from a new income stream (potentially a new career altogether), and riders have a more convenient way to get from A to B.
+* You can be a grocery deliverer on Instacart and make a new income stream (potentially a new career altogether), and customers have a new way to get groceries (in a way that wasn't possible before)  
+
+Suppliers - the creatives, merchants  and makers - have benefitted through access to a built-in customer base that can help them build audiences and drive up sales. To customers, a marketplace is a convenient one stop shop, offering broad selection and fulfillment for everything from fine art to furniture. 
+
+
+Suppliers lose trust when intermediaries start to squeeze their margins, treat them unfairly and in general are not helping them grow their business. This happens in the name of a customer 
+
+Customer trust in intermediaries erodes when there's reduced utility (e.g poor selection, data abuse, ). This is happening in the financial, medical industry, and social media.
+
+Version 1 of marketplaces is about connecting suppliers to potential customers, and providing customers with a simple discovery and fulfillment/consumption experience. Version 2 is about opening up entirely new opportunities altogether, and enabling them to operate as an independent.
+
+
+
+
+
+
+
 
 
 1. Decentralization is the process of losing trust in a central intermediary. In online marketplaces, this can happen on both the supply and demand side. 
 
-2. Suppliers can lose trust when intermediaries start to squeeze their margins, treat them unfairly and in general are not helping them grow their business. 
+2. Suppliers can lose trust when intermediaries start to squeeze their margins, treat them unfairly and in general are not helping them grow their business.
 
 3. Customer trust in intermediaries erodes when there's reduced utility (e.g poor selection, data abuse, ). This is happening in the financial, medical industry, and social media. 
 
 
 
-To customers, a marketplace is a convenient one stop shop, offering broad selection and fulfillment for everything from fine art to furniture. Suppliers - the creatives, merchants  and makers - have benefitted through access to a built-in customer base that can help them build audiences and drive up sales.
+
 
 
 
