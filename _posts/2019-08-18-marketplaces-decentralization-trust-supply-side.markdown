@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Marketplaces, Decentralization and Losing Trust"
+title:  "Marketplaces, Decentralization and Losing Trust (Part 1)"
 date:   2019-08-18 12:00:00 -0500
 categories: technology
 draft: false
