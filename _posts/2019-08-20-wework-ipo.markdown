@@ -14,4 +14,4 @@ Ben Thompson from Stratechery makes the bull case for the WeWork IPO, and compar
 > Growing companies do not need to spend time on extensive build-outs months or years ahead of future growth, and instead pay for more space as they need it.
 > Established companies no longer need to have a real estate competency all over the world, and can in fact expand to new territories with far less risk than previously required.
 
-Really interesting take and could very well become true, but still a massive leap of faith.
+Really interesting take and could very well become true, but still a massive leap of faith. WeWork's financial and operational red flags cannot be ignored. As Ben himself wrote, [leadership matters](https://stratechery.com/2019/why-wework-isnt-aws-and-the-ceo-problem-cloudflares-s-1-contrasting-s-1s/).
