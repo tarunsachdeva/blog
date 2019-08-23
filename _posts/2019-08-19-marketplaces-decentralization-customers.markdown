@@ -14,7 +14,7 @@ Additionally, supplier mistreatment creates a side effect of lost trust with cus
 
 The opportunity here is two sided. One is to provide customers with the same level of utility  when purchasing directly from multiple suppliers.  For example, discovery or managing your fulfillment  experience (e.g shipping tracking). If the friction or cost of switching is too high customers will likely stay with the central marketplace. 
 
-There is also opportunity in offering services that the central marketplace probably wouldn't provide because it's against their ethos / business model. For example, offering easy data portability is not in Facebooks interest. This is difficult because most marketplaces operate as closed platforms.
+There is also opportunity in offering services that the central marketplace probably wouldn't provide because it's against their ethos or values, or goes against their core business model. For example, offering easy data portability is not in Facebooks interest. DuckDuckGo is a good example here but not "technically" a marketplace. Lyft is another one, in that their ethos is much more friendly and supportive to their drivers at a time when people are losing trust in Uber. 
 
 Customer trust is tricky. Gaining it takes time. Losing it starts slowly and then fast. It pays to be proactive about some issues. Centralized Marketplaces carry an additional burden that they have to manage both sides. Decentralized marketplaces become stronger as bad suppliers fail, and overall customer experience goes up. This makes them inherently antifragile. 
 
