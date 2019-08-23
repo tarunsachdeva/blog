@@ -17,3 +17,5 @@ The opportunity here is two sided. One is to provide customers with the same lev
 There is also opportunity in offering services that the central marketplace probably wouldn't provide because it's against their ethos / business model. For example, offering easy data portability is not in Facebooks interest. This is difficult because most marketplaces operate as closed platforms.
 
 Customer trust is tricky. Gaining it takes time. Losing it starts slowly and then fast. It pays to be proactive about some issues. Centralized Marketplaces carry an additional burden that they have to manage both sides. Decentralized marketplaces become stronger as bad suppliers fail, and overall customer experience goes up. This makes them inherently antifragile. 
+
+(This is an evolving set of thoughts and will likely be updated over time). 
