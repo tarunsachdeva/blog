@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Purpose of a Corporation"
-date:   2019-08-20 12:00:00 -0500
+date:   2019-08-21 12:00:00 -0500
 categories: business
 draft: false
 ---

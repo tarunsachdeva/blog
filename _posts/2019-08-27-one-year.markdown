@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "One Year Anniversary"
+date:   2019-08-27 12:00:00 -0500
+categories: business
+draft: false
+---
+
+Today, one year ago, I started a [writing habit]().
+
+Some of my favorite posts:
+
