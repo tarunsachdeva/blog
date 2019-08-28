@@ -8,7 +8,8 @@ draft: true
 
 Today, one year ago, I [started a habit]({{ site.baseurl }}{% post_url 2018-08-27-starting-a-new-habit %}) of writing [almost] everyday. This is post number 345. 
 
-What I've learned about myself.
-What surprised me.
-Some of my favorite posts.
-Writing on a multi-decade timeframe.
+I've learned a lot. About the topics I've explored, but mostly about myself. What has surprised me is how useful this artifact has become. "I'm going to write about this" is an amazing way to continue conversation.
+
+Some of my favorite posts have been about leadership, societal trends, mental models, productivity, and investing. 
+
+I love writing here. It's slowly becoming a stronger part of my identity, and I intend to continue for a while. 
