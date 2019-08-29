@@ -3,7 +3,7 @@ layout: post
 title:  "One Year Anniversary"
 date:   2019-08-27 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
 Today, one year ago, I [started a habit]({{ site.baseurl }}{% post_url 2018-08-27-starting-a-new-habit %}) of writing [almost] everyday. This is post number 345. 
