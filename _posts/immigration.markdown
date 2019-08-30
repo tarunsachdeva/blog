@@ -10,7 +10,7 @@ There's been some uproar online about the People's Party billboards that popped 
 
 My experience is the immigrant experience, but probably not the typical one. I've gone through so many visas and statuses I've lost count.
 
-I came to Canada in 1997 on a diplomatic visa, and started school at the University of Waterloo. I transferred to a student visa, and also did a number of co-op terms in the United States (on a J1 training visa) at Amazon.com in Seattle. I had all intentions of moving to the US. But, the visa for my last co-op term wasn't granted because the Embassy deemed I had spent "too many terms" in the US, and needed to go back to my country of citizenship (India) to "apply my training" for atleast two years. 
+I came to Canada in 1997 on a diplomatic visa, and started school at the University of Waterloo. I transferred to a student visa, and also did a number of co-op terms in the United States (on a J1 training visa) at Amazon.com in Seattle. I had all intentions of moving to the US. But, the visa for my last co-op term wasn't granted because the Embassy deemed I had spent "too many terms" in the US, and needed to go back to my country of citizenship (India) to "apply my training" for atleast two years.
 
 
 
