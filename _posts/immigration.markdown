@@ -10,9 +10,12 @@ There's been some uproar online about the People's Party billboards that popped 
 
 My experience is the immigrant experience, but probably not the typical one. I've gone through so many visas and statuses I've lost count.
 
-I came to Canada in 1997 on a diplomatic visa, and started school at the University of Waterloo. I transferred to a student visa, and also did a number of co-op terms in the United States (on a J1 training visa) at Amazon.com in Seattle. I had all intentions of moving to the US. But, the visa for my last co-op term wasn't granted because the Embassy deemed I had spent "too many terms" in the US, and needed to go back to my country of citizenship (India) to "apply my training" for atleast two years.
+I came to Canada in 1997 on a diplomatic visa, and started school at the University of Waterloo. I transferred to a student visa, and also did a number of co-op terms in the United States (on a J1 training visa) at Amazon.com in Seattle. I had all intentions of moving to the US. But, the visa for my last co-op term wasn't granted because the Embassy deemed I had spent "too many terms" in the US, and needed to go back to my country of citizenship (India) to apply my training for atleast two years. That wasn't an option, so home stayed in Toronto. 
+
+It was 2003, and tech wasn't really a big thing in Toronto. I called and emailed over 250 companies in two weeks looking for an internship starting immediately. Only one company answered - Tira Wireless - and that's where I worked for my last term and as my first full time job. At Tira, I moved from a work visa to an application for permanent residence. 
 
 
 
 link to thread
+
 immigration issues: education, finances, care
