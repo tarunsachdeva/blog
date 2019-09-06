@@ -6,9 +6,9 @@ categories: general
 draft: false
 ---
 
-Futureland is a supportive multidisciplinary community of people committed to creating something _everyday_ for a year. It's [a new way to learn anything](https://hfo.futureland.tv/), and recently launched [Futureland Support Packs](https://internetvin.com/p/12de458a-2c34-4ec3-907e-0728ee49613a/).
+Futureland is a supportive multidisciplinary community of people committed to creating something _everyday_ for a year. It's [a new way to learn anything](https://hfo.futureland.tv/), and recently launched [Futureland Support Packs](https://internetvin.com/2019/09/06/futureland-support-packs/).
 
-Support Packs are a way to fund the development of the project, which is currently a solo-effort by [InternetVin](http://www.twitter.com/internetvin). He says it best in the [blog post](https://internetvin.com/p/12de458a-2c34-4ec3-907e-0728ee49613a/).
+Support Packs are a way to fund the development of the project, which is currently a solo-effort by [InternetVin](http://www.twitter.com/internetvin). He says it best in the [blog post](https://internetvin.com/2019/09/06/futureland-support-packs/).
 
 > Futureland has demonstrated that it can be an effective tool for someone to learn new skills and stick to long term projects. I receive positive feedback on this project every day. But can Futureland continue to sustain itself? At this point, Futureland is entirely created and supported by me. 
 >
