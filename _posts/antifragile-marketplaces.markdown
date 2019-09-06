@@ -1,0 +1,1 @@
+https://medium.com/@john_62690/antifragile-building-a-company-that-goes-beyond-resilience-94f9bcc3abb3
