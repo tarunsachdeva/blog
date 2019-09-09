@@ -17,4 +17,3 @@ Both of the above approaches lead to a fintech turning into a neo-bank (a digita
 The third vector is geographic expansion. This approach requires an investment in regulatory compliance but is a relatively smaller investment than a bank establishing branches overseas. This is less common but there are some good examples of this - Wealthsimple in Canada operates in the US and UK.
 
 All three examples have a common thread - take a digital first, customer driven approach to financial services and compete on _simplicity_ to get the financial products. 
-
