@@ -6,7 +6,7 @@ categories: finance
 draft: false
 ---
 
-I recently read [this thread on Twitter] about the banking experience for an elderly gentleman in Canada. It's frankly horrific.
+I recently read [this thread on Twitter](https://twitter.com/bradmillscan/status/1171494009228812289) about the banking experience for an elderly gentleman in Canada. It's frankly horrific.
 
 The financial product landscape is monopolized by banks, which wouldn't be a bad thing if there was a greater range of  products available. There are so many segments of the population that have unique problems that are not being served by existing products. This is true especially in Canada which is a very multicultural society.
 
