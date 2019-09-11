@@ -8,6 +8,8 @@ draft: false
 
 Eighteen years ago today, the world changed when the Twin Towers collapsed. It's one of those _where were you when it happened_ moments. This is my story.
 
-I was in Seattle and it was the second day of an internship at Amazon.com. It was 2001 and I was working on the [tiny] mobile team. A friend generously lent me a space on their couch while I looked for an apartment, so I was sleeping on the couch when my friend woke me and turned on the TV.
+I was in Seattle and it was the second day of an internship at Amazon.com. It was 2001 and I was working on the [tiny] mobile team. A friend generously lent me a space on their couch while I looked for an apartment, so I was sleeping on the couch when my friend woke me and turned on the TV. As the events were still unfolding, many major cities were on high alert and were evacuating their skyscrapers. It was a real and unforgettable fear. It was what I felt during scud missile attacks during the first Gulf War in Saudi Arabia.
 
-A few days prior, I had returned from visiting my parents in Ethiopia, where my dad was stationed. 
+It was also a time that brought people together. Strangers became family and friends, collectively supporting each other through the grief.
+
+Humans are capable of infinite love and hate. In a strange way, both were on display that day.
