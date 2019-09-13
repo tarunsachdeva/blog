@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The Rule of 40"
+date:   2019-09-13 12:00:00 -0500
+categories: business
+draft: false
+---
+
+I was recently reminded of the Rule of 40 for growing SaaS businesses (coined by Brad Feld in [this blog post](https://feld.com/archives/2015/02/rule-40-healthy-saas-company.html)), which states that the sum of a business growth rate and it's profit margin should equal to approximately 40%.
+
+So, if a business is growing at 20% (assuming YoY), it should generate 20% of profit. If you are growing at 100% assuming YoY, you can stand to _lose_ 60% and still be considered "healthy". This is simply a benchmark but is a good one to resolve growth vs. profitability decisions. Growth rates can also be benchmarked based on the [T2D3 framework](https://techcrunch.com/2015/02/01/the-saas-travel-adventure/).
+
+Growth and profit seldom grow in unison because companies do things that move one forward and strain the other, so having a simple to understand rule to maintain balance is very useful.
