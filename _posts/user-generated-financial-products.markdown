@@ -1,0 +1,1 @@
+allow customers to create their own financial products / loans, and build demand for them before they actually get created by a financial institution. crazy?
