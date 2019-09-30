@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day Off"
+date:   2019-09-28 12:00:00 -0500
+categories: general
+draft: false
+---
+
+I considered taking a day off writing today. I'm not feeling great, so the last thing I want to do is sit in front of a computer and write because of self-created commitment. 
+
+When something is built into a system, it's absence is felt. I immediately regretted the decision and started this post shortly after. Mostly a placeholder for when the feeling returns - which it undoubtedly will.
