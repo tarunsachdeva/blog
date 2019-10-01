@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Guacamole"
+comments: true
 date:   2019-04-18 12:00:00 -0500
 categories: food
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Some Notes on The Passive Investing Bubble"
+comments: true
 date:   2019-09-20 12:00:00 -0500
 categories: investing
 draft: false

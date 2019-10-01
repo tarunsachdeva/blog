@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Some Notes on the Bill Gates Documentary"
+comments: true
 date:   2019-09-21 12:00:00 -0500
 categories: general
 draft: false
