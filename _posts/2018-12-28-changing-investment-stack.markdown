@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Changing My Investment Stack (1 of 2)"
+comments: true
 date:   2018-12-28 12:00:00 -0500
 categories: finance
 draft: false

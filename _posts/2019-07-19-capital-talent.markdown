@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Capital and Talent"
+comments: true
 date:   2019-07-19 12:00:00 -0500
 categories: general
 draft: false

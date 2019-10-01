@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Long Game"
+comments: true
 date:   2019-06-07 12:00:00 -0500
 categories: general 
 draft: false

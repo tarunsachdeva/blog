@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Better Digital Habits"
+comments: true
 date:   2018-10-16 12:00:00 -0500
 categories: productivity
 ---

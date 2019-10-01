@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Future of Work"
+comments: true
 date:   2018-10-12 12:00:00 -0500
 categories: technology
 draft: false

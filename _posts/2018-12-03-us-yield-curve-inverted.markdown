@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "US Yield Curve Flipped"
+comments: true
 date:   2018-12-03 12:00:00 -0500
 categories: Finance
 draft: false

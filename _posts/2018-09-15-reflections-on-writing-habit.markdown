@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Writing Habit Update"
+comments: true
 date:   2018-09-15 12:00:00 -0500
 categories: habits
 draft: false

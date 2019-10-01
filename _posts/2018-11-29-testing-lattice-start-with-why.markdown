@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Testing the Lattice: Start with Why"
+comments: true
 date:   2018-11-29 12:00:00 -0500
 categories: leadership
 draft: false

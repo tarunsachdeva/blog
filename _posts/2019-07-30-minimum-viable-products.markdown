@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Minimum Viable Products"
+comments: true
 date:   2019-07-30 12:00:00 -0500
 categories: general
 draft: false

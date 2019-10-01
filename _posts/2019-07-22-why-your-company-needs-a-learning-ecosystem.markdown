@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Your Organization Needs a Learning Ecosystem"
+comments: true
 date:   2019-07-22 12:00:00 -0500
 categories: general
 draft: false

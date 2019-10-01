@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A Conversation about Software and Empathy at Work"
+comments: true
 date:   2019-03-20 12:00:00 -0500
 categories: general
 draft: false

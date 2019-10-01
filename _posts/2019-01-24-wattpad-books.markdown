@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wattpad Books"
+comments: true
 date:   2019-01-24 12:00:00 -0500
 categories: technology
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Deflation"
+comments: true
 date:   2019-06-10 12:00:00 -0500
 categories: general
 draft: false

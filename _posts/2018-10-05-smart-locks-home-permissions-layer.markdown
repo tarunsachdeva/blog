@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Smart Locks and the Home Permissions Layer"
+comments: true
 date:   2018-10-05 12:00:00 -0500
 categories: technology
 draft: false

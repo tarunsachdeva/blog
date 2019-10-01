@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Contentment"
+comments: true
 date:   2018-10-02 12:00:00 -0500
 categories: productivity
 draft: false

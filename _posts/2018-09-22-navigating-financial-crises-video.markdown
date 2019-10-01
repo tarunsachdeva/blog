@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Navigating Financial Crises (Video)"
+comments: true
 date:   2018-09-22 12:00:00 -0500
 categories: finance
 draft: false

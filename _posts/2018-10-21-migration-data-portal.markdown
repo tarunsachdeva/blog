@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Global Migration Data Portal"
+comments: true
 date:   2018-10-21 12:00:00 -0500
 categories: immigration
 ---

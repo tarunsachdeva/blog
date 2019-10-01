@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "ML and Decomposibility"
+comments: true
 date:   2019-02-08 12:00:00 -0500
 categories: general
 draft: false

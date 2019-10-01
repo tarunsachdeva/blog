@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Software and empathy in the workplace (continued)"
+comments: true
 date:   2019-03-25 12:00:00 -0500
 categories: technology
 draft: false

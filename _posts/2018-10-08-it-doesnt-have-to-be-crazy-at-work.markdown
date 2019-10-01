@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Book Review: It Doesn't Have to Be Crazy at Work"
+comments: true
 date:   2018-10-08 12:00:00 -0500
 categories: books
 ---

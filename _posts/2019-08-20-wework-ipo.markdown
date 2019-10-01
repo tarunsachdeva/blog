@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The WeWork IPO"
+comments: true
 date:   2019-08-20 12:00:00 -0500
 categories: technology
 draft: false

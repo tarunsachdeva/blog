@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Changing Minds"
+comments: true
 date:   2018-09-09 12:00:00 -0500
 categories: general
 draft: false

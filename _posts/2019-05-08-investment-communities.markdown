@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Communities and Investment"
+comments: true
 date:   2019-05-08 12:00:00 -0500
 categories: finance
 draft: false

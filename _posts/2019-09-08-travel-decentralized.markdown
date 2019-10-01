@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Travel Decentralized"
+comments: true
 date:   2019-09-08 12:00:00 -0500
 categories: business
 draft: false

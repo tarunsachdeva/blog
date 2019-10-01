@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Diversity and Building Software"
+comments: true
 date:   2019-05-24 12:00:00 -0500
 categories: general 
 draft: false

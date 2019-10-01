@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Age of Surveillance Capitalism"
+comments: true
 date:   2019-01-25 12:00:00 -0500
 categories: technology
 draft: false

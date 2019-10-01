@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "When They See Us"
+comments: true
 date:   2019-06-24 12:00:00 -0500
 categories: general
 draft: false

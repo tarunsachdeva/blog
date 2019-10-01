@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Abstractions and Leadership"
+comments: true
 date:   2019-03-04 12:00:00 -0500
 categories: leadership
 draft: true

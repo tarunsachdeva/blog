@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Innovation Theater"
+comments: true
 date:   2018-11-11 12:00:00 -0500
 categories: technology
 draft: false

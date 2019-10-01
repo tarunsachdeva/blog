@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why I Write"
+comments: true
 date:   2018-10-25 12:00:00 -0500
 categories: general
 draft: false

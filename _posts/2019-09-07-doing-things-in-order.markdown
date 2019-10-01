@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Doing Things in Order"
+comments: true
 date:   2019-09-07 12:00:00 -0500
 categories: productivity
 draft: false

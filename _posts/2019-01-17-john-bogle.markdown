@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Jack Bogle"
+comments: true
 date:   2019-01-17 12:00:00 -0500
 categories: finance
 draft: false

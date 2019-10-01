@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Awesome Lists"
+comments: true
 date:   2019-01-28 12:00:00 -0500
 categories: technology
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Limiting Social Media"
+comments: true
 date:   2018-11-10 12:00:00 -0500
 categories: technology
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Starting a Writing Habit"
+comments: true
 date:   2018-08-27 12:00:00 -0500
 categories: general
 ---

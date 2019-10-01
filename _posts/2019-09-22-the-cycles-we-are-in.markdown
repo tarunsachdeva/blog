@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Cycles We're Stuck Inside"
+comments: true
 date:   2019-09-22 12:00:00 -0500
 categories: general
 draft: false

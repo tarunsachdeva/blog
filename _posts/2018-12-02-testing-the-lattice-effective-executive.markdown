@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Testing the Lattice: Effective Executive"
+comments: true
 date:   2018-12-02 12:00:00 -0500
 categories: leadership
 draft: false

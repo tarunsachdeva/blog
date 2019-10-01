@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "User Research Techniques"
+comments: true
 date:   2018-10-18 12:00:00 -0500
 categories: design
 ---

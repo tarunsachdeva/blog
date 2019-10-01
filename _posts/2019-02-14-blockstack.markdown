@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Some Notes on Blockstack"
+comments: true
 date:   2019-02-14 12:00:00 -0500
 categories: technology
 ---

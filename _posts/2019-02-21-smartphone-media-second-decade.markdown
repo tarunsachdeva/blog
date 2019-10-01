@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Media and Multidisciplinarity"
+comments: true
 date:   2019-02-21 12:00:00 -0500
 categories: media
 ---

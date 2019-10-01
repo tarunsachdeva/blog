@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Decision Making Frameworks"
+comments: true
 date:   2018-10-01 12:01:00 -0500
 categories: mentalmodels
 draft: false

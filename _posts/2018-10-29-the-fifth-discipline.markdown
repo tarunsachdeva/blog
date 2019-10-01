@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Testing The Lattice: The Fifth Discipline"
+comments: true
 date:   2018-10-29 12:00:00 -0500
 categories: general
 draft: false

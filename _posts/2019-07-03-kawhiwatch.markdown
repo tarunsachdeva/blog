@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kawhi Watch"
+comments: true
 date:   2019-07-03 12:00:00 -0500
 categories: general
 draft: false

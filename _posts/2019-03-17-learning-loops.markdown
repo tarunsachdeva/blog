@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Setting up Learning Loops"
+comments: true
 date:   2019-03-17 12:00:00 -0500
 categories: technology
 draft: false

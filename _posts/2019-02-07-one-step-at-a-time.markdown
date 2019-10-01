@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "One Step at a Time"
+comments: true
 date:   2019-02-07 12:00:00 -0500
 categories: general
 draft: false

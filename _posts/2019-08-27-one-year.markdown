@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "One Year Anniversary"
+comments: true
 date:   2019-08-27 12:00:00 -0500
 categories: general
 draft: false

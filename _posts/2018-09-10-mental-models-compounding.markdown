@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mental Model: Compound Interest"
+comments: true
 date:   2018-09-10 12:00:00 -0500
 categories: mentalmodels
 draft: false

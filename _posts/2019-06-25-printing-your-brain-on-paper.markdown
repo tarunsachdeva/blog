@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Printing Your Brain on Paper"
+comments: true
 date:   2019-06-25 12:00:00 -0500
 categories: general
 draft: false

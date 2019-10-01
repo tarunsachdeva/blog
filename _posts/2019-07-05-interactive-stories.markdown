@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Silence as Strategy"
+comments: true
 date:   2019-07-04 12:00:00 -0500
 categories: general
 draft: true

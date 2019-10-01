@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to Fight a Hydra"
+comments: true
 date:   2018-10-30 12:00:00 -0500
 categories: general
 draft: false

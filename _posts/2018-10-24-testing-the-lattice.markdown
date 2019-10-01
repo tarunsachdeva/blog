@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Testing the Leadership Lattice"
+comments: true
 date:   2018-10-24 12:00:00 -0500
 categories: leadership
 draft: false

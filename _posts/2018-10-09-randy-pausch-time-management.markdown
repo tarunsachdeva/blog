@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Lectures on Time: Randy Pausch and Jeremie Saunders"
+comments: true
 date:   2018-10-09 12:01:00 -0500
 categories: productivity
 draft: false

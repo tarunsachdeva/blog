@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Rush and The Cloud"
+comments: true
 date:   2018-09-13 12:00:00 -0500
 categories: general
 draft: false

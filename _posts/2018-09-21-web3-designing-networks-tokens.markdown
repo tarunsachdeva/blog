@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Web 3: Designing Networks with Tokens"
+comments: true
 date:   2018-09-21 12:00:00 -0500
 categories: technology
 draft: false

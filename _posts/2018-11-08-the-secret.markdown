@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Secret"
+comments: true
 date:   2018-11-08 12:00:00 -0500
 categories: leadership
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Notes for an Essay on Software and Society"
+comments: true
 date:   2019-09-27 12:00:00 -0500
 categories: general
 draft: false

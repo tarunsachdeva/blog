@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Best of Farnam Street in 2018"
+comments: true
 date:   2019-01-03 12:00:00 -0500
 categories: general
 draft: false

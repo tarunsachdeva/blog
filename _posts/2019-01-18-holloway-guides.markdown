@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Holloway Guides"
+comments: true
 date:   2019-01-18 12:00:00 -0500
 categories: general
 draft: false

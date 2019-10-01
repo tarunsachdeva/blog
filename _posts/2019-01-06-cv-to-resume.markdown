@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Turning a CV into a Resume"
+comments: true
 date:   2019-01-06 12:00:00 -0500
 categories: general
 draft: false

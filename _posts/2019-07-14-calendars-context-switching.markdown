@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "On Context Switching and Calendars"
+comments: true
 date:   2019-07-14 12:00:00 -0500
 categories: general
 draft: false

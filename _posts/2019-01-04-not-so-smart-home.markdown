@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Not-So-Smart-Home"
+comments: true
 date:   2019-01-04 12:00:00 -0500
 categories: general
 draft: false

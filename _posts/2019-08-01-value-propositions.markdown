@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Value Propositions"
+comments: true
 date:   2019-08-01 12:00:00 -0500
 categories: general
 draft: false

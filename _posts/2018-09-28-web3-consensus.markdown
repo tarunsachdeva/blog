@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Web 3: Consensus"
+comments: true
 date:   2018-09-28 12:00:00 -0500
 categories: code
 draft: false

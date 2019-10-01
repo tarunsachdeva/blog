@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Personal User Manuals"
+comments: true
 date:   2019-03-26 12:00:00 -0500
 categories: General
 draft: false

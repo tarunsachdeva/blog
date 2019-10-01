@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Leadership Latticework: The Individual Domain"
+comments: true
 date:   2018-09-12 12:00:00 -0500
 categories: leadership
 draft: false

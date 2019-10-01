@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Broken Credit Loop (by Anish Acharya)"
+comments: true
 date:   2019-03-02 12:00:00 -0500
 categories: technology
 ---

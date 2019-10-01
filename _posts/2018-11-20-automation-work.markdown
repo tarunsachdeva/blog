@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Automation + Work, Human + Machine"
+comments: true
 date:   2018-11-20 12:00:00 -0500
 categories: technology 
 draft: false

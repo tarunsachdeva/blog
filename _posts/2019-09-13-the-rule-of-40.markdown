@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Rule of 40"
+comments: true
 date:   2019-09-13 12:00:00 -0500
 categories: business
 draft: false

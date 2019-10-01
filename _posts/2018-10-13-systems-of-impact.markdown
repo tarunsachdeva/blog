@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Startups as Systems of Impact"
+comments: true
 date:   2018-10-13 12:00:00 -0500
 categories: leadership
 ---

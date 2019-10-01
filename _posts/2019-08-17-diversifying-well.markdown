@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "On Diversifying Well"
+comments: true
 date:   2019-08-17 12:00:00 -0500
 categories: investing
 draft: false

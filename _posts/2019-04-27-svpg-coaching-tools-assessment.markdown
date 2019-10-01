@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Assessing Product Managers (by SVPG)"
+comments: true
 date:   2019-04-27 12:00:00 -0500
 categories: technology
 draft: false

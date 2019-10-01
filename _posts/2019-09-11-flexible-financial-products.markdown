@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Our Incomplete Financial Products"
+comments: true
 date:   2019-09-11 12:00:00 -0500
 categories: finance
 draft: false

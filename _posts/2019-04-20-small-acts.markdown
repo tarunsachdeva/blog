@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Small Acts"
+comments: true
 date:   2019-04-20 12:00:00 -0500
 categories: 
 draft: false

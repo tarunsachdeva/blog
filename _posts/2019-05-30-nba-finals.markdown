@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Game 1"
+comments: true
 date:   2019-05-30 12:00:00 -0500
 categories: General 
 draft: false

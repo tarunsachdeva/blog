@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A Tale of Two Cities"
+comments: true
 date:   2019-02-15 12:00:00 -0500
 categories: technology
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Game of Thrones"
+comments: true
 date:   2019-05-19 12:00:00 -0500
 categories: General
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Setting Up for Next Time"
+comments: true
 date:   2019-01-07 12:00:00 -0500
 categories: productivity
 draft: false

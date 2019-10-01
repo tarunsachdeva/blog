@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Analytics Pre-Product/Market Fit"
+comments: true
 date:   2019-03-22 12:00:00 -0500
 categories: technology
 draft: false

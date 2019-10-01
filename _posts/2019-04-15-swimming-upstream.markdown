@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Swimming Upstream"
+comments: true
 date:   2019-04-15 12:00:00 -0500
 categories: general
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Score Takes Care of Itself"
+comments: true
 date:   2019-06-16 12:00:00 -0500
 categories: leadership
 draft: false

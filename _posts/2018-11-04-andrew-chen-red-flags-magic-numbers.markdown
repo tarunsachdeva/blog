@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Andrew Chen: Investor Metrics Deck"
+comments: true
 date:   2018-11-04 12:00:00 -0500
 categories: technology
 draft: false

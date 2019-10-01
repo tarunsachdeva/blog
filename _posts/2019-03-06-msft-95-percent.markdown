@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Microsoft Developer Revenue Share"
+comments: true
 date:   2019-03-06 12:00:00 -0500
 categories: technology
 ---

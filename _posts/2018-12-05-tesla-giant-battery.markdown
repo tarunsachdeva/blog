@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tesla Giant Battery"
+comments: true
 date:   2018-12-05 12:00:00 -0500
 categories: general
 draft: false

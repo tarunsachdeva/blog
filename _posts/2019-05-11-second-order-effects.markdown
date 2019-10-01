@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Negative Second Order Effects"
+comments: true
 date:   2019-05-11 12:00:00 -0500
 categories: technology
 draft: false

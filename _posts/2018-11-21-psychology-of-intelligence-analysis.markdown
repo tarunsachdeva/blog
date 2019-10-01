@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Book: Psychology of Intelligence Analysis"
+comments: true
 date:   2018-11-21 12:00:00 -0500
 categories: mentalmodels 
 draft: false

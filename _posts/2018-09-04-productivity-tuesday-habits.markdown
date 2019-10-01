@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Managing Habits"
+comments: true
 date:   2018-09-04 12:00:00 -0500
 categories: productivity
 ---

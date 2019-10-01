@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Testing the Lattice: Trillion Dollar Coach"
+comments: true
 date:   2019-04-24 12:00:00 -0500
 categories: leadership
 draft: false

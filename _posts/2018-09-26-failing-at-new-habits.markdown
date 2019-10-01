@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Failing at New Habits"
+comments: true
 date:   2018-09-26 12:00:00 -0500
 categories: productivity
 draft: false

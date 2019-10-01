@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Some Notes on Culture and Decision Making"
+comments: true
 date:   2019-09-10 12:00:00 -0500
 categories: business
 draft: false

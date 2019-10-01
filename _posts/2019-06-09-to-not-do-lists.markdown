@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Not-To-Do List"
+comments: true
 date:   2019-06-09 12:00:00 -0500
 categories: productivity
 draft: false

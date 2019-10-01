@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Web 3.0"
+comments: true
 date:   2018-09-07 12:00:00 -0500
 categories: technology
 draft: false

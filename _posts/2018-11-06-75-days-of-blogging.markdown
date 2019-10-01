@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "75 Days of Blogging"
+comments: true
 date:   2018-11-06 12:00:00 -0500
 categories: general
 draft: false

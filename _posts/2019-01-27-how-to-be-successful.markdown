@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Be Successful (with some notes)"
+comments: true
 date:   2019-01-27 12:00:00 -0500
 categories: general
 draft: false

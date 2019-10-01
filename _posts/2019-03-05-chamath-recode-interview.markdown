@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Chamath Interview on Recode"
+comments: true
 date:   2019-03-05 12:00:00 -0500
 categories: technology
 ---

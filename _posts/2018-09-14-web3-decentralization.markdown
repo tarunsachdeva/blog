@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Web 3: Decentralization"
+comments: true
 date:   2018-09-14 12:00:00 -0500
 categories: technology
 draft: false

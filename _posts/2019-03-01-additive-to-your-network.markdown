@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Additive Networking"
+comments: true
 date:   2019-03-01 12:00:00 -0500
 categories: personal
 ---

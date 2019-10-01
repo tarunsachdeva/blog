@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "World's Money and Markets"
+comments: true
 date:   2019-02-06 12:00:00 -0500
 categories: finance
 draft: false

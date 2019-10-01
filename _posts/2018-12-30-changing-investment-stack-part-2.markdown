@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Changing My Investment Stack (Part 2 of 2)"
+comments: true
 date:   2018-12-30 12:00:00 -0500
 categories: general
 draft: false

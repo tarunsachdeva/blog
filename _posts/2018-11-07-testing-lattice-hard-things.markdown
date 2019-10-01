@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Testing the Lattice: The Hard Thing about Hard Things"
+comments: true
 date:   2018-11-07 12:00:00 -0500
 categories: leadership
 draft: false

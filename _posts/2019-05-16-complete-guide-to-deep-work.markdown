@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Complete Guide to Deep Work"
+comments: true
 date:   2019-05-16 12:00:00 -0500
 categories: productivity
 draft: false

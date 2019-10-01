@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mental Models"
+comments: true
 date:   2018-09-03 12:00:00 -0500
 categories: mentalmodels
 ---

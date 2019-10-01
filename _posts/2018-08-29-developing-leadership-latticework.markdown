@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Developing a Leadership Latticework"
+comments: true
 date:   2018-08-29 12:00:00 -0500
 categories: leadership
 ---

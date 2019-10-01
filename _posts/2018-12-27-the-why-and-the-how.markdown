@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Why and the How"
+comments: true
 date:   2018-12-27 12:00:00 -0500
 categories: technology
 draft: false

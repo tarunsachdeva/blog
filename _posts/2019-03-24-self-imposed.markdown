@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Goals and Time Horizons"
+comments: true
 date:   2019-03-24 12:00:00 -0500
 categories: General
 draft: false

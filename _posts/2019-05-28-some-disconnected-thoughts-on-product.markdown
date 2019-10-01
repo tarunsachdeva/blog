@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Some Disparate Thoughts on Product Management"
+comments: true
 date:   2019-05-27 12:00:00 -0500
 categories: product
 draft: false

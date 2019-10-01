@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Leadership Lattice: Domain of Self Management"
+comments: true
 date:   2018-10-10 12:00:00 -0500
 categories: leadership
 draft: false

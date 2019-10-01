@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Baseline with Self Curiosity"
+comments: true
 date:   2018-09-02 12:00:00 -0500
 categories: productivity
 ---

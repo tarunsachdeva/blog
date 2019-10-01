@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Some Productivity Learnings"
+comments: true
 date:   2019-09-05 12:00:00 -0499.8
 categories: general
 draft: false

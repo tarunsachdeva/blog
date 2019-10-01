@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Some Thoughts on Inversion and Evergreen Strategy"
+comments: true
 date:   2018-12-13 12:00:00 -0500
 categories: technology
 draft: false

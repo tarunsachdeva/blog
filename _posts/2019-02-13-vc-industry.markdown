@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Technology Costs and Seed Investing"
+comments: true
 date:   2019-02-13 12:00:00 -0500
 categories: technology 
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "On Systems, Hallucination & Vision, and Making vs. Selling Art"
+comments: true
 date:   2019-06-22 12:00:00 -0500
 categories: general
 draft: false

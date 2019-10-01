@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "New Crafts & Interdisciplinarity"
+comments: true
 date:   2018-09-08 12:00:00 -0500
 categories: general
 draft: false

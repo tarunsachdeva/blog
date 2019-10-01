@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Buffet FAQ"
+comments: true
 date:   2019-03-03 12:00:00 -0500
 categories: investing
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Thought Experiments"
+comments: true
 date:   2019-04-14 12:00:00 -0500
 categories: technology
 draft: false

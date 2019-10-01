@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Testing the Lattice: The Five Dysfunctions of a Team"
+comments: true
 date:   2018-11-28 12:00:00 -0500
 categories: leadership
 draft: false

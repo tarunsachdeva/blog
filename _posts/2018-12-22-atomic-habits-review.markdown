@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Atomic Habits: Review & Notes"
+comments: true
 date:   2018-12-22 12:00:00 -0500
 categories: productivity
 draft: false

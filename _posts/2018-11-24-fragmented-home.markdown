@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Fragmented Home"
+comments: true
 date:   2018-11-24 12:00:00 -0500
 categories: technology
 draft: false

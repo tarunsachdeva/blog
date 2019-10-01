@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Culture Eats Strategy for Breakfast"
+comments: true
 date:   2018-11-12 12:00:00 -0500
 categories: leadership 
 draft: false

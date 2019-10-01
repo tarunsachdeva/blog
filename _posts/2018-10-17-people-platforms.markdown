@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "People Platforms"
+comments: true
 date:   2018-10-17 12:00:00 -0500
 categories: leadership
 ---

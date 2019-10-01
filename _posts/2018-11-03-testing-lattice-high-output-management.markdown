@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Testing the Leadership Lattice: High Output Management"
+comments: true
 date:   2018-11-03 12:00:00 -0500
 categories: leadership
 draft: false

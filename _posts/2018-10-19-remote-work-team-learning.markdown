@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How Remote Work Creates Team Learning"
+comments: true
 date:   2018-10-19 12:00:00 -0500
 categories: management
 ---

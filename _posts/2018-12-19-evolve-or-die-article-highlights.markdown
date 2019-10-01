@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Evolve or Die (Forbes Article Highlights)"
+comments: true
 date:   2018-12-19 12:00:00 -0500
 categories: finance
 draft: false

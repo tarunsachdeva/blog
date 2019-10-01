@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ending Theme Days"
+comments: true
 date:   2018-11-17 12:00:00 -0500
 categories: general 
 draft: false

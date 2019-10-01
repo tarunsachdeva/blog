@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Losing Focus"
+comments: true
 date:   2019-09-12 12:00:00 -0500
 categories: productivity
 draft: false

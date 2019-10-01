@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Empowering Marketplace Suppliers"
+comments: true
 date:   2019-07-16 12:00:00 -0500
 categories: general
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "3 Months"
+comments: true
 date:   2018-09-24 12:00:00 -0500
 categories: technology
 draft: false

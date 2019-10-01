@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Management Styles and The Leadership Lattice"
+comments: true
 date:   2019-04-12 12:00:00 -0500
 categories: leadership
 draft: false

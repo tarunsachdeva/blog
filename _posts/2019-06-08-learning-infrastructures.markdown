@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Learning Infrastructures at a Startup"
+comments: true
 date:   2019-06-08 12:00:00 -0500
 categories: general 
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Software is Modelling the World"
+comments: true
 date:   2019-07-07 12:00:00 -0500
 categories: general
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Product Discovery"
+comments: true
 date:   2019-03-11 12:00:00 -0500
 categories: general
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Theme Days"
+comments: true
 date:   2018-09-01 12:00:00 -0500
 categories: general
 ---

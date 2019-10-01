@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Paradigm Shifts"
+comments: true
 date:   2019-07-17 12:00:00 -0500
 categories: general
 draft: false

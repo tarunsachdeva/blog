@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Calendar as a Network and Platform"
+comments: true
 date:   2018-09-30 12:00:00 -0500
 categories: technology
 ---

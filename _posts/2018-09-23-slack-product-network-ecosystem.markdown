@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Slack Product, Network and Ecosystem"
+comments: true
 date:   2018-09-23 12:00:00 -0500
 categories: technology
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Where User Research Lives"
+comments: true
 date:   2019-05-10 12:00:00 -0500
 categories: product
 draft: false

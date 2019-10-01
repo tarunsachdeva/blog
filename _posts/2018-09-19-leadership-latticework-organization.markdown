@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Leadership Latticework: The Organization Domain"
+comments: true
 date:   2018-09-19 12:00:00 -0500
 categories: leadership
 draft: false

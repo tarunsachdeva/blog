@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Keep Your Product Proportional to your Team"
+comments: true
 date:   2018-10-14 12:00:00 -0500
 categories: product
 ---

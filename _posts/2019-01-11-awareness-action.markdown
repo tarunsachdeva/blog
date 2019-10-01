@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Awareness and Action"
+comments: true
 date:   2019-01-11 12:00:00 -0500
 categories: leadership
 draft: false

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Social Capital Annual Letter"
+comments: true
 date:   2018-10-31 12:00:00 -0500
 categories: technology 
 draft: false

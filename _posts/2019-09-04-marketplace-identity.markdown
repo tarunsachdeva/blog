@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Some Thoughts on Marketplace Identity"
+comments: true
 date:   2019-09-04 12:00:00 -0499.8
 categories: general
 draft: false

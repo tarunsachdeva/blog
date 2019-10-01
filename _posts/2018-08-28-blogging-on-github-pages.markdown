@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Blogging on Github Pages"
+comments: true
 date:   2018-08-28 12:00:00 -0500
 categories: code
 ---

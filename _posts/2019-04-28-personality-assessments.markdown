@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Problem with Personality Assessments"
+comments: true
 date:   2019-04-28 12:00:00 -0500
 categories: leadership
 draft: false

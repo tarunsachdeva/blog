@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Internet History Just Begun"
+comments: true
 date:   2018-11-05 12:00:00 -0500
 categories: technology
 draft: false

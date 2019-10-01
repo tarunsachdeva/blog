@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Fifth Discipline"
+comments: true
 date:   2019-06-17 12:00:00 -0500
 categories: leadership
 draft: false

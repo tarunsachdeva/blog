@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Family Time / Looking Ahead"
+comments: true
 date:   2018-12-25 12:00:00 -0500
 categories: general
 draft: false

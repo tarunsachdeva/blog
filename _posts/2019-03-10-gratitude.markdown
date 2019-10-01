@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "An MVP Gratitude Journal"
+comments: true
 date:   2019-03-10 12:00:00 -0500
 categories: general
 draft: false

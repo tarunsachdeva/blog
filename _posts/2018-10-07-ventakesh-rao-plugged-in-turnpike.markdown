@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Plugged-In Turnpike"
+comments: true
 date:   2018-10-07 12:00:00 -0500
 categories: general
 ---
