@@ -2,7 +2,7 @@
 layout: post
 title:  "Experimenting with Comments"
 comments: true
-date:   2019-09-30 12:00:00 -0500
+date:   2019-10-01 12:00:00 -0500
 categories: general
 draft: false
 ---

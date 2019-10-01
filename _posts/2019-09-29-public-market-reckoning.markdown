@@ -2,7 +2,7 @@
 layout: post
 title:  "The Public Market Reckoning"
 comments: true
-date:   2019-09-28 12:00:00 -0500
+date:   2019-09-29 12:00:00 -0500
 comments: true
 categories: general
 draft: false
