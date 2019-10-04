@@ -9,9 +9,9 @@ draft: false
 
 There is a time to trust the system and there's a time to own your destiny.
 
-The system gives us comfort and community. Everyone needs some kind of system they trust. We have built incredible political, religous, financial, medical and social systems in the name of progress. And along many dimensions, there _has_ been incredible progress. Our systems have given us convenience but removed our character, they have given us individual comfort but made us collectively weaker.
+The system gives us comfort and a _sense_ of community. Everyone needs some kind of system they trust. We have built incredible political, religous, financial, medical and social systems in the name of progress. And along many dimensions, there _has_ been incredible progress. These systems all work together in a complex ways and often seem random when observed on short time scales. Taking a step back we see that most systems follow some kind of cyclical pattern. 
 
-These systems all work together in a complex ways and often seem random when observed on short time scales. Taking a step back we see that most systems follow some kind of cyclical pattern.  
+But not all is well. Our systems have given us convenience, but in some places have removed our individualism. Ironically, they have given us many individual comforts, but made us collectively weaker in some places.
 
 Right now, from where I stand, I'm observing a collective questioning of _all of our systems_. While the action is not abnormal, the scale and scope of it is. People are losing trust in _everything_, even though it's not immediately obvious. And as a result, we're seeing new systems being formed, and many of them are focused on helping people _own their destiny_.
 
