@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "On Sleep"
+comments: true
+date:   2019-10-08 12:00:00 -0500
+categories: general
+draft: false
+---
+
+I didn't get much sleep yesterday. At this point in my life, not getting a full night's rest shows up clearly the next day. It was never a badge of honor, but now it's a clear hindrance. 
+
+I was reminded of [this HBR article](https://hbr.org/2019/10/entrepreneurs-who-sleep-more-are-better-at-spotting-good-ideas) about how entrepreneurs who sleep more are better at spotting good ideas:
+
+> Business ideas are plentiful, and pursuing the wrong idea early-on can hamstring an entrepreneur’s efforts to launch a venture. An early misstep might even be the difference between becoming a successful entrepreneur and failure. Far from being a sign of weaknesses, sleep can serve as an early-stage aid to effectively evaluate the myriad business opportunities to pursue. Sleeping at the right times, such as the night before ideation and evaluation tasks, will improve outcomes.
+
+Related, [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316) is a classic that's been sitting on my Kindle shelf for too long.
