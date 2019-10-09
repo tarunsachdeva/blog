@@ -17,6 +17,6 @@ Then there are those that argue that we _must_ read the room. We cannot act with
 
 This isn't a new problem, but the rise of influencer culture has magnified it and made it a mainstream issue. On one side, the most powerful person in the world is openly acting like an asshole on Twitter. On another side, people are feeling censored and attacked for their thoughts, and choosing to stay silent.
 
-The problem I see is intelligent people ignoring nuance. Over applying simplistic mental models. Some people acting childishly, not understanding the leverage of their mediums and expressions. And on another side, people acting as if one human can truly understand the full second order effects of their action, holding infinite possibility in their head.
+The problem I see is intelligent people ignoring nuance, stuck in simplistic and uninformed mental models. People acting childishly, not understanding the leverage of their mediums and expressions.
 
 Maybe we'll get to a place where we'll be able to have decent social discourse and be able to grow together, but recognizing there are some just beginning that process. Perhaps that will just take time.
