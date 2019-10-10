@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "On 'The China Cultural Clash'"
+comments: true
+date:   2019-10-10 12:00:00 -0500
+categories: general
+draft: false
+---
+
+Ben Thompson writes about tech and strategy, but recently wrote about [the NBA's rift with China](https://stratechery.com/2019/the-china-cultural-clash/). I really enjoyed reading this one. These are some of my favorite captions:
+
+On the fact that **this isn't new**
+> The truth is that the U.S. China relationship has been extremely one-sided for a very long time now: China buys the hardware it needs, and keeps all of the software opportunities for itself — and, of course, pursues software opportunities abroad.
+> 
+> This understated the case: not only were Chinese companies allowed into the U.S. while U.S. companies remained locked out of China, Chinese attacks on U.S. tech companies were allowed by China’s censors, and in fact even augmented by the Great Firewall. 
+
+This point is interesting. We worry about Chinese censorship of US content _in China_, but we need to think of the reverse - US residents being censored within their own countries by a foreign government. This is especially true with the rise of tech startups with Chinese ownership (like TikTok) that have become popular globally. 
+> This should raise serious concern in the United States and other Western countries: is it at all acceptable to have a social network that has a demonstrated willingness to censor content under the control of a country that has clearly different views on what constitutes free speech?
+
+On his personal conflict and the impetus for companies to choose morals over money:
+> I am not particularly excited to write this article. My instinct is towards free trade, my affinity for Asia generally and Greater China specifically, my welfare enhanced by staying off China’s radar. And yet, for all that the idea of being a global citizen is an alluring concept and largely my lived experience, I find in situations like this that I am undoubtedly a child of the West. I do believe in the individual, in free speech, and in democracy, no matter how poorly practiced in the United States or elsewhere. And, in situations like this weekend, when values meet money, **I worry just how many companies are capable of choosing the former?**
+
+On the broader moral conflict:
+> The biggest, shift, though, is a mindset one. First, the Internet is an amoral force that reduces friction, not an inevitable force for good. Second, sometimes different cultures simply have fundamentally different values. Third, if values are going to be preserved, they must be a leading factor in economic entanglement, not a trailing one. This is the point that Clinton got the most wrong: money, like tech, is amoral. If we insist it matters most our own morals will inevitably disappear.
