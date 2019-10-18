@@ -2,7 +2,7 @@
 layout: post
 title:  "Running Towards Problems"
 comments: true
-date:   2019-10-17 12:00:00 -0500
+date:   2019-10-18 12:00:00 -0500
 categories: general
 draft: false
 ---
