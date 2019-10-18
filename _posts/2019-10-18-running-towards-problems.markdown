@@ -7,7 +7,7 @@ categories: general
 draft: false
 ---
 
-Ben Horowitz published a short but powerful [post](https://a16z.com/2019/10/17/how-to-be-effective-ceo-leader/) about the mindset of a founder / CEO. 
+Ben Horowitz published a short but powerful [post](https://a16z.com/2019/10/17/how-to-be-effective-ceo-leader/) about the mindset of a founder / CEO.
 
 On how being a founder means your temperament is tied to company ups and downs:
 > When you found a company, it tends to get wired into your nervous system. I used to become physically ill whenever there was something wrong in the company — even if I didn’t know what it was. Even if I couldn’t see it, I could feel it. It wasn’t a pleasant feeling. Most good founder/CEOs that I know have this same, gnarly experience. Unfortunately, feeling it turns out to be the easy part of the job.
