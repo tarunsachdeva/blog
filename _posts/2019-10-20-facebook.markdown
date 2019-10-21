@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Facebook's Identity Crisis"
+comments: true
+date:   2019-10-21 12:00:00 -0500
+categories: general
+draft: false
+---
+
+Canada is going to the elections tomorrow. It's been more polarizing than _normal_, whatever that even means these days. Social media has it on full display.
+
+Facebook [announced](https://www.theverge.com/2019/10/17/20919223/mark-zuckerberg-facebook-speech-live-politics-threats-free-expression) that it will not ban poltical ads that contain known falsehoods, in defense of _free speech_. 
+
+> Given the sensitivity around political ads, I’ve considered whether we should stop allowing them altogether. From a business perspective, the controversy certainly isn’t worth the small part of our business they make up. But political ads are an important part of voice — especially for local candidates, up-and-coming challengers, and advocacy groups that may not get much media attention otherwise.
+
+Okay, Mark. 
+
+Let's rewind to 2016 - the definition of a fucked up year. Trump was elected, and even Mark admitted he didn't anticipate nor accept responsibility for all the things that happen on his platform. So after three long years of working towards _taking_ responsibility, it's really strange that he ended in that same old place - protecting misinformation in fear that Facebook will no longer be a place for _free speech_. 
+
+Facebook is taking advertiser money like a publisher, and making editorial decisions like a publisher would. Yes, scale is different. Yes, UGC is different. Yes, all of this is true.
+
+But here's how it _feels_. Mark doesn't _like_ what Facebook is. He wants it to be a place where free speech can flourish, and hopefully not damage democracy in the process. He doesn't like where it's ended up. But he doesn't have answers. And idealism is all that's left - except it's nowhere near enough.
+
+Here's what bothers me the most - If you accept responsibility for something, you have to do it _fully_. If you don't want to take it on - **that's fine too**. But don't say one thing and do another.
+
+[These thoughts are incomplete.]
