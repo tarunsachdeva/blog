@@ -25,8 +25,8 @@ title: Tarun Sachdeva
 description: Blog
 
 baseurl: ""
-production_url : http://tarunsachdeva.com/
-BASE_PATH : http://tarunsachdeva.com/
+production_url : https://www.tarunsachdeva.com/
+BASE_PATH : https://www.tarunsachdeva.com/
 permalink: /:year:month:day/:title:output_ext
 date_format: "%b %-d, %Y"
 paginate: 5
