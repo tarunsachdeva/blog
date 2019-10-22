@@ -15,12 +15,16 @@ Facebook [announced](https://www.theverge.com/2019/10/17/20919223/mark-zuckerber
 
 Okay, Mark. 
 
-Let's rewind to 2016 - the definition of a fucked up year. Trump was elected, and even Mark admitted he didn't anticipate nor accept responsibility for all the things that happen on his platform. So after three long years of working towards _taking_ responsibility, it's really strange that he ended in that same old place - protecting misinformation in fear that Facebook will no longer be a place for _free speech_. 
+Let's rewind to 2016 - a fucked up year by most standards. Trump was elected, and even Mark admitted he didn't anticipate nor fully accept responsibility for all the things that happen on his platform. First there was that [tone-deaf denial](https://www.businessinsider.com/facebook-blamed-trump-election-mark-zuckerberg-response-tone-deaf-2016-11). In their defense, they later started [taking responsibility](https://fortune.com/2016/12/15/facebook-responsibility/). So after three long years of doing that, hiring [thousands](https://www.vice.com/en_us/article/pazmgy/facebook-is-hiring-1000-more-people-to-block-fake-news-ads) to combat the issue, it just feels just so strange that we ended up here. 
 
-Facebook is taking advertiser money like a publisher, and making editorial decisions like a publisher would. Yes, scale is different. Yes, UGC is different. Yes, all of this is true.
+All for this ridiculous fear that Facebook will no longer be a place for _free speech_. Newsflash: it [never was](https://www.facebook.com/communitystandards/). Facebook is many things - but _neutral_ is definitely not one of them.
 
-But here's how it _feels_. Mark doesn't _like_ what Facebook is. He wants it to be a place where free speech can flourish, and hopefully not damage democracy in the process. He doesn't like where it's ended up. But he doesn't have answers. And idealism is all that's left - except it's nowhere near enough.
+Facebook [said](https://newsroom.fb.com/news/2019/10/mark-zuckerberg-stands-for-voice-and-free-expression/) "focusing on authenticity and verifying accounts is a much better solution than an ever-expanding definition of what speech is harmful." Here's how I read that: "We will block fake news from fake accounts. But real people, especially those real people that benefit the most from fake news - they're cool. They can stay. Infact, we'll take their money and promote them."
 
-Here's what bothers me the most - If you accept responsibility for something, you have to do it _fully_. If you don't want to take it on - **that's fine too**. But don't say one thing and do another.
+Conversations defending Facebook's right to exercise American values on a global platform (don't get me started) revolve around how Facebook is _so different_. That's true along many dimensions. User generated content at scale changes the game in significant ways. 
 
-[These thoughts are incomplete.]
+But here's the crux of it. The finely tuned economic engine for Facebook behaves like a publisher. Not only is it taking advertiser money, it's also exercising broad editorial standards. Just like a publisher. These are significant truths, albeit inconvenient for Facebook. 
+
+Here's how this all _feels_. Mark doesn't like what Facebook is today. He wants it to be a place where free speech can flourish, and hopefully not damage democracy in the process. But doing one without the other - that's messy work. People work. Not high-gross-margin-platform-business work. And after years of effort trying to make it all, well, work...the answers still aren't clear. Idealism is all that's left.
+
+Except it's nowhere near enough. Here's what bothers me the most - If you accept responsibility for something, you have to do it _fully_. Commit to it, for the long term. And if you don't want to take it on - **that's fine too**. Just don't say one thing and do another.
