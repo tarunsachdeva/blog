@@ -2,7 +2,7 @@
 layout: post
 title:  "On The History of TV and The Future of Mobile"
 comments: true
-date:   2019-10-23 12:00:00 -0500
+date:   2019-10-24 12:00:00 -0500
 categories: technology
 draft: false
 ---

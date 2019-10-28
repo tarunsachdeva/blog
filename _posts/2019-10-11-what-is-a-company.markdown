@@ -9,9 +9,7 @@ draft: false
 
 This morning, I had an amazing conversation with a good friend about his new venture. The topic went in many directions, but we talked for a while about company building and leadership.
 
-I asked a question that I've asked myself in my quest to learn how to become a more effective leader - _what is a company_? 
-
-Before I get to that, a short diatribe about the current state of leadership advice.
+I asked a question that I've asked myself in my quest to learn how to become a more effective leader - _what is a company_? It led to a short diatribe about the current state of leadership advice, which ultimately led to answering the question. I'm documenting it here, for future reference. 
 
 Leadership advice surrounds us in the tech community. It's everywhere. It's amazing that people from different companies at different stages are openly sharing their lessons in an effort to make us better. But that's made for information overload. The problem of "popular advice" has never been worse. Popularity is a horrible proxy for many things, but especially so for advice. It creates recency bias and results in misapplying tactics. 
 

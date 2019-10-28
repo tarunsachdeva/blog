@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Bisq"
+comments: true
+date:   2019-10-27 12:00:00 -0500
+categories: technology
+draft: false
+---
+
+I recently found out about Bisq - a decentralized exchange for trading bitcoin and other cryptocurrencies. Coinbase is great for many things, but recently changed it's rules so new bank accounts can't be linked to buy crypto. I was left looking for a new exchange and found Bisq. Bisq is a piece of software, protocol and network that allows for private exchange of crypto between users, focusing on security, privacy and censorship resistance. It's not controlled by any one party like any other exchanges. You can download it [here](https://bisq.network/). From their [about page](https://docs.bisq.network/intro.html):
+
+> Bisq’s mission is to provide a secure, private and censorship-resistant way of exchanging bitcoin for national currencies and other cryptocurrencies over the internet.
+> 
+> When we say secure, we are referring to the safety of users' funds. Today, most bitcoin exchanges are centralized, requiring users to store their bitcoins—​for at least some amount of time—​on exchange servers. When thousands of users do this, it creates extreme incentives for those servers to be hacked and for those users' bitcoins to be stolen. And time and time again these hacks and thefts are exactly what happen.
+> 
+> When we say private, we are referring to users' ability to control access to their own information. Today, most centralized exchanges require users to divulge personally identifying information in order to set up an account, and then in turn link users' trading activity to their respective identities. This practice creates extreme risks for users that their personal details and financial information will be stolen, leaked or otherwise used against their own best interests.
+> 
+> When we say censorship-resistant, we are referring to users' ability to voluntarily trade with one another without interference from a third party. Today, centralized bitcoin exchanges are highly susceptible to such interference. By their nature, they must operate within one legal jurisdiction or another, putting them at risk of being fined or shut down if they do not comply with the laws and other rules of that jurisdiction, which may include restrictions on who can trade and what can be traded, and almost always include requirements to collect personal information as described above.
+> 
+> What’s needed is an exchange where users keep control of funds, that is private by default, and that defends freedom of transaction. We built Bisq to meet these needs.
+> 
+> Where Bitcoin’s motto is "be your own bank," Bisq’s is "be your own exchange."
+
