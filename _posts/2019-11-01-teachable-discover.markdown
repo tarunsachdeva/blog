@@ -4,7 +4,7 @@ title:  "Teachable Discover"
 comments: true
 date:   2019-11-01 12:00:00 -0500
 categories: technology
-draft: true
+draft: false
 ---
 
 Today the [Teachable](www.teachable.com) team launched [Discover](https://www.producthunt.com/posts/discover-by-teachable). I've been a fan of this product for a while, and I think this move is a really interesting one.

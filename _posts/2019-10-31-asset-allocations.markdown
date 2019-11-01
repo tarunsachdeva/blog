@@ -4,7 +4,7 @@ title:  "Investing and Personality"
 comments: true
 date:   2019-10-31 12:00:00 -0500
 categories: finance
-draft: true
+draft: false
 ---
 
 Howard Marks, famed investor and author of [The Market Cycle](https://www.amazon.ca/dp/B078977BRM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) once wrote that "investing is more art than science." 
