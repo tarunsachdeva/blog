@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Glide Pro"
+comments: true
+date:   2019-11-05 12:00:00 -0500
+categories: technology
+draft: false
+---
+
+Today Glide announced it’s Pro Plan. Glide allows you to create a progressive web app using Google Sheets as an API. Somewhat similar in spirit to [PostGrest]({{ site.baseurl }}{% post_url 2019-11-02-postgrest %}), Glide provides pre-built components on top of existing data, allowing you to build apps by putting components together in a visual way (for PostGrest that "component" is just a RESTful API on a database). Those components can be as simple as CRUD functionality, but also adds capabilities like payment and maps. 
+
+Glide has been popular in the no-code movement since it’s launch, but the Pro Plan allows for more data, support for docs in shared drives, custom branding, and more. I can expect more entrepreneurs using Glide Pro as a primary way of launching and testing products quickly, which is good for consumers and creators alike.
