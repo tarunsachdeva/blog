@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The World has Gone Mad and The System is Broken"
+title:  "Softbank"
 comments: true
-date:   2019-11-06 12:00:00 -0500
+date:   2019-11-07 12:00:00 -0500
 categories: finance
 draft: false
 ---
