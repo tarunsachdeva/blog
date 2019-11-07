@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The World has Gone Mad and The System is Broken"
+comments: true
+date:   2019-11-06 12:00:00 -0500
+categories: finance
+draft: false
+---
+
+Yesterday, I [wrote]({{ site.baseurl }}{% post_url 2019-11-06-the-world-has-gone-mad %}) about Ray Dalio’s piece [The World has Gone Mad and The System is broken](https://www.linkedin.com/pulse/world-has-gone-mad-system-broken-ray-dalio/), which pointed out that excess capital is causing fund managers to make horrible investment decisions. Coincidentally, yesterday Softbank released their [earnings deck](https://cdn.group.softbank/en/corp/set/data/irinfo/presentations/results/pdf/2019/softbank_presentation_2019_002.pdf) and, well, it’s a doozy. 
+
+It’s filled with mentions of “hypothetical EBITDA” and charts with no units on their vertical axes. When I first saw it, it was hilarious. It doesn’t seem real. But take away the humor and it’s pretty clear that all this excess capital is being distributed to mismanaged companies with questionable business fundamentals at best.
+
+Tech culture likes to brand itself closely to utopian ideals, but when you follow the money it’s pretty clear that it’s just making existing problems worse. This is not good for Softbank, ofcourse, but it’s horrible for the brand image of the technology industry and those new to it.
