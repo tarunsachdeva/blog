@@ -7,7 +7,7 @@ categories: finance
 draft: false
 ---
 
-Anish Acharya, partner at A16Z and good friend, recently published [Fintech can save us from ourselves](https://a16z.com/2019/11/07/fintech-can-save-us-from-ourselves/), a piece about how technology can help us make better savings decisions. He offers a few patterns that have been more effective than shaming techniques. All of them take the decision away from users, and automatically make the best decision.
+Anish Acharya, partner at A16Z, recently published [Fintech can save us from ourselves](https://a16z.com/2019/11/07/fintech-can-save-us-from-ourselves/), a piece about how technology can help us make better savings decisions. He offers a few patterns that have been more effective than shaming techniques. All of them take the decision away from users, and automatically make the best decision.
 
 - Invisible savings, used by Digits, which automatically saves your money and puts it in a separate savings account
 - Prized-linked savings, in which consumers are entered to win a jackpot anytime they save a certain amount in their own accounts. This has natural network effects because the prize increases anytime a new customer joins the pool (although probability of winning decreases).
