@@ -21,4 +21,6 @@ The chapters on Louverture center around some themes that helped him establish a
 
 - Make decisions that demonstrate priorities: The best example here is of Reed Hastings kicking DVD executives out of the Netflix leadership meeting during their shift to streaming. It was a bold decision that demonstrated that Netflix needed to become a streaming-first company. 
 
-- Walk the Talk: 
+- Walk the Talk: A simple principle - live your truth and lead by example. Ben himself acknowledges it's not the only way to lead, but the lack of it quickly erodes trust within a team. The attitudes and actions of those at the top have a trickle down effect - for better and for worse.
+
+- Make Ethics Explicit: Ben highlights Uber's hyper-competitive culture was what drove its success, but also it's downfall amidst the sexual harrassment scandal. What Uber failed to do was establish an ethical foundation upon which it's values were to be practiced. It led to people misapplying competitiveness to silence coworkers, squeeze profits from drivers, and so much more. Dara reversed course and introduced a new set of values - one that included a strong proclamation - _We do the right thing. Period._
