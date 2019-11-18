@@ -2,7 +2,7 @@
 layout: post
 title:  "WYDIWYA: On Bushido"
 comments: true
-date:   2019-11-09 12:00:00 -0500
+date:   2019-11-15 12:00:00 -0500
 categories: leadership
 draft: false
 ---
