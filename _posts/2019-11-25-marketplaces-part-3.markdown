@@ -7,7 +7,7 @@ categories: general
 draft: false
 ---
 
-Part 32 of Lenny Rachitsky's series on marketplace growth is [now available](https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-911). This one is about how many startups scaled initial supply. 
+Part 3 of Lenny Rachitsky's series on marketplace growth is [now available](https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace-911). This one is about how many startups scaled initial supply. 
 
 The overwhelming answer here is *direct sales*. Nothing beats going door to door, building a pipeline and running a process to execute it. A classic strategy that works across industries, and way more effective than any other. 
 

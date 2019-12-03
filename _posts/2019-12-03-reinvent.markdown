@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Lessons from AWS"
+comments: true
+date:   2019-12-03 12:00:00 -0500
+categories: general
+draft: false
+---
+
+AWS Re:invent is back - with everything from a [machine-learning powered keyboard](https://aws.amazon.com/deepcomposer/?hp=r) or a [development environment for experimenting with quantum computing](https://aws.amazon.com/braket/?hp=r). It's amazing to see the breadth and depth of new services launched with AWS. 
+
+In a past life, I was an mobile developer intern working on Amazon's mobile products. This was 2001. The team was responsible for making Amazon available anywhere except the PC, hence the name Amazon Anywhere. Those were [tumultuous times](https://www.cnet.com/news/amazon-anywhere-not-quite-everywhere/) for tech, but what came out of that team was the foundation of Amazon web services. By giving mobile developers the ability to access Amazon data, they created the foundations of the first API based services. One of the questions asked was - well, if this API is valuable to us, what if it was opened up to others too? They could probably find it valuable too. And AWS was born. 
+
+I was lucky enough to be the first intern on the AWS team, and helped to develop the first developer portal for AWS. I remember conversations talking about other parts of the Amazon software stack - everything from email to payments to search. We would discuss how third party developers could find them useful and what innovative services they would create. Since then Amazon took that thinking and went through the entire software and hardware stack - storage, compute, and so much more - and abstracted it for others to utilize. 
+
+AWS is now an incredible business - the highest margin of Amazon's profit lines. There are many business lessons from AWS, but one of the most powerful I've always found is to recognize existing units of value in a business, and determine how to find a broader market for that value.
