@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Delphia"
+comments: true
+date:   2019-12-04 12:00:00 -0500
+categories: general
+draft: false
+---
+
+Today, some friends finally unveiled their new venture - Delphia - an investment collective that lets people invest with their _data_, not just dollars. They do this by surveying their members about insights that hedge funds typically pay millions of dollars to collect in aggregate. Those first party insights, combined with some fancy predictive algorithms, provide a natural advantage over the market, especially in many consumer focused categories like the arts and media. Check it out [here](https://delphia.com/?referral=ZR2oSw1PKsGARZtgDkM8fOl-tY5keh_aDi-Du0mdX8g#join-the-waitlist). 
