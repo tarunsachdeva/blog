@@ -4,7 +4,7 @@ title:  "Company Stories"
 comments: true
 date:   2019-12-07 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
 One of the best ways to find out about a company is to ask about how it evolved. But those stories can be complex to understand, and this is where the [company system]({{ site.baseurl }}{% post_url 2018-10-20-leadership-lattice-simplified %}) can a really useful structure.  
