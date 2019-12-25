@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "When to Sell"
+comments: true
+date:   2019-12-19 12:00:00 -0500
+categories: general
+draft: false
+---
+
+I just had a really interesting conversation recently with an investment advisor about a certain part of my growth portfolio. Like many others in these market conditions, many investments have overperformed benchmarks and expectations. But the toughest part of the investment process is knowing _when to sell_. 
+
+I realized I don't have a deterministic hypothesis or target, so the answer isn't clear for me. It reminded me of two blog posts by Fred Wilson: [Selling](https://avc.com/2018/08/selling-2/) and [Taking Money Off the Table](https://avc.com/2018/01/taking-money-off-the-table/).
+
+Some of my favorite captions from the posts are below. Although most of them are in the venture capital context where sell decisions are not always in your control, some lessons are useful in public market investing as well. 
+
+> When you make an investment that is really working out, I have found that it is generally a good idea to hold on to it even when it goes past your original sell targets for it. It can be a useful discipline to develop new sell targets when this happens based on the new information you have about this investment.
+
+> But even with all of these lessons I have learned and approaches I have developed over the years, I continue to struggle with selling. It is hard for me to do and I resist the urge, particularly with the big winners. It is like taking your medicine. You know it is the right thing to do but it doesn’t feel very good when you do it.
+
+On the opportunities to sell in venture:
+> One of the hardest things in managing a venture capital portfolio is managing your big winners. A big winner can dwarf the rest of the entire portfolio and you end up sitting on enormous paper profits that you can’t get liquid on. I realize that this seems like a great problem to have, and it is, but it is still a challenging situation. 
+
+> Taking money off the table is smart portfolio management. It is very different from selling your entire position, which could be brilliant but is equally likely to be a mistake. Selling a portion of your position, returning a multiple or two (or eight) of the fund, and holding on to the balance works out for you no matter which way the position goes in the future. If the position blows up, you got a lot out and booked a huge gain. If the position goes up significantly, you make even more money on the part of the investment you retained. If it goes sideway, you got a little bit out early. It is a win/win/win pretty much every way you look at it.
+
