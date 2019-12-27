@@ -2,9 +2,11 @@
 layout: post
 title:  "Christmas"
 comments: true
-date:   2019-12-22 12:00:00 -0500
+date:   2019-12-25 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
-It's Christmas and we're spending the day at a beach in Florida. 
+It's Christmas and we're spending the day at a beach in Florida. Nothing much to write today, just enjoying the day with family. 
+
+![Christmas 2019](/assets/img/xmas2019.jpg)
