@@ -16,3 +16,5 @@ Here are some of my favorites so far:
 * [Our Dumb Decade](https://www.theonion.com/tag/our-dumb-decade)
 * [The Best Movies of the Decade, Ranked (Sort of)](https://www.vulture.com/2019/12/every-movie-of-the-2010s-ranked-sort-of.html)
 * [The Best Standup Comedy Specials of the Decade](https://www.vulture.com/2019/12/best-stand-up-comedy-specials-of-the-2010s.html)
+* [The Most Impactful NBA Players of the Decade](https://mobile.twitter.com/JacobEGoldstein/status/1210242794884935685)
+* [The Best NBA Dunks of the Decade](https://twitter.com/i/events/1210620177454264320)
