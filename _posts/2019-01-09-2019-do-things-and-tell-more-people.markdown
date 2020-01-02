@@ -17,4 +17,4 @@ But I've been pretty quiet about it - choosing not to share except occassionally
 
 I want to start 2019 by reversing that trend. To simply [do things and tell _more_ people]({{ site.baseurl }}{% post_url 2018-12-07-do-things-and-tell-people %}). So I'm starting here - by telling you what I've been up to for the last few months.
 
-I'm excited about the new year, and hope you are too. 
+I'm excited about the new year, and hope you are too.

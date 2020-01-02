@@ -4,7 +4,7 @@ title:  "AI Superpowers"
 comments: true
 date:   2019-06-26 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
 [AI Superpowers](https://aisuperpowers.com/) is a book by Kai-Fu Lee, Chairman of Sinovation, a Chinese VC firm. 

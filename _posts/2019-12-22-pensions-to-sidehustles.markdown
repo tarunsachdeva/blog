@@ -7,7 +7,7 @@ categories: general
 draft: false
 ---
 
-We're in Florida for the next week, staying close to a golf course. It's quintessential Florida. It's also the result of my in-laws decades of hard work and pension plan. In a recent episode of The Patriot Act, Hasan Minhaj talked about the disappearing pension. Companies these days have elected to provide 401(k) and RRSP plans in lieu of a guaranteed pension. This provides a massive tax benefit to them and reduces their financial liability. 
+We're in Orlando for the next week staying in a house attached to a golf course. It's quintessential Florida. It's also the result of my in-laws decades of hard work and pension plan. In a recent episode of The Patriot Act, Hasan Minhaj talked about the disappearing pension. Companies these days have elected to provide 401(k) and RRSP plans in lieu of a guaranteed pension. This provides a massive tax benefit to them and reduces their financial liability. 
 
 Further to that, the gig economy is giving more people the ability to supplement their income, and in some cases become the primary source altogether. But the gig economy can be very unstable. Platform rules can change overnight and what was sustained income can quickly disappear, as happened with Youtube's demonization efforts. 
 

@@ -4,7 +4,7 @@ title:  "Abstraction and User Centric Design"
 comments: true
 date:   2019-07-18 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
 This post is a set of disconnected thoughts about abstraction - arguably the most important mental model in software design.
