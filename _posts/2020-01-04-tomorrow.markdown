@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Tomorrow"
+title:  "Seven Reasons Gaming will take over"
 comments: true
 date:   2020-01-04 12:00:00 -0500
 categories: general
 draft: true
 ---
 
-Too busy to write much more today. 
+Too busy to write much more today. Tomorrow I'm flying to New York and am spending as much time today with family. 
+
+https://www.matthewball.vc/all/7reasonsgaming
