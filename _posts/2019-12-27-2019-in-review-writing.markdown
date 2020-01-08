@@ -16,6 +16,7 @@ A few of favorite posts from this year (judged by how many times I've referred b
 * [What's Happening in India]({{ site.baseurl }}{% post_url _posts/2019-01-13-whats-happening-in-india %})
 * [Deep Work and Connected Work]({{ site.baseurl }}{% post_url 2019-01-16-deep-work-connected-work %})
 * [The Calendar as a Network and Platform]({{ site.baseurl }}{% post_url 2019-01-23-calendar-network-platform %})
+* [Media and Multidisciplinarity]({{ site.baseurl }}{% post_url 2019-02-21-smartphone-media-second-decade %})
 * [Systems of Impact]({{ site.baseurl }}{% post_url 2019-04-09-systems-of-impact %}) (this was one of many posts that explored systems thinking applied to leadership).
 * [Marketplaces, Decentralization, and Losing Trust]({{ site.baseurl }}{% post_url 2019-08-18-marketplaces-decentralization-trust-supply-side %})
 * [Question Quality]({{ site.baseurl }}{% post_url 2019-09-19-question-quality %})

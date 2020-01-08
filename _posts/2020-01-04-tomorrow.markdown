@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Seven Reasons Gaming will take over"
+title:  "Moving Tomorrow"
 comments: true
 date:   2020-01-04 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
-Too busy to write much more today. Tomorrow I'm flying to New York and am spending as much time today with family. 
-
-https://www.matthewball.vc/all/7reasonsgaming
+Not much to write today. Tomorrow I'm flying out, so today I'm just spending as much time today with family. It all feels a bit strange.
