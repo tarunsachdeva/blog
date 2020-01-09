@@ -4,11 +4,11 @@ title:  "The Moving Muscle Memory"
 comments: true
 date:   2020-01-02 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
 Another short post today as we go through this transition.
 
-Moving isn't unfamiliar. I've travelled my [entire life]({{ site.baseurl }}{% post_url 2018-08-31-growing-up-everywhere %}) - but without the agency to decide where to. As I coordinate this move to New York, I'm reflecting on how this all feels.
+Moving isn't unfamiliar. I've travelled my [entire life]({{ site.baseurl }}{% post_url 2018-08-31-growing-up-everywhere %}) - but ofcourse at that stage I didn't have any agency to decide where to. 
 
-What's most surprising is that moving is a muscle that never goes away. Despite having been in one place for more than 20 years, the idea of disrupting everything doesn't feel _difficult_. It's reminded me of this innate ability to call anywhere home. Perhaps this is just the adrenaline of the entire experience but I haven't felt overwhelmed (not quite yet, atleast). 
+What's most surprising is that moving is a muscle that never goes away. Despite having been in one place for more than 20 years, the idea of disrupting everything doesn't feel _difficult_. It's reminded me of this innate ability to call anywhere home. Perhaps this is just the adrenaline of the entire experience but I haven't felt overwhelmed (not quite yet, atleast). It feels like a muscle that, althought atrophied a bit, hasn't quite disappeared.
