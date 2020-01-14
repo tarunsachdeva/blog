@@ -2,7 +2,7 @@
 layout: post
 title:  "The Power of Compounding"
 comments: true
-date:   2020-01-03 12:00:00 -0500
+date:   2020-01-05 12:00:00 -0500
 categories: general
 draft: false
 ---

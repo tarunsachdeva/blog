@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "The First 30 Days"
+comments: true
+date:   2020-01-07 12:00:00 -0500
+categories: general
+draft: false
+---
+
+As if by fate, I found this article by Sriram Krishnan on [The First 30 Days](https://sriramk.com/exec-101-first-thirty-days) for a new exec in any organization. He summarized a few lessons from his experience:
+
+1. Relax. 
+2. Meet everyone.
+3. Make obvious people changes, quickly.
+4. Build key relationships.
+5. Pick a crisis or early win (and don't mess it up)
+6. Communicate (regularly).
+
+Check out the full post [here](https://sriramk.com/exec-101-first-thirty-days).
