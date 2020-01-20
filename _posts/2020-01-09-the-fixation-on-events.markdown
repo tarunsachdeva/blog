@@ -2,7 +2,7 @@
 layout: post
 title:  "The Fixation on Events"
 comments: true
-date: 2020-01-08 12:00:00 -0500
+date: 2020-01-09 12:00:00 -0500
 categories: general
 draft: false
 ---
