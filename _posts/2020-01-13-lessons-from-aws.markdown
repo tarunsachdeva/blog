@@ -2,7 +2,7 @@
 layout: post
 title:  "Lessons from the Early Days of AWS"
 comments: true
-date:   2020-01-14 12:00:00 -0500
+date:   2020-01-13 12:00:00 -0500
 categories: general
 draft: false
 ---
