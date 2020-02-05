@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Fast"
+comments: false
+date:   2020-01-18 12:00:00 -0500
+categories: general
+draft: false
+---
+
+Patrick Collison, cofounder of Stripe, keeps a log of "people quickly accomplishing ambitious things together". Some of my favorite examples:
+
+> The Eiffel Tower. The Eiffel Tower was built in 2 years and 2 months; that is, in 793 days. When completed in 1889, it became the tallest building in the world, a record it held for more than 40 years. It cost about $40 million in 2019 dollars. 
+> Apollo 8. On August 9 1968, NASA decided that Apollo 8 should go to the moon. It launched on December 21 1968, 134 days later. Source: Apollo Spacecraft Chronology.
+> JavaScript. Brendan Eich implemented the first prototype for JavaScript in 10 days, in May 1995. It shipped in beta in September of that year.
+> iPod. Tony Fadell was hired to create the iPod in late January 2001. Steve Jobs greenlit the project in March 2001. They hired a contract manufacturer in April 2001, announced the product in October 2001, and shipped the first production iPod to customers in November 2001, around 290 days after getting started.
+
+I've been on teams that have built things in record time. There's nothing else like a a dedicated team motivated to ship amazing products on time.
