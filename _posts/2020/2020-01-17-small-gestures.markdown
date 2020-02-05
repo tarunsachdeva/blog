@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Small Gestures"
-comments: true
+comments: false
 date:   2020-01-17 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
 In a busy world, the simplest gestures can still have large impact. This post is a collection of some of these. 
