@@ -7,7 +7,7 @@ categories: general
 draft: false
 ---
 
-Patrick Collison, cofounder of Stripe, keeps a log of "people quickly accomplishing ambitious things together". Some of my favorite examples:
+Patrick Collison, cofounder of Stripe, keeps a [log](https://patrickcollison.com/fast) of "people quickly accomplishing ambitious things together". Some of my favorite examples from his list:
 
 > The Eiffel Tower. The Eiffel Tower was built in 2 years and 2 months; that is, in 793 days. When completed in 1889, it became the tallest building in the world, a record it held for more than 40 years. It cost about $40 million in 2019 dollars. 
 > 
