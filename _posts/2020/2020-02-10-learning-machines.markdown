@@ -7,7 +7,7 @@ categories: general
 draft: false
 ---
 
-Companies can be reduced to learning machines that produce capital outcomes. Their success is a function of how well they acquire new knowledge, and their ability to compound on existing knowledge.
+Startups are learning machines. Their success is a function of how well they acquire new knowledge, and their ability to compound on existing knowledge.
 
 Acquiring new [market] knowledge comes first hand - by launching new products and services and gauging customer response. It can also be acquired through effective market and user research. This feedback loop is visible, and therefore written about more than anything else. It can consume the story of a company but it's not the complete picture.
 
