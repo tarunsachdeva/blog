@@ -7,7 +7,7 @@ categories: general
 draft: false
 ---
 
-This is a short post exploring how attention
+This is a short post exploring _attention_.
 
 We work in open offices - environments of constant distraction. We carry distraction machines in our pockets and wear them on our wrists. Software has eaten the world and isn't stopping, despite a global conversation warning us against it.
 
