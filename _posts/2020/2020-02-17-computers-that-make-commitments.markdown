@@ -13,8 +13,8 @@ A [recent post](https://a16z.com/2020/01/27/computers-that-make-commitments/) by
 
 With blockchains, a few things become possible:
 
-1. Computer networks have unchangeable data built into the network itself, not just in an individual computer. 
-2. Computer networks (not just individual machines) can behave with a set of rules, and therefore be programmed.
-3. Computer networks can have inherent financial instruments (tokens) that can grow in value with the growth of the network itself.
+1. Computer networks have unchangeable data (the chain itself) built into the network itself, not just in an individual computer.
+2. A computer network itself can behave with a set of rules (not just the individual computers), and therefore be programmed. (e.g. Ethererum)
+3. Computer networks can have inherent financial instruments (tokens) that can grow in value with the growth of the network itself. (e.g Bitcoin)
 
 Extrapolating these three can probably help us explore the different possibilities of how Blockchains will change how we use computers.
