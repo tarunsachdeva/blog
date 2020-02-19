@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top 100 Marketplaces"
+title:  "The Marketplace 100"
 comments: false
 date:   2020-02-19 12:00:00 -0500
 categories: general
