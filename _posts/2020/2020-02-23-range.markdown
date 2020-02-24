@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Range"
+comments: false
+date:   2020-02-23 12:00:00 -0500
+categories: general
+draft: false
+---
+
+A very short post today. I started readiing [Range](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484) last night, and enjoyed this last paragraph from the introduction. The reference is to the approach taken by Tiger Woods versus Roger Federer. The former specialized in golf since he demonstrated a childhood aptitude for the sport, and the latter dabbled in skiing, wrestling, swimming, skateboarding - all while he played tennis. Both became the best in the world at their sports.
+
+> The challenge we all face is how to maintain the benefits of breadth, diverse experience, interdisciplinary thinking, and delayed concentration in a world that increasingly incentivizes, even demands, hyperspecialization. While it is undoubtedly thrue that there are areas that require individuals with Tiger [Woods]' precocity and clarity of purpose, as complexity increases - as technology spins the world into vaster webs of interconnected systems in which each individual only sees a small part - we also need more Roger [Federers]: people who start broad and ebrace diverse experiences while they progress. 
+
