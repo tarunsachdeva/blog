@@ -9,12 +9,17 @@ draft: false
 
 Compensation is a sensitive topic. We think about it often but don't discuss it openly. This informaton asymmetry creates silos where a few people are in "the know", and many others are seemingly left out. Often because they're not asking the right questions, don't know who to ask, or simply - are not sure how to start the conversation. 
 
-I had one of these conversations recently, and I offered a friend a simple structure to think about it. But before that, there are a few other things to understand:
+I had one of these conversations recently, and I offered some advice to a friend. This post summarizes some of my thoughts. 
 
-* Understand comparables and what is "fair". Do the research to understand what is fair and normal practice in the industry and whatever level you are at. Make sure you are equipped with this prior.
-* Set expectations earlier than later. It comes more difficult to have compensation discussions when expecations are a surprise. 
+* Do your homework. Understand comparables and what is fair for your industry and level, and set your own expectations accordingly. Make sure you are equipped with this prior.
 
-The framework itself is simple - make sure you're negotating along three lines - base, upside and downside. You want a base with a good savings rate buffer,  to maximize your upside, and to minimize any downside risks. 
+* Own the conversation, don't wait for it or let it happen to you. Compensation conversations often happen too late so it's best to bring up your expectations earlier in your job search.
+
+* There are no "deals". I've found the best compensation conversations end with a feeling that this is the beginning of a strong partnership, versus one side feeling they got the better or worse end of a deal.
+
+* Use an intermediary if it makes you more comfortable. Using a recruiter has the advantage of avoiding direct confrontation. I've found this to be useful, but also see a lot of value in directness.
+
+* Undertstand that there's so much more than base. Negotiate along multiple lines - base, upside and downside. You want a base with a good savings rate buffer,  to maximize your upside, and to minimize any downside risks. 
 
 * Make sure your base covers living comfortably, with a good buffer for savings. My target was 60-70% of my base should cover my living expenses - including mortgages / nannies etc. The rest would go into savings. I think in a world where pensions are not the norm, a 30-40% savings rate should be considered "normal". Life circumstances become a good negotiation lever - it's hard to push back on. New houses, kids, parents to support, all that helps. 
 
