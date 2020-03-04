@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "On Fear"
+comments: false
+date:   2020-03-02 12:00:00 -0500
+categories: general
+draft: false
+---
+
+Coronavirus has spread into our conversations faster than the virus itself. Markets are spooked and grocery lineups are getting longer. The virus is here, and as we ramp up detection we'll find out how prevalant it is (and perhaps has been for weeks).
+
+The fear will start in communities globally based on the news of the virus. But it will likely subside while the virus continues to spread globally and becomes another part of our everyday life. The fear and the virus will spread independent of each other.
+
+There is already a clear economic impact, but not all effects will be negative. I'm thinking particularly about the dramatic drop in air pollution, and dramatic rise of remote working policies. COVID-19 might be the moment we pause and re-evaluate how we're going about our lives - and make the right changes in response.
