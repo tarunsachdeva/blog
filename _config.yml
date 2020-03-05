@@ -11,7 +11,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
 github:
   private: false
@@ -30,6 +30,14 @@ production_url : https://www.tarunsachdeva.com/
 BASE_PATH : https://www.tarunsachdeva.com/
 permalink: /:year:month:day/:title:output_ext
 date_format: "%b %-d, %Y"
-paginate: 5
-paginate_path: "/page:num/"
 google_analytics: true
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
