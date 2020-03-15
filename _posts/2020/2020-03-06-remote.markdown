@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Notes on Remote Work"
+comments: false
+date:   2020-03-06 12:00:00 -0500
+categories: general
+draft: false
+---
+
+Remote work is seeing a real moment these days. But, in a knowledge economy on the internet, physical proximity doesn't really make sense as the default. Working in the samne office is definitely beneficial to promote creative group work. But, my prediction is that is more of a bug than a feature. The tools to create a feeling of promixity are going to get better with more use, and we will be able to have the same high bandwidth conversations online (video, VR will help).
+
+The term "remote" makes it sound like you are away from the conversation too. With the internet, it makes it seems a bit strange that a physical location is the central place of work, and the decentralized environment where everything is available is considered "remote". I think we'll see people switch to remote work being the *default*, and coming into work will be reserved for special occasions. Many companies have been doing this for years and I expect this to become a new social norm. 
