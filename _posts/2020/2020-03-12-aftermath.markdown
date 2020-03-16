@@ -4,7 +4,7 @@ title:  "The Aftermath"
 comments: false
 date:   2020-03-12 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
 Yesterday was the turning point, and today is the aftermath.
