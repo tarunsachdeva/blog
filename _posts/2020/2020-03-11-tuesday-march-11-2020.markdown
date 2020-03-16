@@ -2,11 +2,16 @@
 layout: post
 title:  "How it Feels"
 comments: false
-date:   2020-03-05 12:00:00 -0500
+date:   2020-03-11 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
-The day we'll never forget. 
+As crazy as this entire week has been, today feels like the turning point. The day we'll never forget. 
 
-Tom Hanks, NBA, Trump Speech. 
+In the last hour:
+* Donald Trump gave a disastrous speech meant to reassure the country (and to a certain degree, the world). It had the exact opposite effect. As of this writing, markets are tanking again.
+* Tom Hanks revealed he has Coronavirus. I'm not sure why this is having such a huge impact but I suppose he's a global celebrity and it's becoming clear that this is unstoppable no matter who you are.
+* The NBA is suspending its season because Rudy Gobert tested positive for COVID-19.
+
+A very strange combination of events but collectively it feels like the panic around COVID-19 has started in North America. I'm not sure what I'm going to be doing just yet. 

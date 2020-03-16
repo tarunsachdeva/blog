@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "How it Feels"
+title:  "Applied Principles"
 comments: false
-date:   2020-03-05 12:00:00 -0500
+date:   2020-03-10 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
-Fat Tails
-Diversification
-Second Order Effects
+It's amazing in these times that so many principles and laws about systems, investing and probability are playing out in high frequency. 
+
+* [Black Swan Events](https://www.investopedia.com/terms/b/blackswan.asp): A black swan is an unpredictable event that is beyond what is normally expected of a situation and has potentially severe consequences. Black swan events are characterized by their extreme rarity, their severe impact, and the widespread insistence they were obvious in hindsight. The Coronavirus is the ultimate example.
+* [Fat Tails](https://en.wikipedia.org/wiki/Fat-tailed_distribution): A fat-tailed distribution is a probability distribution that exhibits a large skewness relative to that of either a normal distribution or an exponential distribution. The term "flattening the curve" refers to moving a fat tail to something that looks more like a normal distribution. 
+* [Modern Portfolio Theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) is how risk-averse investors can construct portfolios to optimize or maximize expected return based on a given level of market risk, emphasizing that risk is an inherent part of higher reward. In a bull market, it's easy to put more money in higher risk buckets. 
+* [Systems Theory](https://en.wikipedia.org/wiki/Systems_theory), the interdisciplinary study of systems. A system is a cohesive conglomeration of interrelated and interdependent parts which can be natural or human-made. We  are also seeing how interconnected we are in many ways and how changes in one part of a global system has unintended but large [second order effects](https://fs.blog/2016/04/second-order-thinking/) in another.
