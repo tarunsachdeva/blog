@@ -15,7 +15,7 @@ This is too big of a stimulus to the system for things to return back to normal.
 
 - More than ever people are willing to try out the “online version of X”, whether that is education, fitness, events, etc. When they can’t have the physical thing at all, they will have to suffice with the digital version. In some of these cases, the digital version of X will be “good enough” for people to continue using them. In others, they may return to old patterns if they are still available.
  
-- The Zoom API will become the new FB platform. Whether it's DJ sets or TED talks, Zoom will become the platform for video streaming live events and it will become one of the most valuable companies in tech.
+- The Zoom and Twilio Video API's will become as powerful as the FB platform. Whether it's DJ sets or TED talks, these platforms will power video streaming live events and it will become one of the most valuable companies in tech.
 
 - Any form of information transfer that requires physical contact - swiping credit cards or pressing elevator buttons - will become contactless. We will see a ton of innovation in human computer interfaces in these situations (voice, etc).
 
