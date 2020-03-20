@@ -11,4 +11,6 @@ This may be the spark of a new era in sharing biological information. The fear o
 
 If this is true, this will lead to a surge in biological data. This is highly sensitive and private in nature, and will require a wholly new type of platform or infrastructure that is decentralized, private, and can handle massive amounts of real time data.
 
-When this happens, software will not just eat the world - it will eat _us_.
+_When_ this happens (not a matter of _if_ anymore) - software will not just eat the world - it will eat _us_.
+
+Relevant: this [tweet by Naval](https://twitter.com/naval/status/1240156311892955136).
