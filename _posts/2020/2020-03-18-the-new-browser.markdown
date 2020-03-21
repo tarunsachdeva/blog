@@ -9,11 +9,11 @@ draft: false
 
 A few disconnected thoughts on video conferencing as the after a week working remotely like the rest of the world.
 
-First, the whole process of "dialing into" a video call feels archaic - like the dialup era of the internet. It's incredibly powerful once you're on, but the process of getting these is full of friction.
+First, the whole process of "dialing into" a video call feels archaic - like the dialup era of the internet. It's incredibly powerful once you're on, but the process of getting on a call feels like unncessary friction.
 
-The broadband era of the internet meant no dialup was necessary, and this needs to happen in video too. Joining a video call should be as easy as opening a browser tab. As soon as I want to be on the call, everyone should just already _be there_. 
+The broadband era of the internet meant no dialup was necessary, and this needs to happen in video too. As soon as I want to be on the call, I and everyone should just already _be there_. 
 
-In this new world, we will be always on, always streaming.
+In this new world, we will be always on, always streaming. Switching conversations / contexts should be as easy as opening a different browser tab. 
 
 Our video conferencing apps will become as important as our web browsers are today. In an era of remote first, "social" is not a feature - but must be the core of communication medium itself. Social first and by default, and content layered on top if needed. Our current browsers are the opposite - social is a "type" of content. 
 
