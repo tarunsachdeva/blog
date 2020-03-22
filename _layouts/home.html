@@ -1,6 +1,5 @@
 ---
 layout: default
-paginate: 5
 ---
 <div class="home">
   {%- if page.title -%}
@@ -9,7 +8,8 @@ paginate: 5
 
   {{ content }}
 
-    <!-- Pagination links -->
+    <!-- 
+    Pagination links 
   <div class="pagination">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">
@@ -18,21 +18,21 @@ paginate: 5
     {% else %}
       <span class="previous">Previous</span>
     {% endif %}
-<!--       <span class="page_number ">
+       <span class="page_number ">
       Page: {{ paginator.page }} of {{ paginator.total_pages }}
     </span>
--->
+
      {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path }}" class="next">Next</a>
     {% else %}
       <span class="next ">Next</span>
     {% endif %}
   </div>
+-->
 
-
-  {%- if paginator.posts.size > 0 -%}
+  {%- if site.posts.size > 0 -%}
     <div class="post-list">
-      {%- for post in paginator.posts -%}
+      {%- for post in site.posts -%}
         {%- unless post.draft -%}  
           <p>
             {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
