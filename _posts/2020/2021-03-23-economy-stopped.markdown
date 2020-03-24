@@ -7,10 +7,12 @@ categories: general
 draft: false
 ---
 
+Ric Burton [shared this image](https://twitter.com/ricburton/status/1242015431138742272) on Twitter recently:
+
 ![omg](/assets/img/fuck.jpeg)
 
-Ric Burton [shared this image](https://twitter.com/ricburton/status/1242015431138742272) on Twitter recently. 
+He said it best: **the economy just hit a brick wall**. The American consumer is the driving force of the economy. Employment halts consumer spending to bare essentials. No one has any idea what this looks like. 
 
-I keep thinking about that line: **the economy just hit a brick wall**. The American consumer is the driving force of the economy. Employment halts consumer spending to bare essentials. 
+And yet - desipite the magniture - this is only the **2nd most important problem we need to solve right now**. 
 
-This is the end of frivolous value, a correction some thought was necessary. This recovery will take years.
+The recovery, when it starts, will take years.
