@@ -7,7 +7,7 @@ categories: general
 draft: false
 ---
 
-![omg](fuck.jpeg)
+![omg](/assets/img/fuck.jpeg)
 
 Ric Burton [shared this image](https://twitter.com/ricburton/status/1242015431138742272) on Twitter recently. 
 
