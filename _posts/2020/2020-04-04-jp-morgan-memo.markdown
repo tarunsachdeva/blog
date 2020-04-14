@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pomp x Chamath"
+title:  "JP Morgan Memo"
 comments: false
 date:   2020-04-03 12:00:00 -0500
 categories: general
