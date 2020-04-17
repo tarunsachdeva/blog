@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Understanding Industries"
+title:  "Understanding the Education Industry"
 comments: false
 date:   2020-04-17 12:00:00 -0500
 categories: general
 draft: false
 ---
 
-Some thoughts on the highest leverage activities I'm doing to get better immersed in the world of online education. Many of these methods can be used to better understand any industry.
+I've been immersed in the world of online education for the last few months, and have been learning a lot of about the industry. I'm doing that in a number of ways, that can probably be used to better understand any industry.
 
 To understand the current state of the industry:
 * Reading the most recommended books on the state of Education. I've started compiling an [Amazon wishlist](https://www.amazon.ca/hz/wishlist/ls/3V2B7L3PGGOQ0). 
