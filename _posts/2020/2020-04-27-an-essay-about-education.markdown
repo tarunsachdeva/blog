@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Essay About Learning (An Outline)"
+title:  "Outlining an Essay On Learning"
 comments: false
 date:   2020-04-27 12:00:00 -0500
 categories: general
