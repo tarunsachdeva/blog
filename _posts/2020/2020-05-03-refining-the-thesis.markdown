@@ -20,6 +20,4 @@ With the US racing towards 30% unemployment, even jobs in the largest companies 
 
 For those newly entering the workforce, the idea of taking on 4 years of school debt (and now, for online courses?) doesn't make sense. Study and work will become more interleaved in many different ways.
 
-Work isn't just a place to practice capitalism and serve shareholders. In a knowledge economy it is a space to grow and learn. The best companies are learning organizations and feel like learning communities. 
-
-The rise of knowledge work means that the tools that we use for organizing our thoughts, creating better habits and sharing our learning are going to play an increasingly important role.
+In a knowledge economy, long term capital success is directly tied to the ability for companies to build intellectual moats. The best companies are learning organizations and feel like learning communities. The tools that help us in this process will go beyond communication - they will help us organize our thoughts, compound our collective knowledge and help us in the journey of learning. 
