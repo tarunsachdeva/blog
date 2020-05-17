@@ -1,23 +1,17 @@
 ---
 layout: post
-title:  "Refining the Thesis"
+title:  "A New System"
 comments: false
-date:   2020-05-03 12:00:00 -0500
+date:   2020-05-16 12:00:00 -0500
 categories: general
-draft: true
+draft: false
 ---
 
-The thesis for this upcoming essay on the changing face of the systems of individual development is taking shape.
+The world is at home and facing the reality that the school year is going to end without students returning to classrooms. Despite this, learning hasn't stopped. Quite the opposite. And this new reality is revealing all the cracks in our existing education systems. 
 
-The world is at home and we are starting to notice that the most essential part of the education system is childcare, not learning. The latter is happening online, just as well if not better. The system isn't complete. 
+There is a new system being built and will look like the confluence of some distinct trends:
 
-There is a new system and it is centered around a few key concepts:
-- The era of independence as stability
-- The creation of the employee student, or interleaving "work" and "school"
-- The rise of tools for thought and learning progress
+- For higher education, we'll see a rise in industry providing students with job certainty in different forms. Work and school will become interleaved. Everything from financing (ISA's) to companies offering education credits as part of work.
+- For those already in the workforce, there will be a massive need on upskilling and reskilling to participate in the knowledge economy. For others, it's a time to take back control, and start building their own communities and businesses online.
+- In a knowledge economy, long term capital success is directly tied to the ability for companies to build intellectual moats. The best companies are learning organizations and feel like learning communities. The tools that help us in this process will go beyond communication - they will help us organize our thoughts, compound our collective knowledge and help us in the journey of learning.
 
-With the US racing towards 30% unemployment, even jobs in the largest companies aren't synonymous with stability. Now, more than ever, we are on our own and building a business around yourself is becoming the more stable path. 
-
-For those newly entering the workforce, the idea of taking on 4 years of school debt (and now, for online courses?) doesn't make sense. Study and work will become more interleaved in many different ways.
-
-In a knowledge economy, long term capital success is directly tied to the ability for companies to build intellectual moats. The best companies are learning organizations and feel like learning communities. The tools that help us in this process will go beyond communication - they will help us organize our thoughts, compound our collective knowledge and help us in the journey of learning. 
