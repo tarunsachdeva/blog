@@ -53,7 +53,6 @@ We need to resist the higher ed / edtech productivity agenda.  An agenda that cl
 
 
 
-
 --------
 
 A few key concepts:
@@ -73,3 +72,23 @@ The notion of work as a learning community. In a knowledge economy, long term ca
 So we're starting to see this new model. The unbundling of schools as individual course communities, the interleaving of the school and work experience making the transition to industry smoother, and the recognition that work is a continual learning journey. All of this Based on a foundation of self directed learning. Our education system is too rigidly defined and needs to respond to this new infrastructure. 
 
 The internet is the ultimate tool for self directed learning but there are a lot of opportunities still to be captured. 
+
+
+------
+
+
+What we need 
+- Student identity as a service to help startups flourish
+- Global accredidation - is this a bandaid solution because of the move to remote work?
+- Are we designing too much for an overcorrection?
+
+-----
+
+Essay outline:
+
+- My personal story
+- The future is not going to look anything like this. 
+- In 2040, what happens when a student hasn't ever seen university?
+- Every company is a learning experience
+- Companies as knowledge factories and the rise of the chief knowledge officer
+- x
