@@ -86,9 +86,5 @@ What we need
 
 Essay outline:
 
-- My personal story
-- The future is not going to look anything like this. 
-- In 2040, what happens when a student hasn't ever seen university?
-- Every company is a learning experience
-- Companies as knowledge factories and the rise of the chief knowledge officer
-- x
+- My personal story and the stages of life - education and work.
+- Moving to a
