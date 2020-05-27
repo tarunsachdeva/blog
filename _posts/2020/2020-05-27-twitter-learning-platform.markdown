@@ -7,7 +7,7 @@ categories: general
 draft: false
 ---
 
-Yesterday I had a conversation with a friend about new tools enabling passive learning - products like [Arist](http://www.arist.co), [UseFluent](http://www.usefluent.co), and [Toucan](http://www.arist.co). 
+Yesterday I had a conversation with a friend about new tools enabling passive learning - products like [Arist](http://www.arist.co), [UseFluent](http://www.usefluent.co), and [Toucan](http://www.jointoucan.com). 
 
 I've always considered Twitter to be most powerful passive learning platform in the world. 
 
