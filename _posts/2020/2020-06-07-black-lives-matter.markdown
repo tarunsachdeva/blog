@@ -2,7 +2,7 @@
 layout: post
 title:  "Black Lives Matter"
 comments: false
-date:   2020-06-08 12:00:00 -0500
+date:   2020-06-07 12:00:00 -0500
 categories: general
 draft: false
 ---
