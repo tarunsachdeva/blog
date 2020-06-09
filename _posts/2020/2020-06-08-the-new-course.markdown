@@ -14,6 +14,6 @@ Today, the structure of online courses is so much more, and some of the more suc
 * They all come with a supportive community of peers learning the same thing. Whether it's a Slack group or Discourse forum, what you're learning is just as important as _who you're learning with_. 
 * They center around the instructor first, not the content. Twitter is an incredible learning platform because the act of Following is an indication of interest. Some people join courses today because the relationship with the course content starts with their connection with the instructor. Traditionally, you choose a course topic and then get introduced to the instructor.
 * They encourage public accountability. The act of creating things in public (through writing and other creative fields) creates a natural skin-in-the-game.
-* They have status attached to completion. Taking one course is like graduating from a micro-school, and in doing that, every course has an alumni network.
+* Built in status through exclusivity. Being a part of a (sometimes) restricted community creates a feeling of exclusivity. Completing the course and being a part of the alumni network carries social status too, just in the same way graduating from a university would. 
 
 In essence, moving to a default digital space in education means we're seeing a lot of the shared support structures around courses that a "school" would provide be available to every course itself. It's an interesting shift.
