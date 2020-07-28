@@ -54,8 +54,6 @@ GEM
     jekyll-github-metadata (2.12.1)
       jekyll (~> 3.4)
       octokit (~> 4.0, != 4.4.0)
-    jekyll-paginate-v2 (3.0.0)
-      jekyll (>= 3.0, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
@@ -64,7 +62,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.2.0)
+    json (2.3.1)
     kramdown (1.17.0)
     liquid (4.0.3)
     listen (3.2.0)
@@ -120,9 +118,9 @@ DEPENDENCIES
   html-proofer (~> 3.0)
   jekyll (>= 3.8.4)
   jekyll-feed
-  jekyll-paginate-v2
   jekyll-sitemap
   jekyll-theme-primer!
+  nokogiri (>= 1.10.8)
   rubocop (~> 0.50)
   w3c_validators (~> 1.3)
 
