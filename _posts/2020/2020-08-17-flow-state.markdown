@@ -12,7 +12,7 @@ This is the first post in months. I'm working on a bigger essay right now, but I
 [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) is a state of complete immersion in whatever activity someone is doing; often signalled by losing complete track of time. You know when it happens, but it _can_ be triggered. This article provides ten ways that contribute to flow state. 
 
 1. Eliminate all _external_ distractions: put your phone away, turn off notifications.
-2. Eliminate all mental (internal) distractions. This is tougher but meditation and journalling help to clear the mind. Also, don't try to enter flow state when stressed. 
+2. Eliminate internal distractions. This is tougher but meditation and journalling help to clear the mind. Most imporantly, don't try to enter flow state when stressed. 
 3. Work at your Biological Peak Time (BPT). Don't fight it if you naturally get fatigued at a certain time of day.
 4. Listen to the right kind of music. Repetitive, non-vocal music, that stretches for an extended period of time. 
 5. Work on one very specific task. Entering flow state with a list of things to do won't work. Pick a task. 
