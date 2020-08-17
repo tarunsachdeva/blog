@@ -7,9 +7,9 @@ categories: productivity
 draft: false
 ---
 
-This is the first post in months. I'm working on a bigger essay right now, but I've missed publishing on this space. This is a short post is about how to trigger Flow state, and is a summary of [this article](https://medium.com/personal-growth-lab/how-to-reach-flow-state-using-10-flow-state-triggers-473aa28dc3e5) by Jari Roomer.
+This is the first post in months. I'm working on a bigger essay right now, but I've missed publishing on this space. This is a short post is about how to trigger Flow state, and is a summary of [this article](https://medium.com/personal-growth-lab/how-to-reach-flow-state-using-10-flow-state-triggers-473aa28dc3e5) by Jari Roomer. This is especially relevant now, when people are working and learning in enviroments not initially created for productivity.
 
-[Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) is a state of complete immersion in whatever activity someone is doing; often signalled by losing complete track of time. You know when it happens, but it _can_ be triggered. This article provides ten ways that contribute to flow state.
+[Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) is a state of complete immersion in whatever activity someone is doing; often signalled by losing complete track of time. You know when it happens, but it _can_ be triggered. This article provides ten ways that contribute to flow state. 
 
 1. Eliminate all _external_ distractions: put your phone away, turn off notifications.
 2. Eliminate all mental (internal) distractions. This is tougher but meditation and journalling help to clear the mind. Also, don't try to enter flow state when stressed. 
