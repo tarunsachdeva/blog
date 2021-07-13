@@ -9,7 +9,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     ast (2.4.0)
     colorator (1.1.0)
@@ -54,8 +54,6 @@ GEM
     jekyll-github-metadata (2.12.1)
       jekyll (~> 3.4)
       octokit (~> 4.0, != 4.4.0)
-    jekyll-paginate-v2 (3.0.0)
-      jekyll (>= 3.0, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
@@ -82,7 +80,7 @@ GEM
       ast (~> 2.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (4.0.1)
+    public_suffix (4.0.6)
     rainbow (3.0.0)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
@@ -120,9 +118,9 @@ DEPENDENCIES
   html-proofer (~> 3.0)
   jekyll (>= 3.8.4)
   jekyll-feed
-  jekyll-paginate-v2
   jekyll-sitemap
   jekyll-theme-primer!
+  nokogiri (>= 1.10.8)
   rubocop (~> 0.50)
   w3c_validators (~> 1.3)
 
