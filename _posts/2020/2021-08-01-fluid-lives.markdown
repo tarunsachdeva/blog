@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On being back, and our new fluid lives"
+title:  "On Being Back, and Fluid Lives"
 comments: true
 date:   2021-08-01 12:00:00 -0500
 categories: general
