@@ -7,7 +7,7 @@ categories: general
 draft: false
 ---
 
-The last published post to this blog was in August 2020. Before then, I was writing daily for almost two years. The habit has to be rebuilt, starting with this short post - a short commentary on recent changes.  
+The last published post to this blog was in August 2020. Before then, I was writing daily for almost two years. The habit has to be rebuilt, starting with this short post. 
 
 The world is a different place. COVID is relentless and the vaccines are a miracle. Feels like everyone's lost someone to this virus. And yet, optimism is abundant. Especially if you're building software.
 
