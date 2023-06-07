@@ -5,6 +5,7 @@ comments: true
 date:   2020-01-13 12:00:00 -0500
 categories: general
 draft: false
+favorite: true
 ---
 
 In 2002-2003 as a young developer I spent a few internships at Amazon.com. I was strangely interested in the world of mobile apps, which at that time meant writing software for [Nokia Series 60 devices](https://en.wikipedia.org/wiki/S60_(software_platform)). Amazon had a small team called Amazon Anywhere, which reportedly was responsible for bringing Amazon "anywhere except the PC". This team was responsible for building an API layer around the core Amazon data (at that time it was product information). This API was then abstracted for external consumption and became the very first version of Amazon Web Services.

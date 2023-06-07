@@ -31,7 +31,27 @@ layout: default
 -->
 
   {%- if site.posts.size > 0 -%}
+    <!-- <div class="favorite-posts">
+      <h3>Top Posts</h3>
+      {%- for post in site.posts -%}
+        {%- if post.favorite -%}
+        <p>
+            {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+            <div class="post-meta f3-light text-small">{{ post.date | date: date_format }}</div>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+             {%- if site.show_excerpts -%}
+              {{ post.excerpt }}
+            {%- endif -%}
+          </p>
+        {%- endif -%}
+      {%- endfor -%}
+    </div> -->
+
     <div class="post-list">
+      <h3>All Posts</h3>
+
       {%- for post in site.posts -%}
         {%- unless post.draft -%}  
           <p>
