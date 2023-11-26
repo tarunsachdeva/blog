@@ -7,12 +7,12 @@ categories: general
 draft: false
 ---
 
-Generative AI is shifting how we interact with the tradition of storytelling. I worked at Wattpad for almost 8 years and we saw first hand how readers and writers created community around narratives and niches. AI completely changes the calculus for both consumers and creators in many ways. 
+I worked at Wattpad for almost 8 years and we saw first hand how readers and writers created community around narratives and niches. I can say with confidence that generative AI has changed the calculus. When _natively_ combined with the capabilities of generative AI, storytelling is going to be a different experience for creators and consumers.
 
-Let’s consider discovery and consumption. Finding a story is a process of discovery among millions of titles, made easier with machine learning. AI  makes it possible to craft the narrative we want on the fly. You can read the story you want rather than the one presented to you. 
+Let’s consider discovery and consumption - the 99% case. Finding a story today is a process of discovery among millions of titles, made easier with machine learning. AI makes it possible to craft the narrative we want on the fly. We go from finding a story to read from a limited set, to **creating the the story you want to read**.
 
-Fan interactions have transformed too. Instead of merely discussing stories with other fans, AI now lets us engage directly with the characters directly.  Its a brand new type of interaction not possible before. 
+Fan interactions have transformed too. Instead of merely discussing stories in fandoms, AI lets us also **talk directly with the characters** in a story. Its a brand new type of interaction not possible before.
 
-Creating stories has also seen a change. Writers once crafted tales for an audience to enjoy. With AI, creation is a collaborative process, inviting readers into the very heart of narrative creation, where they can influence the story's direction.
+The most exciting part is the creative experience. Today, writers craft tales for an audience to enjoy. With AI, they go from writing an individual storyline, to **creating an entire story world**, inviting readers to play and create their own narratives. This elevates their role as creators into _world-builders_. 
 
 There's a lot of talk about AI taking away from artists' control, but when you look at AI's role in storytelling, it's actually enhancing the creator's influence. By opening up new avenues for interaction and creativity, AI isn't replacing the artist; it's expanding what it means to create.
