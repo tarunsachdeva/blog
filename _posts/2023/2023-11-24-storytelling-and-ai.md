@@ -11,7 +11,7 @@ I worked at Wattpad for almost 8 years and we saw first hand how readers and wri
 
 Let’s consider discovery and consumption. Finding a story today is a process of discovery among millions of titles, made easier with machine learning. AI now makes it possible to craft a narrative we want on the fly. We will go from finding a stories from a finite set of possible options, to **creating the the story you want to read**. This will also necessitate brand new economic structures for content.
 
-Fan interactions will be transformed too. Instead of merely discussing stories within fandoms, AI will let us also **talk directly with the characters** in a story. Roleplay has been a part of fan communities for a while now, the abilities to talk to characters with depth and fidelity is someonthing brand new. It's a golden age for fandoms.
+Fan interactions will be transformed too. Instead of merely discussing stories within fandoms, AI will let us also **talk directly with the characters** in a story. One could argue this isn't _new_ - roleplay is an established mechanism of fan fiction. What's new is fans can "talk to characters" from their favorite fandom, in high fidelity, in depth, and on demand. It's a golden age for fandoms.
 
 The most exciting part is the creative experience. Today, writers craft tales for an audience to enjoy. With AI, they go from writing an individual storyline, to **creating an entire story world**, inviting readers to play and create their own narratives. This elevates their role as creators into _world-builders_. 
 
