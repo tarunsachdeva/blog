@@ -7,9 +7,9 @@ categories: general
 draft: false
 ---
 
-I worked at Wattpad for almost 8 years and saw first hand how communities formed around narratives and fandoms. Like many others, I've been observing and tinkering with generative AI over the past few months. I can say with confidence that AI will completely transform what it means to create and consume stories.
+I worked at Wattpad for almost 8 years and saw first hand how communities formed around narratives and fandoms. Like many others, I've been observing and tinkering with generative AI over the past few months. Even in its current form, its pretty clear AI will transform how we create and consume stories.
 
-Let’s consider discovery and consumption. Finding a story today is a process of discovery among millions of titles. This is a huge computing task, made easier with machine learning over years of development. AI now makes it possible to craft a narrative we want on the fly. We will go from finding a stories from a finite set of possible options, to **creating the the story you want to read**. This will also necessitate brand new economic structures for content.
+Let’s consider discovery and consumption. Finding media today is a process of discovery among millions of titles. This is made possible with machine learning on large amounts of user consumption data. AI now makes that discovery process almost unnecessary - you can craft a narrative _on the fly_. We can (and I predict _will_) go from finding stories from a finite (albeit large) catalog, to simply **reading / watching the the stories you want**. This changes the role of a consumer into a far more interactive role. This will also necessitate brand new economic structures for content.
 
 Fan interactions will be transformed too. Instead of merely discussing stories within fandoms, AI will let us also **interact directly with the characters** in a story. One could argue this isn't _new_ - roleplay is an established mechanism of fan fiction. What's new is fans can now "talk to characters" from their favorite fandoms, in high fidelity, in depth, and on demand. Infact, you don't even have to find a fandom - you can just go straight to the characters themselves!
 
