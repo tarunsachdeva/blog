@@ -21,7 +21,6 @@ But, this doesn't spell the end of original content. Quite the opposite. I think
 
 Fan interactions will be transformed too. Instead of merely discussing stories within fandoms, AI will let us also **interact directly with the characters** in a story. One could argue this isn't _new_ - roleplay is an established mechanism of fan fiction. What's new is fans can now "talk to characters" from their favorite fandoms, in high fidelity, in depth, and on demand. This again, is a net add to existing experiences. Fans have an insatiable apetite for participation. People will still talk to other fans, but character conversations are a net new mode of interaction.
 
-The most exciting part is the creative experience. There's a lot of talk about AI taking away from artists' control, but when you look at AI's role in storytelling, it's actually enhancing the creator's influence. By opening up new avenues for interaction and creativity, AI isn't replacing the artist; it's expanding what it means to create. 
+The most exciting part is the creative experience. There's a lot of talk about AI taking away from artists' control, but the reality is the opposite. Generative AI elevates the role of a creator. Instead of building a single storyline, **creators are now world builders**, inviting readers to play and create their own narratives. This is possible for every creator now, not just the JK Rowlings and GRRMs of the world. It really is changing what it means to be a creator.
 
-Today, writers craft tales for an audience to enjoy. With AI, they go from writing an individual storyline, to **creating an entire story world**, inviting readers to play and create their own narratives. This elevates their role as creators into _world-builders_. 
-
+It feels like we're at the dawn of a new age of interactive stories. What an exciting time for creators and consumers.
