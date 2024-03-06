@@ -4,6 +4,10 @@
 
 *Primer is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/primer), or even [use it today](#usage).*
 
+<a href="https://shipyard-demo.gitwallet.co/" target="_blank"><img src="https://shipyard-demo.gitwallet.co/api/tiers/clrl34k1r0000l208znt3xoa2" width="100%" /></a>
+
+
+
 ## Usage
 
 To use the Primer theme:
