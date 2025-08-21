@@ -3,4 +3,4 @@ layout: projects
 title: Playground
 ---
 
-This is a my playground. A collection of projects, often centered around learning what a new technology is capable of doing. I always try to build complete products to really test the end to end capabilities of a technology. The themes I come back to often are creativity, storytelling, education and productivity, and are mostly software projects, for now.
+This is my playground - a collection of software projects I'm always tinkering with. These projects are often centered around learning new open source libraries, developer and creative tools. I always try to build complete products to really test the end to end capabilities of a technology. The themes I come back to often are creativity, storytelling, education and productivity.
