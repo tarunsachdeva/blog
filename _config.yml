@@ -13,6 +13,11 @@ plugins:
   - jekyll-sitemap
 #  - jekyll-paginate
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 github:
   private: false
   license:

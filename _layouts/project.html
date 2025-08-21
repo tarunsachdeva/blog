@@ -1,0 +1,32 @@
+---
+layout: default
+---
+{%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+
+<div class="project-meta f3-light text-small mb-3">
+  {{ page.date | date: date_format }}
+</div>
+
+<h2>{{ page.title | escape }}</h2>
+
+{%- if page.description -%}
+  <p class="project-description text-muted mb-3">{{ page.description }}</p>
+{%- endif -%}
+
+{%- if page.cover_image -%}
+  <div class="project-cover-image mb-4">
+    <img src="{{ page.cover_image }}" alt="{{ page.title }}" class="img-fluid" style="max-width: 100%; height: auto; border-radius: 4px;">
+  </div>
+{%- endif -%}
+
+{%- if page.external_link -%}
+  <div class="project-link mb-4">
+    <a href="{{ page.external_link }}" target="_blank" class="btn btn-outline-primary">View Project →</a>
+  </div>
+{%- endif -%}
+
+<div class="project-content">
+  {{ content }}
+</div>
+
+<br/>

@@ -1,0 +1,76 @@
+---
+layout: default
+---
+<div class="projects-list">
+  {%- if page.title -%}
+    <h2 class="page-heading">{{ page.title }}</h2>
+  {%- endif -%}
+  
+  {{ content }}
+
+  {%- assign projects = site.projects | sort: 'date' | reverse -%}
+  {%- if projects.size > 0 -%}
+    <div class="projects-grid">
+      <div class="row">
+        {%- for project in projects -%}
+          <div class="col-md-6 col-sm-12 mb-4">
+            <div class="project-card h-100" style="border-radius: 6px; padding: 8px; display: flex; flex-direction: column;">
+              {%- if project.cover_image -%}
+                <div class="project-card-image border">
+                  <img src="{{ project.cover_image }}" alt="{{ project.title }}" class="img-fluid" style="width: 100%; object-fit: cover; border-radius: 4px;">
+                </div>
+              {%- endif -%}
+              
+              <div class="project-card-content flex-grow-1">
+                <p class="project-card-title">
+                  <a href="{{ project.external_link }}" class="text-decoration-none">
+                    {{ project.title | escape }}
+                  </a>
+                </h5>
+                
+                {%- if project.description -%}
+                  <p class="project-card-description text-muted">{{ project.description }}</p>
+                {%- endif -%}
+              </div>
+              
+              <div class="project-card-footer">
+                {%- if project.external_link -%}
+                  <a href="{{ project.external_link }}" target="_blank">View Project →</a>
+                {%- endif -%}
+              </div>
+            </div>
+          </div>
+        {%- endfor -%}
+      </div>
+    </div>
+  {%- endif -%}
+</div>
+
+<style>
+.project-card {
+  transition: box-shadow 0.15s ease-in-out;
+}
+
+.project-card:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.project-card-title a {
+  color: #0366d6;
+}
+
+.project-card-title a:hover {
+  color: #0366d6;
+  text-decoration: underline !important;
+}
+
+.project-card-description {
+  font-size: 0.875rem;
+}
+
+@media (max-width: 768px) {
+  .projects-grid .col-lg-4 {
+    margin-bottom: 1rem;
+  }
+}
+</style>
