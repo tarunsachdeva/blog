@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Playground
+title: Project Playground
 ---
 
-This is my playground - a collection of software projects I'm always tinkering with. These projects are often centered around learning new open source libraries, developer and creative tools. I always try to build complete products to really test the end to end capabilities of a technology. The themes I come back to often are creativity, storytelling, education and productivity.
+This is a collection of apps and games I've built and always tinkering with. These projects are often centered around learning new AI primitives, open source libraries, and creative tools. I always try to build complete products to really test the end to end capabilities of a technology. Common themes are creativity, storytelling, education and productivity.
